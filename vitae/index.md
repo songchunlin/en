@@ -3,229 +3,235 @@ layout: page
 title: Curriculumn Vitae
 ---
 
-# Yihui Xie
 
-## Contact Information
+#**Xingfeng Si** 
+[Chinese(中文简历)](http://xingfeng.si/chinese-cv "Chinese CV")     
+ [Download
+CV](http://xingfengsi.weebly.com/uploads/1/6/9/7/16973108/cv_english_xingfeng.pdf "Download CV")
 
-102 Snedecor Hall, Department of Statistics, Iowa State University, Ames, 50011, IA
-Email: xie@yihui.name; Homepage: <http://yihui.name/>
+- PhD Student 
+- Phone:＋86 571-88206467 
+- Email: xingfengsi at gmail.com
+- Website: www.xingfeng.si 
+- Address: 441A College of Life Sciences, Zhejiang Univ., Hangzhou, ZJ 310058, China           
 
-## Research Interest
+---
 
-Statistical computing and graphics / data visualization
+#Education
 
-## Education Background
+-   2008 -                  PhD Student            Ecology, Zhejiang
+    University, China                       Supervisor: [Prof. Ping
+    Ding](http://mypage.zju.edu.cn/personnelCard/pingding)
+-   2012 - 2013        Visiting Student      Ecology, Duke University,
+    USA                                Adviser: [Prof. Stuart
+    Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
+-   2004 - 2008        B. S.                          Biology, Zhejiang
+    Normal University, China         Supervisor: [Prof. Yixin
+    Bao](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
 
-- 2009 ~ 2013, PhD in Statistics, Department of Statistics, Iowa State University
-- 2006 ~ 2009, Master of Statistics, School of Statistics, Renmin University of China
-- 2002 ~ 2006, Bachelor of Economics, School of Statistics, Renmin University of China
+---
 
-## Honors & Awards
+#Postgraduate Training
 
-- [Snedecor Award](http://www.stat.iastate.edu/grad/finances/scholarships.html), 2012 (the most outstanding PhD candidate in the Department of Statistics, Iowa State University)
-- Honorable Mention Prize, Applications of R in Business [Competition](http://bit.ly/wP1Dii), 2012
-- [Vince Sposito](http://www.stat.iastate.edu/grad/finances/scholarships.html) Statistical Computing Award, 2011 (Department of Statistics, Iowa State University)
-- John M. Chambers Statistical Software [Award](http://stat-computing.org/awards/jmc/winners.html), ASA, 2009 (for the R package [animation](http://cran.r-project.org/package=animation))
-- Excellent graduate scholarship, Renmin University of China, 2007
-- Successful Participant, Mathematical Contest in Modeling (America), 2006 ([paper](https://github.com/downloads/yihui/yihui.github.com/MCM-2006-paper-Yihui-Xie.pdf); [certificate](http://i.imgur.com/c3soC.jpg "Certificate of Mathematical Contest in Modelling (America)"))
-- Excellent graduate of Renmin University of China, 2006
-- "Excellent Worker in Student Media" of Renmin University of China, 2006 (for hosting the website of statistics discussions in <http://cos.name>)
-- Scholarship for outstanding learning, Renmin University of China, 2005
+-   Metapopulation capacity (Mathematica *version 9*) – A 3-day course.
+    Gareth Russell (New Jersey Institute of Technology). Durham, NC USA.
+    2013
+-   Survival rate analyses of sooty tern – A 3-day course. Stuart Pimm
+    (Duke University). Dry Tortugas, FL USA. 2013
+-   Wildness First Aid – A 4-day course. Lloyd Figgins (EarthWatch
+    Institute). Gutianshan, Zhejiang China. 2010
+-   Spatial Analysis – A 7-day course. Pierre Legendre (Université de
+    Montréal). Beijing, China. 2009
+-   Linear Regression – A 6-day course. Pierre Legendre (Université de
+    Montréal). Beijing, China. 2009
+-   Statistical Training (R and CANOCO Programme) – A 5-day course.
+    Jiangshan Lai (Institute of Botany, Chinese Academic of Science),
+    Jinlong Zhang (Institute of Botany, Chinese Academic of Science),
+    Yanping Chen (Renmin University of China). Beijing, China. 2009
 
-## Publications
+---
 
-### In Chinese
+#Awards & Honors
 
-1. Yanyun Zhao, Nailin Feng, Yuncheng Zhao, Yihui Xie, Ning Xiao, 2008, Research on the National Quality Competitiveness of China, _Statistical Research_, 25(3), 12-19
-1. Yihui Xie, 2008. On the Applications of Statistical Graphics in Data Analysis, _Statistics Review_, Bo Zhang (ed)
-1. Yihui Xie, 2008. Bootstrap Methods: Developments and Frontiers, _Statistics & Information Forum_, 89, 90-96.
-1. Yihui Xie, 2007. The Application of the Classification and Regression Tree Based on the Package **rpart** in R, _Statistics & Information Forum_, 86, 67-70.
-1. Yihui Xie, 2007. Series in International Competitiveness: How Weak is the Financial System of China?, _China Statistics_, 7, 35.
-1. Yanyun Zhao, Yihui Xie, 2006. Unbalanced growth in top 100 industrial enterprises in China: market expanding outgoes business managing, _Talents_, 9, 84.
-1. Yanyun Zhao, Yihui Xie, 2005. Who is the champion of growth among top 1000 industrial enterprises in China: analysis on the capability of market expanding and aggregate efficiency, _Talents_, 9, 72-73.
+-   2013          Golden Awards of the 9^th^ Kingfisher Forum, China
+    Ornithological Society
+-   2012          State Scholarship Fund, China Scholarship Council
+-   2011          Merit Graduated Student in 2010-2011, Zhejiang
+    University
+-   2011          Honors of First-class Scholarship in 2010-2011,
+    Zhejiang University
+-   2011          Golden Awards of the 7^th^ Kingfisher Forum, China
+    Ornithological Society
+-   2009          Silver Awards of the 5^th^ Kingfisher Forum, China
+    Ornithological Society
+-   2008          Ten Outstanding Research and Training Students,
+    Zhejiang Normal University
+-   2005          Excellent Student Cadre in 2004-2005, Zhejiang Normal
+    University
+-   2005          Second-class Scholarship in 2004-2005, Zhejiang Normal
+    University
+-   2005          Excellent League Member in 2004, Zhejiang Normal
+    University
 
-Besides, I published several articles in the [Capital of Statistics](http://cos.name/) in Chinese.
+---
+#Research Interests
 
-### In English
+- **Breeding bird turnover in Thousand Island Lake, China** The Island
+Biogeography Theory of MacArthur & Wilson provides important insights
+into fragmentation because of the proposed similarity of island
+surrounded by water and habitat "islands" surrounded by other habitats
+inhospitable to the species involved. This theory proposes that the
+species' colonization rates to islands depend on their isolation, while
+local extinction rates depend on their area. The Thousand Island Lake in
+eastern China exactly has the landscape to test this theory. I examined
+the factors that determine the colonization and extinction of breeding
+birds on island using long-term counts of bird communities.
 
-1. Michael Donohue and Yihui Xie. _Reproducible Clinical Trial Reports with R_. Chapman and Hall/CRC. (under development)
-1. Yihui Xie (2014). knitr: [_A Comprehensive Tool for Reproducible Research in R_](http://www.crcpress.com/product/isbn/9781466561595). In Victoria Stodden, Friedrich Leisch and Roger D. Peng, editors, Implementing Reproducible Computational Research. Chapman and Hall/CRC. ISBN 978-1466561595
-1. Yihui Xie (2013). [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781482203530). Chapman and Hall/CRC. ISBN 978-1482203530
-1. Yihui Xie (2013). _animation: An R Package for Creating Animations and Demonstrating Statistical Methods_. Journal of Statistical Software, 53(1), 1-27. URL <http://www.jstatsoft.org/v53/i01/>
-1. Yihui Xie and Xiaoyue Cheng, 2008. _animation: A Package for Statistical Animations_, R News, 8(**2**). URL: <http://www.r-project.org/doc/Rnews/Rnews_2008-2.pdf>
-1. Yihui Xie, 2007. _Visualization of Data and Statistical Models Using R_, Proceedings of the 3rd Conference on Australia-China Free Trade Agreement (ACFTA): Econometric Modeling and Policy in Trade, Investment and Economic Integration ([paper](https://github.com/downloads/yihui/yihui.github.com/R-visualization-paper-2007-Yihui-Xie.pdf))
+- **Camera traps in Gutianshan Reserve, China** Camera trapping of
+wildlife, especially for some elusive and cryptic animals, had been
+practiced and become an available method to estimate the abundance of
+animals. I investigate the relationship between the population
+estimation and trapping rate that can be influenced by a variety of
+factors, such as species-specific behavior, species size and patterns of
+habitat use. Then I proposed a minimum trapping effort to ensure that we
+can detect the wildlife of interest effectively with limited time.
 
-## Professional Experience
+---
 
-I'm currently a software engineer at RStudio, Inc.
+#Research Projects
 
-### Internship
+-   Effects of food web and its composition on bird and plant
+    communities in subtropical fragmented habitats - a case study of
+    land-bridge islands in Thousand Island Lake. National Science
+    Foundation of China, 2013-2017. (No. 31210103908, Core Participant,
+    4/8)
+-   Dynamic and Stability of forest bird community in fragmented
+    habitats of Thousand Island Lake. National Science Foundation of
+    China, 2012-2015. (No. 31170397, Participant, 6/10)
+-   Sensitivity research on habitat fragmentation of birds and reptiles
+    in Thousand Island Lake. National Science Foundation of China,
+    2012-2014. (No. 31100394, Participant, 5/8)
+-   Biodiversity census in Baishanzu National Nature Reserve (Plants,
+    Mammals and Birds). Baishanzu National Nature Reserve, 2010-2012.
+    (Core Participant)
+-   The effects of habitat fragmentation on life history traits of birds
+    in Thousand Island Lake. National Science Foundation of China,
+    2009-2011. (Participant)
+-   Wild Animal Resource Census in Wuxijiang Wetland Park, Zhejiang.
+    Forestry Administration of Qujiang District, 2009-2010. (Core
+    Participant)
+-   Resource Monitoring Technology and Demonstration of Forest Bird
+    Species. Special Topic of National Key Technology R&D Program of
+    China, 2008-2011.  (No. 2008BAC39B02, Core Participant)
+-   Wildlife Resource Census in Hongshuang Nature Reserve, Rui'an.
+    Forestry Administration of Rui'an City, 2008. (Core Participant)
+-   The effects of habitat fragmentation on diversity and community
+    composition of birds in Thousand Island Lake. National Science
+    Foundation of China, 2007-2009. (Participant)
+-   Observation and Study of Reproductive Behavior of Rodents.
+    Laboratory Open Program of Zhejiang Normal University, 2006. (No.
+    KFXM-2006002, Project Director, 1/3)
 
-1. Summer 2012, [AT&T Labs Research](http://research.att.com), Florham, NJ (mentor: [Simon Urbanek](http://urbanek.info))
-1. Summer 2013, [Fred Hutchinson Cancer Research Center](http://www.fhcrc.org) (mentor: [Raphael Gottardo](http://www.rglab.org))
+----
 
-### Web Construction and Management
+#Publications  
+[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) 
 
-Sept 2003 - Present
 
-I have made and been maintaining web pages for:
+-   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of
+    breeding bird communities on land-bridge islands: testing MacArthur
+    and Wilson's theory. *under review*
+-   **Si, X.**, Kays, R. & Ding, P. How long is enough to detect
+    terrestrial animals? Estimate the minimum trapping effort on camera
+    traps. *under review*
+-   **Si, X.** *et al.* Partitioning functional beta diversity of bird
+    communities on islands of an inundated lake. *preparing.*
+-   Shen, G., Pimm, S. L., Feng, C., Ren, G., Liu, Y., Xu, W., Li,
+    J., **Si, X.**, Su, H. & Xie, Z. Climate change challenges the
+    static conservation strategy for the giant panda. *under review*.
+-   **Si, X.** & Ding, P. (2011) History, status of monitoring land
+    birds in Europe and American and countermeasures of
+    China. **Biodiversity Science**, 19: 303-310. (in Chinese with
+    English abstract).
+     **[Link](http://www.biodiversity-science.net/CN/10.3724/SP.J.1003.2011.08314) 
+    [PDF](http://wpdrive.qiniudn.com/paper_Si&Ding_BiodivSci_2011.pdf)**
+-   **Si, X.** & Ding, P. (2011) Minimum trapping effort of monitoring
+    ground-activity animals using camera traps: a case study in
+    Gutianshan National Nature Reserve, eastern China. Proceedings of
+    the 7^th^ National Conference on Wildlife Ecology and Conservation,
+    Jinhua, China. (in Chinese).
+     **[Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)**
+-   Zhang, L., Bao, Y., Li, H., **Si, X.** & Hu, S. (2008) The
+    functional groups and trophic levels of soil macro-fauna in
+    different vegetation type, Beishan Moutain, Jinhua. Proceedings of
+    the 8^th^ National Conference on Biodiversity Conservation and
+    Sustainable Utilization, Jinhua, China, pp. 257-267. (in Chinese
+    with English
+    abstract).  [**Link**](http://d.wanfangdata.com.cn/Conference_7820627.aspx)** 
+    [PDF](http://wpdrive.qiniudn.com/paper_Zhang_etal_2008.pdf)**
 
-- [The School of Statistics](http://stat.ruc.edu.cn/), Renmin University of China (Sept 2003 - Jun 2009)
-- [The Center for Applied Statistics](http://www.applstats.org/), Renmin University of China (Apr 2004 - Jun 2009)
-- The Center for Risk Management and Actuarial Studies (Jun 2004 - Apr 2006); Data Mining Center of Renmin University of China (Jul 2004 - Apr 2006), etc
-- The "Great Expectation Society", a student society in Renmin University (Mar 2005 - Jul 2006)
+---
 
-I have built and been hosting this web forum:
+#Presentations
 
-- "[Capital of Statistics](http://cos.name/)" for web discussion of statistics (both [Chinese](http://cos.name/) and [English](http://cos.name/en/)) (May 2006 - Present)
 
-I have been working in these web studios:
+-   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. (2013)
+    Determinants of colonization-extinction dynamics of breeding bird
+    communities on land-bridge islands. The 12^th^ China Ornithological
+    Congress and the 9^th^ Kingfisher Forum of Chinese Young
+    Ornithologists Workshop, Hangzhou, China.
+-   **Si, X.** & Ding, P. (2012) How long is enough to monitor
+    ground-dwelling animals? A case study of minimum trapping effort in
+    Gutianshan National Nature Reserve, eastern China. The 13^th^
+    Student Conference on Conservation Science, Cambridge, U.K. (poster)
+-   **Si, X.** & Ding, P. (2011) Minimum trapping effort of monitoring
+    ground-activity animals using camera traps: a case study in
+    Gutianshan National Nature Reserve. The 7^th^ Kingfisher Forum of
+    Chinese Young Ornithologists Workshop, Lanzhou, China.
+-   **Si, X.** & Ding, P. (2010) Monitoring ground-activity birds using
+    camera trapping in Gutianshan 24-ha plot. The 9^th^ National
+    Conference on Biodiversity Conservation and Sustainable Utilization,
+    Xiamen, China.
+-   **Si, X.** & Ping, D. (2010) Bird monitoring in Gutianshan 24-ha
+    plot: using spot mapping and infrared cameras. The 2010
+    International Symposium on Biodiversity Monitoring, Nanjing, China.
+-   **Si, X.**, Shen, G. & Ding, P. (2009) Basic results of monitoring
+    of bird community in Gutianshan 24-ha plot. The 3^th^ Straits
+    Symposium on Forest Dynamic Plots, Guangzhou, China.
+-   **Si, X.** & Ding, P. (2009) Bird community structures in Gutianshan
+    dynamic monitoring plot. The 5^th^ Kingfisher Forum of Chinese Young
+    Ornithologists Workshop, Harbin, China.
 
-- The English web studio of Renmin University of China (for the construction of English website of the university) (Sept 2006 - Jun 2009)
-- The web club of the School of Statistics (as the founder & leader) (Apr 2006 - 2008)
+---
+#Teaching Assistance Experience & Social Activities
 
-My own projects:
+-   2012.07.25-30                   Teaching assistant: Undergraduate
+    Summer Zoology Field Practice in Tianmushan Biosphere Reserve and
+    Thousand Island Lake, Zhejiang Province, China
+-   2010.07                              Teaching assistant:
+    Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere
+    Reserve, Zhejiang Province, China
+-   2009.07                              Teaching assistant:
+    Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere
+    Reserve, Zhejiang Province, China
+-   2006.09-2007.06              Deputy Director of the Secretariat of
+    Student Council, Chuyang Honors College, Zhejiang Normal University,
+    China
+---
+#Society Memberships
 
-- AniWiki: Animations in Statistics (<http://animation.yihui.name/>)
-- knitr: Elegant, flexible and fast dynamic report generation with R (<http://yihui.name/knitr>)
+-   Society for Conservation Biology
+-   China Ornithological Society
+-   Zhejiang Zoological Society
+-   Ecological Society of Zhejiang Province
 
-### Conferences Organization
+---
+#Language & Skills
 
-Feb 2005 - Present
-
-I organized
-
-- the 1st Chinese R [conference](http://cos.name/2008/12/1st-chinese-r-conference-summary/) (in Beijing), Dec 13~14, 2008
-
-and I helped organize these conferences:
-
-- the 3rd Chinese R [conference](http://cos.name/chinar/chinar-2010/) (Beijing), Jun 12~13, 2010
-- the 2nd Chinese R [conference](http://cos.name/chinar/chinar-2009/) (Beijing & Shanghai), December 2009
-- Second [Conference](http://www.merit.unu.edu/MEIDE/) on Micro Evidence on Innovation in Developing Economies, April 22 ~ 23, 2008 (an international conference; I was also the Chair for the last session on April 22)
-- 2nd [Conference](http://www.applstats.org/english/io/index.htm) on Australia-China Free Trade Agreement (ACFTA): Econometric Modeling and Policy in Trade, Investment and Economic Integration, April 17th ~ 18th, 2006
-- 15th International [Conference](http://stat.ruc.edu.cn/en/21940.html) on Input-Output Techniques, June 27th ~ July 1st, 2005
-- Data Mining and Business Intelligence Conference 2006
-- International Statistics [Forum](http://stat.ruc.edu.cn/en/22120.html) 2006
-
-### Statistical Consulting
-
-May 2005 - Present
-
-I offer statistical consulting by email and I have been answering questions in the [Capital of Statistics](http://cos.name/cn/) almost every day. I'm particularly interested in these topics:
-
-- data analysis and visualization
-- theoretical problems without measure theory
-- linear models, generalized linear models and nonlinear models
-- R packages that I maintain (other questions on R should go to R-help or StackOverflow)
-- statistics in other disciplines (e.g. biology) in which I can also learn something from you
-- real world data mining
-- simulation
-- teaching
-
-I will ignore any questions on Structural Equation Modeling (SEM) or factor analysis, as I do not believe their usefulness at all. I know little about time series and do not like econometrics.
-
-### Other Work Experience
-
-Sep 2004 - present
-
-Duties in Associations & Centers:
-
-- Data Sharing and Reproducibility Committee, American Statistical Association (2013)
-- Column editor of the [ICSA bulletin](http://icsa.org/bulletin/) for its R column (2012 - 2013)
-- Webmaster of the Center for Applied Statistics, Renmin University of China (2004 - 2009)
-- Vice-chairman of the "Great Expectation Society" (a student association, Apr 2005 - Jul 2006)
-
-Projects Participated:
-
-- Google Summer of Code [2012](http://www.google-melange.com/gsoc/project/google/gsoc2012/cloud_wei/16001): Dynamic report generation in the web with R (mentor)
-- Translation of [R for beginners](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) by Emmanuel Paradis (Co-operated with some colleagues to finish the translation) (Nov 2005 - Feb 2006);
-- Performance Evaluation of Taxation Management of _the China Customs_ (designed several R programs for sampling databases using R) (Sept 2006 - Jun 2009);
-- Important Projects in Social Science of _the Ministry of Education_: Research on the Industry Competitiveness of China (Apr 2007 - May 2007);
-- A research project on statistical quality control co-operated with _China National Research Institute of Food and Fermentation Industries, National Standardization Centre of Food & Fermentation Industry, P.R.C._; [R (D)COM](http://sunsite.univie.ac.at/rcom/) was used in developing programs (May 2007 - Jun 2009)
-- Cooperative project with the Office of 1% Population Sampling Survey of _the State Department_: Research on the National Population Competitiveness of China (Jun 2007 - Nov 2007, report finished)
-
-## Presentations & Lectures
-
-- Yihui Xie, 2013, _knitr for ninja_, a distance talk at the New York R Users Group ([slides](http://bit.ly/18SIMpu))
-- Yihui Xie, 2013, _A tour through knitr_, Raphael Gottardo's research lab, Fred Hutchinson Cancer Research Center, Seattle, WA ([slides](http://dl.dropbox.com/u/15335397/slides/FHCRC-rglab-2013-Yihui-Xie.html); [same talk given to the stats group](http://dl.dropbox.com/u/15335397/slides/FHCRC-VTN-2013-Yihui-Xie.html))
-- Yihui Xie, 2013, _An Introduction to knitr_, Bioconductor 2013, Seattle, WA ([slides](http://dl.dropbox.com/u/15335397/slides/BioC-2013-Yihui-Xie.html), [R Markdown](http://dl.dropbox.com/u/15335397/slides/BioC-2013-Yihui-Xie.Rpres))
-- Yihui Xie, 2013, _The Development of R in China, and One Sentence Summaries of My R Projects_, Revolution Analytics, Seattle, WA ([slides](https://bitbucket.org/stat/www/downloads/2013-RevoR-Yihui-Xie.pdf))
-- Yihui Xie, 2013, _Doing Reproducible Research Unconsciously: Higher Standard But Less Work_, The 36th annual Midwest Biopharmaceutical Statistics Workshop, Muncie, IN ([slides](http://dl.dropbox.com/u/15335397/slides/knitr-MBSW-Yihui-Xie-2013.html))
-- Yihui Xie, 2013, _Lessons Learned in Developing R Packages_, The 6th Chinese R Conference, Beijing ([slides](http://dl.dropboxusercontent.com/u/15335397/slides/ChinaR-2013-Yihui-Xie.html))
-- Yihui Xie, 2013, _knitr: A General-purpose Tool for Dynamic Report Generation in R_, [ENAR](http://enar.org) 2013, Orlando, FL ([slides](http://dl.dropbox.com/u/15335397/slides/knitr-ENAR-Yihui-Xie-2013.html))
-- Yihui Xie, 2013, _Reproducible Research on the Web: From Homework, Blogging to Open Journals_, SIAM [CSE13](http://www.siam.org/meetings/cse13/), Boston, MA ([slides](http://dl.dropbox.com/u/15335397/slides/2013-SIAM-CSE13-Yihui-Xie.html))
-- Yihui Xie, 2012, _knitr: Starting From Reproducible Homework_, Workshop on Reproducibility in Computational and Experimental Mathematics, [ICERM](http://icerm.brown.edu/tw12-5-rcem), Brown University, Providence, RI ([slides](https://bitbucket.org/stat/www/downloads/ICERMRR-Yihui-Xie-2012.pdf))
-- Yihui Xie, 2012, _Can You Reproduce Your Homework?_, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD ([slides](http://yihui.name/slides/2012-reproduce-homework.html))
-- Yihui Xie, 2012, _I web, therefore I am_, ISU Computing Working Group ([slides](http://yihui.name/slides/2012-stats-web.html))
-- Yihui Xie, 2012, _Dynamic Report Generation and Interactive Graphics on the Web_, End of Summer talk at AT&T Labs as a summer intern, Florham Park, NJ
-- Yihui Xie, 2012, _cranvas: A New Package for Interactive Statistical Graphics in R_, Joint Statistical Meetings at San Diego, CA
-- Yihui Xie, 2012, _cranvas: Interactive statistical graphics in R based on Qt_, [useR! 2012](http://biostat.mc.vanderbilt.edu/wiki/Main/UseR-2012), Nashville, TN ([R code](http://yihui.name/slides/2012-useR-cranvas-demo.R))
-- [Yihui Xie](http://i.imgur.com/cs0lG.jpg) and JJ Allaire, 2012, _New Tools for Reproducible Research with R_ ([slides](http://yihui.name/slides/2012-knitr-RStudio.html))
-    - 05/30 Iowa State University
-    - 05/30 Minneapolis UseR Group
-    - 06/05 New York UseR Group
-    - 06/14 [invited talk](http://i.imgur.com/GPFxG.jpg) at the 8th International useR! Conference
-- Yihui Xie, 2012, _Go social coding! Make open source more open!_, lightning talk at useR! 2012 ([slides](https://github.com/downloads/yihui/yihui.github.com/social-coding-Yihui-Xie-2012.pdf))
-- Yihui Xie, 2012, _cranvas: Building from Plumbing and Painting_, [Interface 2012](http://www.interfacesymposia.org/Interface2012/Interface2012.html), Houston TX ([slides](https://github.com/downloads/yihui/yihui.github.com/cranvas-Houston-2012.pdf))
-- Yihui Xie, 2012, _Generating beautiful statistical reports quickly and faithfully_, ISU Graphics Working Group ([slides](https://github.com/downloads/yihui/yihui.github.com/knitr-ISU-2012-Yihui-Xie.pdf))
-- Yihui Xie, 2011, _How I See Bootstrap, Tests and KDE_, Stat546 presentation at ISU ([slides](http://yihui.name/slides/2011-nonparametric.html))
-- Yihui Xie, 2011, _An Introduction to R_, tutorial workshops in the Econ department of ISU ([slides](http://yihui.name/slides/2011-r-intro-econ.html))
-- Yihui Xie, 2011, _Lessons Learned in Developing R Packages_, ISU Computational Statistics working group ([slides](http://yihui.name/slides/2011-r-dev-lessons.html))
-- Yihui Xie, 2011, _`cranvas`: Interactive Statistical Graphics in R via Qt_, AT&T Research Labs, New Jersey ([slides](https://github.com/downloads/yihui/yihui.github.com/cranvas-ATT-2011-Yihui-Xie.pdf))
-- Yihui Xie, 2011, _Interactive Parallel Coordinates Plot Based on Qt_, Joint Statistical Meetings at Miami Beach, Florida ([slides](https://github.com/downloads/yihui/yihui.github.com/cranvas-JSM-2011-Yihui-Xie.pdf))
-- Yihui Xie, 2011, _New Features and Enhancements of the `animation` Package_, ISU Graphics Working Group ([slides](https://github.com/downloads/yihui/yihui.github.com/animation-2011-Yihui-Xie.pdf))
-- Yihui Xie, 2010, _LaTeX and Sweave without Tears_, ISU Graphics Working Group ([slides](https://github.com/downloads/yihui/yihui.github.com/LaTeX-Sweave-2011-Yihui-Xie.pdf))
-- Yihui Xie, 2010, _Creating Animations with R_, the useR! 2010 conference at NIST, Gaithersburg, MD ([slides](https://github.com/downloads/yihui/yihui.github.com/animation-useR2010-Yihui-Xie.pdf); [R code](https://gist.github.com/2166508))
-- Yihui Xie, 2010, _Creating GUI with the gWidgets package_, the 3rd Chinese R conference, Beijing ([slides in Chinese](https://github.com/downloads/yihui/yihui.github.com/ChinaR-gWidgets-2010-Yihui-Xie.pdf); [R code](https://gist.github.com/1756480))
-- Yihui Xie, 2010, _Modern Statistical Graphics_, tutorial lecture on the 3rd Chinese R conference, Beijing ([slides in Chinese](https://github.com/downloads/yihui/yihui.github.com/ChinaR-MSG-2010-Yihui-Xie.pdf))
-- Yihui Xie, 2009, _Creating R Packages_, Working Group in Statistical Computing and Computationally-intensive Statistical Methods, Department of Statistics, ISU ([slides](https://github.com/downloads/yihui/yihui.github.com/Creating-R-packages-2009-Yihui-Xie.pdf); [C code](https://gist.github.com/1756465))
-- Yihui Xie, 2009, _R in Stat500: Demonstration, Computing, and Graphics (with An Introduction to the R Package ISU.Stat500)_, RTG Seminar, Department of Statistics, ISU ([slides](https://github.com/downloads/yihui/yihui.github.com/ISU-Stat500-2009-Yihui-Xie.pdf))
-- Yihui Xie, 2009, _Turning Statistical Ideas into Animations_, VIGRE Graphics Seminar, Department of Statistics, ISU ([slides](https://github.com/downloads/yihui/yihui.github.com/animation-2009-Yihui-Xie.pdf); [R code](https://github.com/downloads/yihui/yihui.github.com/animation-2009-Yihui-Xie.tar.gz))
-- Yihui Xie, 2009, _Reproducible Research and An Introduction to LaTeX, R and Sweave_, a report for PhD students in the School of Statistics, RUC ([slides in Chinese](https://github.com/downloads/yihui/yihui.github.com/Sweave-2008-Yihui-Xie.pdf))
-- [Yihui Xie](http://i.imgur.com/SDtSv.jpg), 2008, (1) _The History of R Language and Current Developments_ ([slides](https://github.com/downloads/yihui/yihui.github.com/R-History-2008-Yihui-Xie.ppt)) (2) _animation: An R Package for Statistical Animations with Applications in Teaching and Data Analysis_ ([slides](https://github.com/downloads/yihui/yihui.github.com/ChinaR-animations-2008-Yihui-Xie.ppt)) (3) _Explore Irregular Data with R_ ([slides](https://github.com/downloads/yihui/yihui.github.com/Irregular-Data-2008-Yihui-Xie.ppt), [R code](https://gist.github.com/1756790#file_china_r_conference_intro_2008_yihui_xie.r)), [the 1st Chinese R Conference](http://cos.name/2008/12/1st-chinese-r-conference-summary/), Beijing, 2008.12.13~14 ([introduction to the conference](https://github.com/downloads/yihui/yihui.github.com/ChinaR-Conference-Intro-2008-Yihui-Xie.pdf), [R code](https://gist.github.com/1756790#file_irregular_data_2008_yihui_xie.r))
-- [Yihui Xie](http://i.imgur.com/4PXVg.jpg), 2008, _Tutorial Lectures on R Basics_, a four-day tutorial lecture series given at the Institute of Botany, Chinese Academy of Sciences (slides in Chinese: [1](https://github.com/downloads/yihui/yihui.github.com/CAS-R-tutorial1-2008-Yihui-Xie.pdf), [2](https://github.com/downloads/yihui/yihui.github.com/CAS-R-tutorial2-2008-Yihui-Xie.pdf), [3](https://github.com/downloads/yihui/yihui.github.com/CAS-R-tutorial3-2008-Yihui-Xie.pdf), [4](https://github.com/downloads/yihui/yihui.github.com/CAS-R-tutorial4-2008-Yihui-Xie.pdf))
-- Yihui Xie, 2008, _See? (escaping the math world via animations...)_, a talk in the School of Statistics, Renmin University of China ([slides](https://github.com/downloads/yihui/yihui.github.com/animation-RUC-2008-Yihui-Xie.pps))
-- [Yihui Xie](http://i.imgur.com/Kujko.jpg), 2008, _Statistical Animations Using R_, [useR! 2008](http://www.statistik.uni-dortmund.de/useR-2008/) in Dortmund ([abstract](http://www.statistik.uni-dortmund.de/useR-2008/abstracts/Xie.pdf); [slides](https://github.com/downloads/yihui/yihui.github.com/animation-useR-2008-Yihui-Xie.ppt); [slides in PDF](http://www.statistik.uni-dortmund.de/useR-2008/slides/Xie.pdf))
-- [Yihui Xie](http://i.imgur.com/OVrlv.jpg), 2008, _Computer Animations for Demonstrating Statistical Procedures: Methods and Implementations_, a talk at the workshop "Statistical Graphics: Data and Information Visualization in Today’s Multimedia Society [(Data Viz VI)](http://www.jacobs-university.de/schools/shss/awilhelm/)" in Jacobs University, Bremen, Germany ([slides](https://github.com/downloads/yihui/yihui.github.com/animation-DataViz-2008-Yihui-Xie.pdf))
-- [Yihui Xie](http://i.imgur.com/1Sj0J.jpg), 2008, _The Influence of Population Quality Competitiveness to Regional Innovation: the China Case_, a presentation at the 2nd MEIDE [conference](http://www.merit.unu.edu/MEIDE/) ([slides](https://github.com/downloads/yihui/yihui.github.com/MEIDE-2008-Yihui-Xie.pdf))
-- Yihui Xie, 2008, _A Training Course on EViews and Examples in Macroeconomic Statistics_, a lecture in the National Development and Reform Commission (NDRC) of People's Republic of China ([slides in Chinese](https://github.com/downloads/yihui/yihui.github.com/Intro-EViews-2008-Yihui-Xie.pdf))
-- [Yihui Xie](http://i.imgur.com/hf7Gl.jpg), 2007, _[Animation](http://cran.r-project.org/web/packages/animation/index.html) in Statistics: Dynamic Graphics for Statistical Models and Practical Applications_, an invited talk in the 2nd postgraduate forum on statistics for universities in Beijing ([slides](https://github.com/downloads/yihui/yihui.github.com/2nd-Stat-Forum-2007-Yihui-Xie.pdf))
-- Yihui Xie, 2007, _Classification Tree Ensembles with Applications to the Prognostic Analysis of Cerebral Infarction_, a report in "The Seminar for the Statistical Methods in Clinical Research" held in Renmin University of China ([slides in Chinese ](https://github.com/downloads/yihui/yihui.github.com/Medicine-2007-Yihui-Xie.pdf))
-- [Yihui Xie](http://i.imgur.com/BE3yw.jpg), 2007, _Jokes in Statistics_, an invited lecture in the Capital University of Economics and Business ([slides](https://github.com/downloads/yihui/yihui.github.com/Jokes-2007-Yihui-Xie.pdf))
-- Yihui Xie, 2007, _A Leisure Look on Some Tools for Statistics_, an invited lecture in the Capital University of Economics and Business ([slides in Chinese](https://github.com/downloads/yihui/yihui.github.com/Stat-tools-2007-Yihui-Xie.pdf); [R code](https://gist.github.com/1756901))
-- Yihui Xie, 2007, _Bootstrap Methods: A Review_, a report in the class of "Frontiers in Statistics" ([slides](https://github.com/downloads/yihui/yihui.github.com/Bootstrap-2007-Yihui-Xie.pdf))
-- Yihui Xie, 2007, _An Introduction to Support Vector Machine and Implementation in R_, an article for a presentation of the class "Data Mining and Machine Learning" ([slides](https://github.com/downloads/yihui/yihui.github.com/SVM-2007-Yihui-Xie.pdf))
-- Yihui Xie, 2007, _A Framework for Statistical Programming and An Introduction to Basic Statistical Analysis Using R_, a lecture given to the members of the "Capital of Statistics" ([slides in Chinese](https://github.com/downloads/yihui/yihui.github.com/R-Programming-2007-Yihui-Xie.pdf))
-- Yihui Xie, 2007, _A Brief Introduction to Java_, a lecture in the School of Statistics ([slides](https://github.com/downloads/yihui/yihui.github.com/Java-2007-Yihui-Xie.pdf))
-- Yihui Xie, 2007, _A Guide to Stata_, a lecture in People's Bank of China ([slides in Chinese](https://github.com/downloads/yihui/yihui.github.com/Stata-2007-Yihui-Xie.pdf))
-- [Yihui Xie](http://i.imgur.com/lB9hL.jpg), 2007, _Visualization of Data and Statistical Models Using R_, 3rd Conference on Australia-China Free Trade Agreement (ACFTA): Econometric Modeling and Policy in Trade, Investment and Economic Integration ([paper](https://github.com/downloads/yihui/yihui.github.com/R-visualization-paper-2007-Yihui-Xie.pdf); [slides](https://github.com/downloads/yihui/yihui.github.com/R-visualization-2007-Yihui-Xie.pdf))
-- Yihui Xie, 2006, _Thoughts of Statistics_, an invited talk in the 1st postgraduate forum on statistics for universities in Beijing ([slides](https://github.com/downloads/yihui/yihui.github.com/Thoughts-2006-Yihui-Xie.pdf))
-- Yihui Xie, 2006, _Typesetting and LATEX_, a lecture in the School of Statistics ([slides](https://github.com/downloads/yihui/yihui.github.com/LaTeX-2006-Yihui-Xie.pdf))
-- Yihui Xie, 2006, _Statistical Programming & R Basics_, a lecture in the School of Statistics ([slides](https://github.com/downloads/yihui/yihui.github.com/R-Programming-2006-Yihui-Xie.pdf))
-- Yihui Xie, 2006, _An Introduction to Structural Equation Modeling_, A small seminar on SEM in Renmin University ([slides](https://github.com/downloads/yihui/yihui.github.com/SEM-2006-Yihui-Xie.pdf))
-- Yanyun Zhao, Guirong Li, Xuanxuan Chen, [Yihui Xie](http://i.imgur.com/0ZURF.jpg), 2006, _The Industrial Structure and Foreign Investment Introduction Policy in Shanghai and Its Adjacency_, 2nd [Conference](http://stat.ruc.edu.cn/en/22077.html) on Australia-China Free Trade Agreement (ACFTA): Econometric Modeling and Policy in Trade, Investment and Economic Integration ([slides](https://github.com/downloads/yihui/yihui.github.com/ACFTA-2006-Yihui-Xie.pdf))
-
-## Computer Skills
-
-I like playing with computer tools for building web pages and statistical computation & graphics. I improve the efficiency of my work with the aid of programming (i.e. work hard to be lazy).
-
-- Statistical Packages: [R](http://www.r-project.org/), OpenBUGS (<del>S-Plus, SPSS, Eviews, SAS, MatLab, STATA, AMOS and LISREL</del>)
-- Languages: R, HTML, JavaScript, PHP, SQL (<del>Visual Basic, VBA, VBScript, ASP, Java, C</del>)
-- Applications: LaTeX, [LyX](http://www.lyx.org), databases (e.g. MySQL), SVN and GIT
-- Operating Systems: 97.5% GNU Linux ([Ubuntu](http://www.ubuntu.com/)); 2.5% Windows
-
-Listed above are what I'm very familiar with, and the ones being crossed out are due to my brain stack overflow and I do garbage collection in my brain once in a while. Occasionally I also use other tools like [jStat](http://www.jstat.org/) and [D3](http://mbostock.github.com/d3/). I'm insterested in learning Python. If I have more time to kill, I will definitely learn [http://processingjs.org/](Processing.js).
-
-## Software Packages
-
-I support open source software and below is a list of my contributions to the open source community:
-
-- Wordpress plugin [UTF-8 DB Converter](http://wordpress.org/extend/plugins/utf-8-db-converter/) (June 2009)
-- Dokuwiki plugin [animation](http://www.dokuwiki.org/plugin:animation) to insert animations into wiki pages; written in PHP and JavaScript (Jun 2008)
-- R package [animation](http://cran.r-project.org/package=animation) which provides several animation demonstrations for statistical theories and data analysis (Nov 2007 - Present)
-- R package [knitr](http://cran.r-project.org/package=knitr) as an alternative to Sweave for dynamic report generation
-- R package [testit](https://github.com/yihui/testit) for testing R packages
-- R packages [formatR](http://cran.r-project.org/package=formatR), [Rd2roxygen](http://cran.r-project.org/package=Rd2roxygen), [R2SWF](http://cran.r-project.org/package=R2SWF), [MSG](http://cran.r-project.org/package=MSG), [iBUGS](http://cran.r-project.org/package=iBUGS), [fun](http://cran.r-project.org/package=fun), ...
-- R package [cranvas](https://github.com/ggobi/cranvas/) as the next generation of [GGobi](http://www.ggobi.org) for interactive statistical graphics
-- the Sweave and knitr modules in LyX
+-   Mandarin Chinese (native fluent)
+-   English (fluent reading, competent in conversation)
+-   Good at R, MS Office, OS X iWork, WordPress & Photoshop
+-   Beginner in Mathematica, CANOCO, WinBUGS & PHP
+-   Full Marathon: 4h51min
+-   Wildness First Aid: Level 2
 
