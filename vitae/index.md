@@ -48,16 +48,16 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ## Awards & Honors
 
--   2013     Golden Awards of the 9^th^ Kingfisher Forum, China
+-   2013     Golden Awards of the 9<sup>th</sup> Kingfisher Forum, China
     Ornithological Society
 -   2012     State Scholarship Fund, China Scholarship Council
 -   2011     Merit Graduated Student in 2010-2011, Zhejiang
     University
 -   2011     Honors of First-class Scholarship in 2010-2011,
     Zhejiang University
--   2011     Golden Awards of the 7^th^ Kingfisher Forum, China
+-   2011     Golden Awards of the 7<sup>th</sup> Kingfisher Forum, China
     Ornithological Society
--   2009     Silver Awards of the 5^th^ Kingfisher Forum, China
+-   2009     Silver Awards of the 5<sup>th</sup> Kingfisher Forum, China
     Ornithological Society
 -   2008     Ten Outstanding Research and Training Students,
     Zhejiang Normal University
@@ -158,13 +158,13 @@ can detect the wildlife of interest effectively with limited time.
 -   **Si, X.** & Ding, P. (2011) Minimum trapping effort of monitoring
     ground-activity animals using camera traps: a case study in
     Gutianshan National Nature Reserve, eastern China. Proceedings of
-    the 7^th^ National Conference on Wildlife Ecology and Conservation,
+    the 7<sup>th</sup> National Conference on Wildlife Ecology and Conservation,
     Jinhua, China. (in Chinese).
      **[Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)**
 -   Zhang, L., Bao, Y., Li, H., **Si, X.** & Hu, S. (2008) The
     functional groups and trophic levels of soil macro-fauna in
     different vegetation type, Beishan Moutain, Jinhua. Proceedings of
-    the 8^th^ National Conference on Biodiversity Conservation and
+    the 8<sup>th</sup> National Conference on Biodiversity Conservation and
     Sustainable Utilization, Jinhua, China, pp. 257-267. (in Chinese
     with English
     abstract).  [**Link**](http://d.wanfangdata.com.cn/Conference_7820627.aspx)** 
@@ -177,29 +177,29 @@ can detect the wildlife of interest effectively with limited time.
 
 -   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. (2013)
     Determinants of colonization-extinction dynamics of breeding bird
-    communities on land-bridge islands. The 12^th^ China Ornithological
-    Congress and the 9^th^ Kingfisher Forum of Chinese Young
+    communities on land-bridge islands. The 12<sup>th</sup> China Ornithological
+    Congress and the 9<sup>th</sup> Kingfisher Forum of Chinese Young
     Ornithologists Workshop, Hangzhou, China.
 -   **Si, X.** & Ding, P. (2012) How long is enough to monitor
     ground-dwelling animals? A case study of minimum trapping effort in
-    Gutianshan National Nature Reserve, eastern China. The 13^th^
+    Gutianshan National Nature Reserve, eastern China. The 13<sup>th</sup>
     Student Conference on Conservation Science, Cambridge, U.K. (poster)
 -   **Si, X.** & Ding, P. (2011) Minimum trapping effort of monitoring
     ground-activity animals using camera traps: a case study in
-    Gutianshan National Nature Reserve. The 7^th^ Kingfisher Forum of
+    Gutianshan National Nature Reserve. The 7<sup>th</sup> Kingfisher Forum of
     Chinese Young Ornithologists Workshop, Lanzhou, China.
 -   **Si, X.** & Ding, P. (2010) Monitoring ground-activity birds using
-    camera trapping in Gutianshan 24-ha plot. The 9^th^ National
+    camera trapping in Gutianshan 24-ha plot. The 9<sup>th</sup> National
     Conference on Biodiversity Conservation and Sustainable Utilization,
     Xiamen, China.
 -   **Si, X.** & Ping, D. (2010) Bird monitoring in Gutianshan 24-ha
     plot: using spot mapping and infrared cameras. The 2010
     International Symposium on Biodiversity Monitoring, Nanjing, China.
 -   **Si, X.**, Shen, G. & Ding, P. (2009) Basic results of monitoring
-    of bird community in Gutianshan 24-ha plot. The 3^th^ Straits
+    of bird community in Gutianshan 24-ha plot. The 3<sup>th</sup> Straits
     Symposium on Forest Dynamic Plots, Guangzhou, China.
 -   **Si, X.** & Ding, P. (2009) Bird community structures in Gutianshan
-    dynamic monitoring plot. The 5^th^ Kingfisher Forum of Chinese Young
+    dynamic monitoring plot. The 5<sup>th</sup> Kingfisher Forum of Chinese Young
     Ornithologists Workshop, Harbin, China.
 
 ---
