@@ -1,5 +1,5 @@
 ---
-title: The Nest of a Birder: Researches & Life
+title: Statistics, R, Graphics and Fun
 layout: page
 ---
 
