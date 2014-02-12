@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV (Xingfeng Si)
+title: Curriculum Vitae (Xingfeng Si)
 ---
 
 
@@ -17,58 +17,55 @@ title: CV (Xingfeng Si)
 
 ## Education
 
--   2008 -          PhD Student           Ecology, Zhejiang
-    University, China                       Supervisor: [Prof. Ping
+-   2008 -          PhD Student    Ecology, Zhejiang
+    University, China    Supervisor: [Prof. Ping
     Ding](http://mypage.zju.edu.cn/personnelCard/pingding)
--   2012 - 2013 Visiting Student      Ecology, Duke University,
-    USA                                Adviser: [Prof. Stuart
+-   2012 - 2013 Visiting Student    Ecology, Duke University,
+    USA    Adviser: [Prof. Stuart
     Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
--   2004 - 2008  B. S.                       Biology, Zhejiang
-    Normal University, China         Supervisor: [Prof. Yixin
+-   2004 - 2008  B. S.    Biology, Zhejiang
+    Normal University, China    Supervisor: [Prof. Yixin
     Bao](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
 
 ---
 
 ## Postgraduate Training
 
--   Metapopulation capacity (Mathematica *version 9*) – A 3-day course.
-    Gareth Russell (New Jersey Institute of Technology). Durham, NC USA.
-    2013
--   Survival rate analyses of sooty tern – A 3-day course. Stuart Pimm
-    (Duke University). Dry Tortugas, FL USA. 2013
--   Wildness First Aid – A 4-day course. Lloyd Figgins (EarthWatch
-    Institute). Gutianshan, Zhejiang China. 2010
--   Spatial Analysis – A 7-day course. Pierre Legendre (Université de
-    Montréal). Beijing, China. 2009
--   Linear Regression – A 6-day course. Pierre Legendre (Université de
-    Montréal). Beijing, China. 2009
--   Statistical Training (R and CANOCO Programme) – A 5-day course.
+-   2013     Metapopulation capacity (Mathematica *version 9*) – A 3-day course. Gareth Russell (New Jersey Institute of Technology). Durham, NC USA.
+-   2013     Survival rate analyses of sooty tern – A 3-day course. Stuart Pimm
+    (Duke University). Dry Tortugas, FL USA.
+-   2010      Wildness First Aid – A 4-day course. Lloyd Figgins (EarthWatch Institute). Gutianshan, Zhejiang China. 
+-   2009     Spatial Analysis – A 7-day course. Pierre Legendre (Université de
+    Montréal). Beijing, China. 
+-   2009     Linear Regression – A 6-day course. Pierre Legendre (Université de
+    Montréal). Beijing, China. 
+-   2009     Statistical Training (R and CANOCO Programme) – A 5-day course.
     Jiangshan Lai (Institute of Botany, Chinese Academic of Science),
     Jinlong Zhang (Institute of Botany, Chinese Academic of Science),
-    Yanping Chen (Renmin University of China). Beijing, China. 2009
+    Yanping Chen (Renmin University of China). Beijing, China. 
 
 ---
 
 ## Awards & Honors
 
--   2013          Golden Awards of the 9^th^ Kingfisher Forum, China
+-   2013     Golden Awards of the 9^th^ Kingfisher Forum, China
     Ornithological Society
--   2012          State Scholarship Fund, China Scholarship Council
--   2011          Merit Graduated Student in 2010-2011, Zhejiang
+-   2012     State Scholarship Fund, China Scholarship Council
+-   2011     Merit Graduated Student in 2010-2011, Zhejiang
     University
--   2011          Honors of First-class Scholarship in 2010-2011,
+-   2011     Honors of First-class Scholarship in 2010-2011,
     Zhejiang University
--   2011          Golden Awards of the 7^th^ Kingfisher Forum, China
+-   2011     Golden Awards of the 7^th^ Kingfisher Forum, China
     Ornithological Society
--   2009          Silver Awards of the 5^th^ Kingfisher Forum, China
+-   2009     Silver Awards of the 5^th^ Kingfisher Forum, China
     Ornithological Society
--   2008          Ten Outstanding Research and Training Students,
+-   2008     Ten Outstanding Research and Training Students,
     Zhejiang Normal University
--   2005          Excellent Student Cadre in 2004-2005, Zhejiang Normal
+-   2005     Excellent Student Cadre in 2004-2005, Zhejiang Normal
     University
--   2005          Second-class Scholarship in 2004-2005, Zhejiang Normal
+-   2005     Second-class Scholarship in 2004-2005, Zhejiang Normal
     University
--   2005          Excellent League Member in 2004, Zhejiang Normal
+-   2005     Excellent League Member in 2004, Zhejiang Normal
     University
 
 ---
