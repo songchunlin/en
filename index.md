@@ -1,5 +1,5 @@
 ---
-title: The Nest of a Birder
+title: Birder Nest
 layout: page
 ---
 
