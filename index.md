@@ -1,5 +1,5 @@
 ---
-title: The Nest of a Birder: Researches &amp; Life
+title: The Nest of a Birder: Researches and Life
 layout: page
 ---
 
