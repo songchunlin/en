@@ -2,9 +2,7 @@
 layout: page
 title: CV (Xingfeng Si)
 ---
-[Download Full CV](http://xingfengsi.weebly.com/uploads/1/6/9/7/16973108/cv_english_xingfeng.pdf "Download CV")
 
----
 
 ## Basic Information
 
@@ -243,4 +241,8 @@ can detect the wildlife of interest effectively with limited time.
 -   Beginner in Mathematica, CANOCO, WinBUGS & PHP
 -   Full Marathon: 4h51min
 -   Wildness First Aid: Level 2
+
+---
+
+### [Download Full CV](http://wpdrive.qiniudn.com/cv_en.pdf "Download Full CV")
 
