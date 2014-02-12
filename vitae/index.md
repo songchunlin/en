@@ -4,10 +4,9 @@ title: Curriculum Vitae (Xingfeng Si)
 ---
 
 
-## Basic Information
+## Contact Information
 
 
-- Position: PhD Student 
 - Phone:＋86 571-88206467 
 - Email: [xingfengsi \[at\] gmail \[dot\] com](mailto:xingfengsi@gmail.com)
 - Website: [www.sixf.org](http://sixf.org) 
