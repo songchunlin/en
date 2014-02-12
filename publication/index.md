@@ -25,7 +25,7 @@ title: Publication
     China. **Biodiversity Science**, 19: 303-310. (in Chinese with
     English abstract).
      **[Link](http://www.biodiversity-science.net/CN/10.3724/SP.J.1003.2011.08314) 
-    [PDF](http://wpdrive.qiniudn.com/paper_Si&Ding_BiodivSci_2011.pdf)**
+    [PDF](http://sixf.org/files/articles/Si-Ding-2011.pdf)**
 -   **Si, X.** & Ding, P. (2011) Minimum trapping effort of monitoring
     ground-activity animals using camera traps: a case study in
     Gutianshan National Nature Reserve, eastern China. Proceedings of
@@ -39,7 +39,7 @@ title: Publication
     Sustainable Utilization, Jinhua, China, pp. 257-267. (in Chinese
     with English
     abstract).  [**Link**](http://d.wanfangdata.com.cn/Conference_7820627.aspx)** 
-    [PDF](http://wpdrive.qiniudn.com/paper_Zhang_etal_2008.pdf)**
+    [PDF](http://sixf.org/files/articles/Zhang-etal-2008.pdf)**
 
 ---
 
