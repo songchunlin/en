@@ -1,37 +1,37 @@
 ---
 layout: page
-title: Curriculumn Vitae
+title: CV (Xingfeng Si)
+---
+[Download Full CV](http://xingfengsi.weebly.com/uploads/1/6/9/7/16973108/cv_english_xingfeng.pdf "Download CV")
+
 ---
 
+## Basic Information
 
-#**Xingfeng Si** 
-[Chinese(中文简历)](http://xingfeng.si/chinese-cv "Chinese CV")     
- [Download
-CV](http://xingfengsi.weebly.com/uploads/1/6/9/7/16973108/cv_english_xingfeng.pdf "Download CV")
 
-- PhD Student 
+- Position: PhD Student 
 - Phone:＋86 571-88206467 
-- Email: xingfengsi at gmail.com
-- Website: www.xingfeng.si 
+- Email: [xingfengsi \[at\] gmail \[dot\] com](mailto:xingfengsi@gmail.com)
+- Website: [www.sixf.org](http://sixf.org) 
 - Address: 441A College of Life Sciences, Zhejiang Univ., Hangzhou, ZJ 310058, China           
 
 ---
 
-#Education
+## Education
 
--   2008 -                  PhD Student            Ecology, Zhejiang
+-   2008 -          PhD Student           Ecology, Zhejiang
     University, China                       Supervisor: [Prof. Ping
     Ding](http://mypage.zju.edu.cn/personnelCard/pingding)
--   2012 - 2013        Visiting Student      Ecology, Duke University,
+-   2012 - 2013 Visiting Student      Ecology, Duke University,
     USA                                Adviser: [Prof. Stuart
     Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
--   2004 - 2008        B. S.                          Biology, Zhejiang
+-   2004 - 2008  B. S.                       Biology, Zhejiang
     Normal University, China         Supervisor: [Prof. Yixin
     Bao](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
 
 ---
 
-#Postgraduate Training
+## Postgraduate Training
 
 -   Metapopulation capacity (Mathematica *version 9*) – A 3-day course.
     Gareth Russell (New Jersey Institute of Technology). Durham, NC USA.
@@ -51,7 +51,7 @@ CV](http://xingfengsi.weebly.com/uploads/1/6/9/7/16973108/cv_english_xingfeng.pd
 
 ---
 
-#Awards & Honors
+## Awards & Honors
 
 -   2013          Golden Awards of the 9^th^ Kingfisher Forum, China
     Ornithological Society
@@ -74,20 +74,25 @@ CV](http://xingfengsi.weebly.com/uploads/1/6/9/7/16973108/cv_english_xingfeng.pd
     University
 
 ---
-#Research Interests
+## Research Interests
 
-- **Breeding bird turnover in Thousand Island Lake, China** The Island
-Biogeography Theory of MacArthur & Wilson provides important insights
+- **Breeding bird turnover in Thousand Island Lake, China**
+
+	The Island Biogeography Theory of MacArthur & Wilson provides important insights
 into fragmentation because of the proposed similarity of island
 surrounded by water and habitat "islands" surrounded by other habitats
 inhospitable to the species involved. This theory proposes that the
 species' colonization rates to islands depend on their isolation, while
 local extinction rates depend on their area. The Thousand Island Lake in
-eastern China exactly has the landscape to test this theory. I examined
+eastern China exactly has the landscape to test this theory. 
+
+	I examined
 the factors that determine the colonization and extinction of breeding
 birds on island using long-term counts of bird communities.
 
-- **Camera traps in Gutianshan Reserve, China** Camera trapping of
+- **Camera traps in Gutianshan Reserve, China** 
+	
+	Camera trapping of
 wildlife, especially for some elusive and cryptic animals, had been
 practiced and become an available method to estimate the abundance of
 animals. I investigate the relationship between the population
@@ -98,7 +103,7 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-#Research Projects
+## Research Projects
 
 -   Effects of food web and its composition on bird and plant
     communities in subtropical fragmented habitats - a case study of
@@ -134,7 +139,7 @@ can detect the wildlife of interest effectively with limited time.
 
 ----
 
-#Publications  
+## Publications  
 [**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) 
 
 
@@ -172,7 +177,7 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-#Presentations
+## Presentations
 
 
 -   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. (2013)
@@ -203,7 +208,8 @@ can detect the wildlife of interest effectively with limited time.
     Ornithologists Workshop, Harbin, China.
 
 ---
-#Teaching Assistance Experience & Social Activities
+
+## Teaching Assistance Experience & Social Activities
 
 -   2012.07.25-30                   Teaching assistant: Undergraduate
     Summer Zoology Field Practice in Tianmushan Biosphere Reserve and
@@ -217,8 +223,10 @@ can detect the wildlife of interest effectively with limited time.
 -   2006.09-2007.06              Deputy Director of the Secretariat of
     Student Council, Chuyang Honors College, Zhejiang Normal University,
     China
+
 ---
-#Society Memberships
+
+## Society Memberships
 
 -   Society for Conservation Biology
 -   China Ornithological Society
@@ -226,7 +234,8 @@ can detect the wildlife of interest effectively with limited time.
 -   Ecological Society of Zhejiang Province
 
 ---
-#Language & Skills
+
+## Language & Skills
 
 -   Mandarin Chinese (native fluent)
 -   English (fluent reading, competent in conversation)

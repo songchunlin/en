@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-comments: yes
+
 ---
 
 I am [Xingfeng Si](/ "Xingfeng Si"), a PhD candidate in animal ecology at [Zhejiang University](http://www.zju.edu.cn "Zhejiang University"), China. Generally, my research interest lies in island biogeography, community ecology, conservation biology and ornithology. 

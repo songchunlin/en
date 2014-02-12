@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Publication
-comments: yes
+
 ---
 
 
-#Publications  
+## Publications  
 [**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) 
 
 
@@ -43,7 +43,7 @@ comments: yes
 
 ---
 
-#Presentations
+## Presentations
 
 
 -   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. (2013)
