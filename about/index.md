@@ -9,11 +9,11 @@ title: About
 I am a fourth-year PhD student at
 [Zhejiang University](http://www.zju.edu.cn "Zhejiang University"),
 China. By far, most of my research focused on vertebrates. When I was a master student, I used camera traps to monitor animals in [Gutianshan
-Reserve](/links/gutianshan-reserve/ "Gutianshan National Nature Reserve"),
+Reserve](/en/links/gutianshan-reserve/ "Gutianshan National Nature Reserve"),
 China. Camera trapping is a new available method to estimate animal
 population, especially for some elusive and cryptic animals. I also
 participated another parallel project of [our group](http://mypage.zju.edu.cn/personnelCard/pingding) in the [Thousand
-Island Lake](/links/thousand-island-lake/ "Thousand Island Lake") (TIL),
+Island Lake](/en/links/thousand-island-lake/ "Thousand Island Lake") (TIL),
 China, which is a large inundated lake with more than one thousand
 islands. It is a good land-bridge research system to explore species
 distributions and test the traditional theory of island biogeography
