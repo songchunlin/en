@@ -18,6 +18,6 @@ I like reading, traveling and cycling. One of my important dreams is the long tr
 
 ## This Website
 
-I created this website with <a href="https://github.com/mojombo/jekyll">Jekyll</a> and hosted on <a href="http://github.com/sixf/sixf.github.io">GitHub</a>. The template was derived from <a href="http://yihui.name">Yihui</a> who modified templates originally from <a href="http://lhzhang.com/">Linghua Zhang</a> and <a href="http://ztpala.com/">Tao Zhang</a>. I do appreciate their great contributions so that I can use wonderful theme directly. When you browse my blog, you could navigate to previous post by the left-arrow key (<code>&lt;-</code>) or next post by right-arrow (<code>-&gt;</code>).
+I created this website with <a href="https://github.com/mojombo/jekyll">Jekyll</a> and hosted on <a href="http://github.com/sixf/sixf.github.io">GitHub</a>. The theme was modified by [Yihui](http://yihui.name) which was originally derived from <a href="http://lhzhang.com/">Linghua Zhang</a> and <a href="http://ztpala.com/">Tao Zhang</a>. I do appreciate their great contributions so that I can use this elegant theme directly. When you browse my blog, you could navigate to previous post by the left-arrow key (<code>&lt;-</code>) or next post by right-arrow (<code>-&gt;</code>).
 
-Please write to <a href="mailto:sixingfeng@gmail.com" title="Xingfeng's email">me</a> or leave me a <a href="/en/guestbook" title="Guestbook">message</a> if you have any questions or suggestions on this website.
+If you have any suggestions or find a broken link on this website, please feel free to write <a href="mailto:sixingfeng@gmail.com" title="Xingfeng's email">me</a> or leave me a <a href="/en/guestbook" title="Guestbook">message</a>.
