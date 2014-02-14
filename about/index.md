@@ -8,19 +8,17 @@ title: About
 
 I am a fourth-year PhD student at
 [Zhejiang University](http://www.zju.edu.cn "Zhejiang University"),
-China. By far, most of my research focused on animals, especially the
-birds. When I was a master student, I initialed the researches of
-monitoring animals using camera traps in [Gutianshan
+China. By far, most of my research focused on vertebrates. When I was a master student, I used camera traps to monitor animals in [Gutianshan
 Reserve](/links/gutianshan-reserve/ "Gutianshan National Nature Reserve"),
 China. Camera trapping is a new available method to estimate animal
 population, especially for some elusive and cryptic animals. I also
-participated another parallel project of our group in the [Thousand
+participated another parallel project of [our group](http://mypage.zju.edu.cn/personnelCard/pingding) in the [Thousand
 Island Lake](/links/thousand-island-lake/ "Thousand Island Lake") (TIL),
 China, which is a large inundated lake with more than one thousand
 islands. It is a good land-bridge research system to explore species
 distributions and test the traditional theory of island biogeography
-proposed by MacArthur & Wilson. Now I am processsing these occupancy
-data in order to provide more detail into the biodiversity conservation
+proposed by MacArthur & Wilson. Now I am processing these 
+data in order to provide more detail of conservation actions
 on fragmented islands. 
 
 ---
