@@ -45,16 +45,13 @@ title: Publication
 
 ## Presentations
 
+### Oral Talks
 
 -   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. (2013)
     Determinants of colonization-extinction dynamics of breeding bird
     communities on land-bridge islands. The 12<sup>th</sup> China Ornithological
     Congress and the 9<sup>th</sup> Kingfisher Forum of Chinese Young
     Ornithologists Workshop, Hangzhou, China.
--   **Si, X.** & Ding, P. (2012) How long is enough to monitor
-    ground-dwelling animals? A case study of minimum trapping effort in
-    Gutianshan National Nature Reserve, eastern China. The 13<sup>th</sup>
-    Student Conference on Conservation Science, Cambridge, U.K. (poster)
 -   **Si, X.** & Ding, P. (2011) Minimum trapping effort of monitoring
     ground-activity animals using camera traps: a case study in
     Gutianshan National Nature Reserve. The 7<sup>th</sup> Kingfisher Forum of
@@ -73,3 +70,9 @@ title: Publication
     dynamic monitoring plot. The 5<sup>th</sup> Kingfisher Forum of Chinese Young
     Ornithologists Workshop, Harbin, China.
 
+### Posters
+
+-   **Si, X.** & Ding, P. (2012) How long is enough to monitor
+    ground-dwelling animals? A case study of minimum trapping effort in
+    Gutianshan National Nature Reserve, eastern China. The 13<sup>th</sup>
+    Student Conference on Conservation Science, Cambridge, U.K.

@@ -198,6 +198,7 @@ can detect the wildlife of interest effectively with limited time.
     dynamic monitoring plot. The 5<sup>th</sup> Kingfisher Forum of Chinese Young
     Ornithologists Workshop, Harbin, China.
 
+
 ### Posters
 
 -   **Si, X.** & Ding, P. (2012) How long is enough to monitor
