@@ -28,7 +28,7 @@ on fragmented islands.
 I like reading, traveling and
 cycling. One of my important dreams is the long travel from Chengdu to
 Lhasa (the capital of Tibet) by bike. I would plan to spend one month to
-complete this 2200-km journey. I initialed with this dream eight years
+complete this 2200-km journey. I initiated this dream eight years
 ago when I was an undergraduate, while I am always waiting for the right
 time to make my dream come true, because it is a great chance to enjoy
 the unique landscape and biodiversity of Qinghai-Tibet Plateau. I am
