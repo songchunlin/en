@@ -4,7 +4,7 @@ title: Curriculum Vitae (Xingfeng Si)
 ---
 
 
-## Contact Information
+## Contacts
 
 
 - Phone:＋86 571-88206467 
