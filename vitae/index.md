@@ -47,14 +47,14 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ## Awards & Honors
 
--   2013     Golden Awards of the 9<sup>th</sup> Kingfisher Forum, China
+-   2013     Gold Awards of the 9<sup>th</sup> Kingfisher Forum, China
     Ornithological Society
 -   2012     State Scholarship Fund, China Scholarship Council
 -   2011     Merit Graduated Student in 2010-2011, Zhejiang
     University
 -   2011     Honors of First-class Scholarship in 2010-2011,
     Zhejiang University
--   2011     Golden Awards of the 7<sup>th</sup> Kingfisher Forum, China
+-   2011     Gold Awards of the 7<sup>th</sup> Kingfisher Forum, China
     Ornithological Society
 -   2009     Silver Awards of the 5<sup>th</sup> Kingfisher Forum, China
     Ornithological Society
