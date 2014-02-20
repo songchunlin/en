@@ -134,17 +134,8 @@ can detect the wildlife of interest effectively with limited time.
 
 ----
 
-## See details in [Publication](/en/publication/ "Publications and Presentations")
+## [Publications and Presentations](/en/publication/ "click here to see my publications")
 
----
-
-### Posters
-
--   **Si, X.** & Ding, P. (2012) How long is enough to monitor
-    ground-dwelling animals? A case study of minimum trapping effort in
-    Gutianshan National Nature Reserve, eastern China. The 13<sup>th</sup>
-    Student Conference on Conservation Science, Cambridge, U.K.
-    
 ---
 
 ## Teaching Assistance Experience & Social Activities
