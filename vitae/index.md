@@ -28,23 +28,6 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ---
 
-## Postgraduate Training
-
--   2013     Metapopulation capacity (Mathematica *version 9*) – A 3-day course. Gareth Russell (New Jersey Institute of Technology). Durham, NC USA.
--   2013     Survival rate analyses of sooty tern – A 3-day course. Stuart Pimm
-    (Duke University). Dry Tortugas, FL USA.
--   2010      Wildness First Aid – A 4-day course. Lloyd Figgins (EarthWatch Institute). Gutianshan, Zhejiang China. 
--   2009     Spatial Analysis – A 7-day course. Pierre Legendre (Université de
-    Montréal). Beijing, China. 
--   2009     Linear Regression – A 6-day course. Pierre Legendre (Université de
-    Montréal). Beijing, China. 
--   2009     Statistical Training (R and CANOCO Programme) – A 5-day course.
-    Jiangshan Lai (Institute of Botany, Chinese Academic of Science),
-    Jinlong Zhang (Institute of Botany, Chinese Academic of Science),
-    Yanping Chen (Renmin University of China). Beijing, China. 
-
----
-
 ## Awards & Honors
 
 -   2013     Gold Awards of the 9<sup>th</sup> Kingfisher Forum, China
@@ -68,6 +51,24 @@ title: Curriculum Vitae (Xingfeng Si)
     University
 
 ---
+
+## Postgraduate Training
+
+-   2013     Metapopulation capacity (Mathematica *version 9*) – A 3-day course. Gareth Russell (New Jersey Institute of Technology). Durham, NC USA.
+-   2013     Survival rate analyses of sooty tern – A 4-day course. Stuart Pimm
+    (Duke University). Dry Tortugas, FL USA.
+-   2010      Wildness First Aid – A 4-day course. Lloyd Figgins (EarthWatch Institute). Gutianshan, Zhejiang China. 
+-   2009     Spatial analysis biostatistics – A 5-day course. Pierre Legendre (Université de
+    Montréal). Beijing, China. 
+-   2009     Linear regression – A 6-day course. Pierre Legendre (Université de
+    Montréal). Beijing, China. 
+-   2009     Mathematical statistics, R programming language and multivariate statistical analyses – A 5-day course.
+    Jiangshan Lai (Institute of Botany, Chinese Academic of Science),
+    Jinlong Zhang (Institute of Botany, Chinese Academic of Science),
+    Yanping Chen (Renmin University of China). Beijing, China. 
+
+---
+
 ## Research Interests
 
 - **Breeding bird turnover in Thousand Island Lake, China**
@@ -151,23 +152,20 @@ can detect the wildlife of interest effectively with limited time.
 -   **Si, X.** & Ding, P. (2011) History, status of monitoring land
     birds in Europe and American and countermeasures of
     China. **Biodiversity Science**, 19: 303-310. (in Chinese with
-    English abstract).
-     **[Link](http://www.biodiversity-science.net/CN/10.3724/SP.J.1003.2011.08314) 
-    [PDF](http://sixf.org/files/articles/Si-Ding-2011.pdf)**
+    English abstract).    [pdf(241KB)](http://sixf.org/files/articles/Si-Ding-2011.pdf)
 -   **Si, X.** & Ding, P. (2011) Minimum trapping effort of monitoring
     ground-activity animals using camera traps: a case study in
     Gutianshan National Nature Reserve, eastern China. Proceedings of
     the 7<sup>th</sup> National Conference on Wildlife Ecology and Conservation,
     Jinhua, China. (in Chinese).
-     **[Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)**
+     [Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)
 -   Zhang, L., Bao, Y., Li, H., **Si, X.** & Hu, S. (2008) The
     functional groups and trophic levels of soil macro-fauna in
     different vegetation type, Beishan Moutain, Jinhua. Proceedings of
     the 8<sup>th</sup> National Conference on Biodiversity Conservation and
     Sustainable Utilization, Jinhua, China, pp. 257-267. (in Chinese
     with English
-    abstract).  [**Link**](http://d.wanfangdata.com.cn/Conference_7820627.aspx)** 
-    [PDF](http://sixf.org/files/articles/Zhang-etal-2008.pdf)**
+    abstract).  [pdf(656KB)](http://sixf.org/files/articles/Zhang-etal-2008.pdf)
 
 ---
 
@@ -225,12 +223,14 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-## Society Memberships
+## Memberships of Organizations
 
--   Society for Conservation Biology
--   China Ornithological Society
--   Zhejiang Zoological Society
--   Ecological Society of Zhejiang Province
+-   Member, International Biogeography Society
+-   Member, Society for Conservation Biology
+-   Member, Ecological Society of Zhejiang Province
+-   Member, China Ornithological Society
+-   Member, Zhejiang Zoological Society
+
 
 ---
 
@@ -245,5 +245,5 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-### [Download Full CV](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+### [Download Full CV(77KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
