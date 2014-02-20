@@ -134,7 +134,9 @@ can detect the wildlife of interest effectively with limited time.
 
 ----
 
-## See detail in [Publications](/en/publication/ "Publications and Reports")
+## See details in [Publication](/en/publication/ "Publications and Presentations")
+
+---
 
 ### Posters
 
