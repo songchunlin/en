@@ -23,23 +23,21 @@ title: Publication
 -   **Si, X.** & Ding, P. (2011) History, status of monitoring land
     birds in Europe and American and countermeasures of
     China. **Biodiversity Science**, 19: 303-310. (in Chinese with
-    English abstract).
-     **[Link](http://www.biodiversity-science.net/CN/10.3724/SP.J.1003.2011.08314) 
-    [PDF](http://sixf.org/files/articles/Si-Ding-2011.pdf)**
+    English abstract).    [pdf(241KB)](http://sixf.org/files/articles/Si-Ding-2011.pdf)
 -   **Si, X.** & Ding, P. (2011) Minimum trapping effort of monitoring
     ground-activity animals using camera traps: a case study in
     Gutianshan National Nature Reserve, eastern China. Proceedings of
     the 7<sup>th</sup> National Conference on Wildlife Ecology and Conservation,
     Jinhua, China. (in Chinese).
-     **[Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)**
+     [Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)
 -   Zhang, L., Bao, Y., Li, H., **Si, X.** & Hu, S. (2008) The
     functional groups and trophic levels of soil macro-fauna in
     different vegetation type, Beishan Moutain, Jinhua. Proceedings of
     the 8<sup>th</sup> National Conference on Biodiversity Conservation and
     Sustainable Utilization, Jinhua, China, pp. 257-267. (in Chinese
     with English
-    abstract).  [**Link**](http://d.wanfangdata.com.cn/Conference_7820627.aspx)** 
-    [PDF](http://sixf.org/files/articles/Zhang-etal-2008.pdf)**
+    abstract).  [pdf(656KB)](http://sixf.org/files/articles/Zhang-etal-2008.pdf)
+
 
 ---
 
