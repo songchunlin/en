@@ -15,7 +15,7 @@ title: Publications and Presentations
 -   **Si, X.**, Kays, R. & Ding, P. How long is enough to detect
     terrestrial animals? Estimate the minimum trapping effort on camera
     traps. *under review*
--   **Si, X.** *et al.* Partitioning functional beta diversity of bird
+-   **Si, X.** *et al.* Partitioning beta diversity of bird
     communities on islands of an inundated lake. *preparing.*
 -   Shen, G., Pimm, S. L., Feng, C., Ren, G., Liu, Y., Xu, W., Li,
     J., **Si, X.**, Su, H. & Xie, Z. Climate change challenges the
@@ -48,7 +48,7 @@ title: Publications and Presentations
 -   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. (2013)
     Determinants of colonization-extinction dynamics of breeding bird
     communities on land-bridge islands. The 12<sup>th</sup> China Ornithological
-    Congress and the 9<sup>th</sup> Kingfisher Forum of Chinese Young
+    Conference and the 9<sup>th</sup> Kingfisher Forum of Chinese Young
     Ornithologists Workshop, Hangzhou, China.
 -   **Si, X.** & Ding, P. (2011) Minimum trapping effort of monitoring
     ground-activity animals using camera traps: a case study in
@@ -62,7 +62,7 @@ title: Publications and Presentations
     plot: using spot mapping and infrared cameras. The 2010
     International Symposium on Biodiversity Monitoring, Nanjing, China.
 -   **Si, X.**, Shen, G. & Ding, P. (2009) Basic results of monitoring
-    of bird community in Gutianshan 24-ha plot. The 3<sup>th</sup> Straits
+    of bird community in Gutianshan 24-ha plot. The 3<sup>th</sup> Cross-strait
     Symposium on Forest Dynamic Plots, Guangzhou, China.
 -   **Si, X.** & Ding, P. (2009) Bird community structures in Gutianshan
     dynamic monitoring plot. The 5<sup>th</sup> Kingfisher Forum of Chinese Young
