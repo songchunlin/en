@@ -16,7 +16,7 @@ title: Curriculum Vitae (Xingfeng Si)
 ## Education
 
 -   2008-           **PhD Student**, Ecology, **Zhejiang
-    University**, China. Supervisor: [Prof. Ping Ding](http://mypage.zju.edu.cn/personnelCard/pingding)
+    University**, China. Adviser: [Prof. Ping Ding](http://mypage.zju.edu.cn/personnelCard/pingding)
 -   2012-2013  **Visiting Student**, Ecology, **Duke University**,
     USA. Adviser: [Prof. Stuart  Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
 -   2004-2008  **B. S.**, Biology, **Zhejiang Normal University**, China. Supervisor: [Prof. Yixin Bao](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
