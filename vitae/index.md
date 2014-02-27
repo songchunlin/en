@@ -5,7 +5,7 @@ title: Curriculum Vitae (Xingfeng Si)
 
 <p style="text-align: right;"><a title="Download Full CV" href="http://sixf.org/files/others/cv_en.pdf" target="_blank">Download Full CV(77KB)</a></p>
 
-## Contacts 
+## Contacts                                               [Download Full CV(77KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
 - Phone:＋86 571-88206467 
 - Email: [xingfengsi \[at\] gmail \[dot\] com](mailto:xingfengsi@gmail.com)
