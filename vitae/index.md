@@ -15,15 +15,11 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ## Education
 
--   2008-         PhD Student    Ecology, Zhejiang
-    University, China    Supervisor: [Prof. Ping
-    Ding](http://mypage.zju.edu.cn/personnelCard/pingding)
--   2012-2013 Visiting Student    Ecology, Duke University,
-    USA    Adviser: [Prof. Stuart
-    Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
--   2004-2008  B. S.    Biology, Zhejiang
-    Normal University, China    Supervisor: [Prof. Yixin
-    Bao](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
+-   2008-              **PhD Student**, Ecology, **Zhejiang
+    University**, China. Supervisor: [Prof. Ping Ding](http://mypage.zju.edu.cn/personnelCard/pingding)
+-   2012-2013     **Visiting Student**, Ecology, **Duke University**,
+    USA. Adviser: [Prof. Stuart  Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
+-   2004-2008     **B. S.**, Biology, **Zhejiang Normal University**, China. Supervisor: [Prof. Yixin Bao](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
 
 ---
 
@@ -54,7 +50,7 @@ title: Curriculum Vitae (Xingfeng Si)
 ## Postgraduate Training
 
 -   2013     Metapopulation capacity (Mathematica *version 9*) – A 3-day course. Gareth Russell (New Jersey Institute of Technology). Durham, NC USA.
--   2013     Survival rate analyses of sooty tern – A 4-day course. Stuart Pimm
+-   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus* – A 4-day course. Stuart Pimm
     (Duke University). Dry Tortugas, FL USA.
 -   2010      Wildness First Aid – A 4-day course. Lloyd Figgins (EarthWatch Institute). Gutianshan, Zhejiang China. 
 -   2009     Spatial analysis biostatistics – A 5-day course. Pierre Legendre (Université de
@@ -90,7 +86,7 @@ can detect the wildlife of interest effectively with limited time.
 
 ### Directed Projects
 
--   2006-2007     Observation and Study of Reproductive Behavior of Rodents. Laboratory Open Program of Zhejiang Normal University, 2006. Project Director, 1/3)
+-   2006-2007     Observation and Study of Reproductive Behavior of Rodents. Laboratory Open Program of Zhejiang Normal University. (Project Director, 1/3)
     
 ### Participated Projects
 
@@ -143,7 +139,7 @@ can detect the wildlife of interest effectively with limited time.
 
 
 -   Good at R, MS Office, Photoshop
--   Intermediated  in LaTeX, OS iWork, WordPress, EndNote, Google Earth   
+-   Intermediated in LaTeX, OS iWork, WordPress, EndNote, Google Earth   
 -   Beginner in Mathematica, PHP, MarkDown, CANOCO, WinBUGS
 
 
