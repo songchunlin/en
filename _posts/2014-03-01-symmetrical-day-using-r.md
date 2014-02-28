@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Symmetrical Days from Year 2000 to Year 2099
+title: Symmetrical Days from Year 2000 to Year 2099 Using R
 categories: [R language, symmetrical day, yyyymmdd]
 tags: [fun]
 comments: yes
