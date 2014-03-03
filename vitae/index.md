@@ -82,9 +82,9 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-## Research Projects
+# Research Projects
 
-### Directed Projects
+## Directed Projects
 
 -   2006-2007     Observation and Study of Reproductive Behavior of Rodents. Laboratory Open Program of Zhejiang Normal University. (Project Director, 1/3)
     
