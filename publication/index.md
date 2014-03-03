@@ -5,7 +5,7 @@ title: Publications and Presentations
 ---
 
 
-## Publications <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en)</small> 
+# Publications <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en)</small> 
 
 
 -   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson's theory. *under review*
@@ -19,9 +19,9 @@ title: Publications and Presentations
 
 ---
 
-## Presentations
+# Presentations
 
-### Oral Talks
+## Oral Talks
 
 -   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. (2013) Determinants of colonization-extinction dynamics of breeding bird communities on land-bridge islands. The 12th China Ornithological Conference and the 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China.
 -   **Si, X.** & Ding, P. (2011) Minimum trapping effort of monitoring ground-activity animals using camera traps: a case study in Gutianshan National Nature Reserve. The 7th Kingfisher Forum of Chinese Young Ornithologists Workshop, Lanzhou, China.
@@ -30,6 +30,6 @@ title: Publications and Presentations
 -   **Si, X.**, Shen, G. & Ding, P. (2009) Basic results of monitoring of bird community in Gutianshan 24-ha plot. The 3rd Cross-strait Symposium on Forest Dynamic Plots, Guangzhou, China.
 -   **Si, X.** & Ding, P. (2009) Bird community structures in Gutianshan dynamic monitoring plot. The 5th Kingfisher Forum of Chinese Young Ornithologists Workshop, Harbin, China.
 
-### Posters
+## Posters
 
 -   **Si, X.** & Ding, P. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. The 13th Student Conference on Conservation Science, Cambridge, UK.

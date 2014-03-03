@@ -4,7 +4,7 @@ title: About
 ---
 
 
-## Who I Am? 
+# Who I Am? 
 
 I am a fourth-year PhD student at
 [Zhejiang University](http://www.zju.edu.cn "Zhejiang University"),
@@ -23,7 +23,7 @@ on fragmented islands.
 
 ---
 
-## My Hobby 
+# My Hobby 
 
 I like reading, traveling and
 cycling. One of my important dreams is the long travel from Chengdu to
@@ -39,7 +39,7 @@ with me.
 
 ---
 
-## This Website 
+# This Website 
 
 I created this website with
 [Jekyll](https://github.com/mojombo/jekyll) and hosted on

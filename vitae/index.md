@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae (Xingfeng Si)
 ---
 
-## Contacts
+# Contacts
 
 - Phone: 0086(571)88206467 
 - Email: [xingfengsi \[at\] gmail \[dot\] com](mailto:xingfengsi@gmail.com)
@@ -13,7 +13,7 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ---
 
-## Education
+# Education
 
 -   2008-           **PhD Student**, Ecology, **Zhejiang
     University**, China. Adviser: [Prof. Ping Ding](http://mypage.zju.edu.cn/personnelCard/pingding)
@@ -23,7 +23,7 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ---
 
-## Awards & Honors
+# Awards & Honors
 
 -   2013     Gold Awards of the 9th Kingfisher Forum, China
     Ornithological Society
@@ -47,7 +47,7 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ---
 
-## Postgraduate Training
+# Postgraduate Training
 
 -   2013     Metapopulation capacity (Mathematica *version 9*) – A 3-day course. Gareth Russell (New Jersey Institute of Technology). Durham, NC USA.
 -   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus* – A 4-day course. Stuart Pimm
@@ -64,7 +64,7 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ---
 
-## Research Interests
+# Research Interests
 
 - **Breeding bird turnover in Thousand Island Lake, China**
 
@@ -88,7 +88,7 @@ can detect the wildlife of interest effectively with limited time.
 
 -   2006-2007     Observation and Study of Reproductive Behavior of Rodents. Laboratory Open Program of Zhejiang Normal University. (Project Director, 1/3)
     
-### Participated Projects
+## Participated Projects
 
 
 -   2013-2017     Effects of food web and its composition on bird and plant communities in subtropical fragmented habitats - a case study of land-bridge islands in Thousand Island Lake. National Science Foundation of China. (Core Participant, 4/8)
@@ -106,11 +106,11 @@ can detect the wildlife of interest effectively with limited time.
 
 ----
 
-## [Publications and Presentations](/en/publication/ "click here to see my publications")
+# [Publications and Presentations](/en/publication/ "click here to see my publications")
 
 ---
 
-## Memberships of Organizations
+# Memberships of Organizations
 
 -   2014-     Member, International Biogeography Society
 -   2013-     Member, Society for Conservation Biology
@@ -120,7 +120,7 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-## Teaching Assistance Experience & Social Activities
+# Teaching Assistance Experience & Social Activities
 
 -   2012     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve and Thousand Island Lake, Zhejiang Province, China
 -   2010     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
@@ -135,7 +135,7 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-## Computer Skills
+# Computer Skills
 
 
 -   Good at R, MS Office, Photoshop
@@ -145,7 +145,7 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-## Language & Other Skills
+# Language & Other Skills
 
 -   Chinese (native fluent)
 -   English (fluent reading, competent in conversation)
@@ -154,5 +154,5 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-### [Download Full CV(78KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+## [Download Full CV(78KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 

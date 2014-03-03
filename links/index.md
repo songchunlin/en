@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-## Research Sites
+# Research Sites
 
 
 **[Thousand Island Lake](/en/pages/thousand-island-lake)  **A man-made lake created in 1959 with more than one thousand islands in western Zhejiang Province, China
@@ -14,6 +14,6 @@ layout: page
 -----
 
 
-## R Language
+# R Language
 
 - [The R Project](http://www.r-project.org/)
