@@ -25,16 +25,16 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ## Awards & Honors
 
--   2013     Gold Awards of the 9<sup>th</sup> Kingfisher Forum, China
+-   2013     Gold Awards of the 9th Kingfisher Forum, China
     Ornithological Society
 -   2012     State Scholarship Fund, China Scholarship Council
 -   2011     Merit Graduated Student in 2010-2011, Zhejiang
     University
 -   2011     Honors of First-class Scholarship in 2010-2011,
     Zhejiang University
--   2011     Gold Awards of the 7<sup>th</sup> Kingfisher Forum, China
+-   2011     Gold Awards of the 7th Kingfisher Forum, China
     Ornithological Society
--   2009     Silver Awards of the 5<sup>th</sup> Kingfisher Forum, China
+-   2009     Silver Awards of the 5th Kingfisher Forum, China
     Ornithological Society
 -   2008     Ten Outstanding Research and Training Students,
     Zhejiang Normal University
@@ -125,7 +125,7 @@ can detect the wildlife of interest effectively with limited time.
 -   2012     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve and Thousand Island Lake, Zhejiang Province, China
 -   2010     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
 -   2009     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
--   2013     Local Conference Organizer. The 9<sup>th</sup> Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China
+-   2013     Local Conference Organizer. The 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China
 -   2011     Invited Guest. Chuyang Forum of Zhejiang Normal University, Jinhua, China
 -   2011     Invited Report. Swearing Conference for College Entrance Exam of Yiting High School, Yiwu, China
 -   2008     Laureate. Ten Outstanding Research & Training Students of Zhejiang Normal University, Jinhua, China
