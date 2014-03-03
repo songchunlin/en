@@ -27,7 +27,7 @@ title: Publications and Presentations
 -   **Si, X.** & Ding, P. (2011) Minimum trapping effort of monitoring ground-activity animals using camera traps: a case study in Gutianshan National Nature Reserve. The 7th Kingfisher Forum of Chinese Young Ornithologists Workshop, Lanzhou, China.
 -   **Si, X.** & Ding, P. (2010) Monitoring ground-activity birds using camera trapping in Gutianshan 24-ha plot. The 9th National Conference on Biodiversity Conservation and Sustainable Utilization, Xiamen, China.
 -   **Si, X.** & Ping, D. (2010) Bird monitoring in Gutianshan 24-ha plot: using spot mapping and infrared cameras. The 2010 International Symposium on Biodiversity Monitoring, Nanjing, China.
--   **Si, X.**, Shen, G. & Ding, P. (2009) Basic results of monitoring of bird community in Gutianshan 24-ha plot. The 3th Cross-strait Symposium on Forest Dynamic Plots, Guangzhou, China.
+-   **Si, X.**, Shen, G. & Ding, P. (2009) Basic results of monitoring of bird community in Gutianshan 24-ha plot. The 3rd Cross-strait Symposium on Forest Dynamic Plots, Guangzhou, China.
 -   **Si, X.** & Ding, P. (2009) Bird community structures in Gutianshan dynamic monitoring plot. The 5th Kingfisher Forum of Chinese Young Ornithologists Workshop, Harbin, China.
 
 ### Posters
