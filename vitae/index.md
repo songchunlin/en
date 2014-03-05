@@ -115,7 +115,7 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-# Participation in Scientific Conference & Symposiums
+# Participation in Scientific Conferences & Symposiums
 
 
 -   2014     The 26th International Ornithological Conference, Tokyo, Japan.
