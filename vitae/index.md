@@ -6,7 +6,7 @@ title: Curriculum Vitae (Xingfeng Si)
 # Contacts
 
 - Phone: 0086(571)88206467 
-- Email: [xingfengsi \[at\] gmail \[dot\] com](mailto:xingfengsi@gmail.com)
+- Email: [xingfengsi\[at\]gmail.com](mailto:xingfengsi@gmail.com)
 - Website: [www.sixf.org](http://sixf.org) 
 - Address: 441A College of Life Sciences, Zhejiang Univ., Hangzhou, ZJ 310058, China
 - [Download Full CV(78KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
@@ -49,18 +49,13 @@ title: Curriculum Vitae (Xingfeng Si)
 
 # Postgraduate Training
 
--   2013     Metapopulation capacity (Mathematica *version 9*) – A 3-day course. Gareth Russell (New Jersey Institute of Technology). Durham, NC USA.
--   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus* – A 4-day course. Stuart Pimm
-    (Duke University). Dry Tortugas, FL USA.
--   2010      Wildness First Aid – A 4-day course. Lloyd Figgins (EarthWatch Institute). Gutianshan, Zhejiang China. 
--   2009     Spatial analysis biostatistics – A 5-day course. Pierre Legendre (Université de
-    Montréal). Beijing, China. 
--   2009     Linear regression – A 6-day course. Pierre Legendre (Université de
-    Montréal). Beijing, China. 
--   2009     Mathematical statistics, R programming language and multivariate statistical analyses – A 5-day course.
-    Jiangshan Lai (Institute of Botany, Chinese Academic of Science),
-    Jinlong Zhang (Institute of Botany, Chinese Academic of Science),
-    Yanping Chen (Renmin University of China). Beijing, China. 
+-   2013     Metapopulation capacity (Mathematica *version 9*). Gareth Russell (New Jersey Institute of Technology), 2013.01.28-30, Durham, NC USA.
+-   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus*. Stuart Pimm (Duke University), 2013.3.11-14, Dry Tortugas, FL USA.
+-   2010      Wildness First Aid. Lloyd Figgins (EarthWatch Institute), 2010.10.07-10, Kaihua, China. 
+-   2009     Spatial analysis biostatistics. Pierre Legendre (Université de
+    Montréal), 2009.10.01-05, Beijing, China. 
+-   2009     Linear regression. Pierre Legendre (Université de Montréal), 2009.09.10-15, Beijing, China. 
+-   2009     Mathematical statistics, R programming language and multivariate statistical analyses. Jiangshan Lai (Institute of Botany, Chinese Academic of Science), Jinlong Zhang (Institute of Botany, Chinese Academic of Science), Yanping Chen (Renmin University of China), 2009.09.05-09, Beijing, China. 
 
 ---
 
@@ -117,6 +112,32 @@ can detect the wildlife of interest effectively with limited time.
 -   2013-     Member, Ecological Society of Zhejiang Province
 -   2009-     Member, China Ornithological Society
 -   2008-     Member, Zhejiang Zoological Society
+
+---
+
+# Participation in Scientific Conference & Symposiums
+
+
+-   2014     The 26th International Ornithological Conference, Tokyo, Japan.
+-   2014     The 6th EAFES International Congress, Haikou, China.
+-   2013     The 12th China Ornithological Conference and the 10th Cross-strait Ornithological Conference, Hangzhou, China.
+-   2013     The 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China.
+-   2013     The 26th International Conference on Conservation Biology, Baltimore, MD USA.
+-   2012     The 1st Student Forum on Sci-Tech Innovation of College of Life Sciences at Zhejiang University, Hangzhou, China.
+-   2012     The 13th Student Conference on Conservation Science, Cambridge, UK.
+-   2011     The 7th National Conference on Wildlife Ecology and Resource Conservation, Jinhua, China.
+-   2011     The 11th China Ornithological Conference, Lanzhou, China}
+-   2011     The 7th Kingfisher Forum of Chinese Young Ornithologists Workshop, Lanzhou, China.
+-   2011     Symposium for Theoretical Ecology and Biodiversity, Guangzhou, China}
+-   2010     The 9th National Conference on Biodiversity Conservation and Sustainable Utilization, Xiamen, China.
+-   2010     The 4th Cross-strait Symposium on Forest Dynamic Plots, Xiamen, China.
+-   2010     The 2010 International Forum on Biodiversity Monitorin, Nanjing, China.
+-   2009     The 3rd Cross-strait Symposium on Forest Dynamic Plots, Zhaoqing, China.
+-   2009     The 11th Congress of Zhejiang Zoological Society, Jinhua, China.
+-   2009     The 10th China Ornithological Conference and the 8th Cross-strait Ornithological Conference, Harbin, China.
+-   2009     The 5th Kingfisher Forum of Chinese Young Ornithologists Workshop, Harbin, China.
+-   2008     The 8th National Conference on Biodiversity Conservation and Sustainable Utilization, Jinhua, China.
+-   2008     The 4th Kingfisher Forum of Chinese Young Ornithologists Workshop, Beijing, China.
 
 ---
 
