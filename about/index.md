@@ -6,7 +6,7 @@ title: About
 
 # Who I Am? 
 
-I am Xingfeng Si, a fourth-year PhD student in the [College of Life Sciences](http://www.cls.zju.edu.cn/en/) at [Zhejiang University](http://www.zju.edu.cn "Zhejiang University"), China. Find it difficult to pronunce the Chinese names? Well,  my name *Xingfeng Si* sounds like *Sheeng-ferng Szzz*, and the name of my university *Zhejiang* sounds like *Dr-er Ji-ah-ng*.
+I am Xingfeng Si, a fourth-year PhD student in the [College of Life Sciences](http://www.cls.zju.edu.cn/en/) at [Zhejiang University](http://www.zju.edu.cn "Zhejiang University"), China. Difficult to pronunce the Chinese names? Well,  my name *Xingfeng Si* sounds like *Sheeng-ferng Szzz*, and the name of my university *Zhejiang* sounds like *Dr-er Ji-ah-ng*.
 
 # My Researches
 
