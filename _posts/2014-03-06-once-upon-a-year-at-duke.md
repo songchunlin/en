@@ -1,6 +1,6 @@
 ---
 title: Once Upon a Year at Duke 
-tags: [conservation,bird,Zhejiang,Thousand Island Lake]
+tags: [The Pimm Group,bird,Duke University,Durham,English]
 categories: [Duke,academic]
 layout: post
 comments: yes
