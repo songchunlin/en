@@ -129,7 +129,7 @@ can detect the wildlife of interest effectively with limited time.
 -   2011     The 11th China Ornithological Conference, Lanzhou, China}
 -   2011     The 7th Kingfisher Forum of Chinese Young Ornithologists Workshop, Lanzhou, China.
 -   2011     Symposium for Theoretical Ecology and Biodiversity, Guangzhou, China}
--   2010     The 9th National Conference on Biodiversity Conservation and Sustainable Utilization, Xiamen, China.
+-   2010     The 9th National Symposium on the Conservation and Sustainable Use of Biodiversity in China, Xiamen, China.
 -   2010     The 4th Cross-strait Symposium on Forest Dynamic Plots, Xiamen, China.
 -   2010     The 2010 International Forum on Biodiversity Monitorin, Nanjing, China.
 -   2009     The 3rd Cross-strait Symposium on Forest Dynamic Plots, Zhaoqing, China.
