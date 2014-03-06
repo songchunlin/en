@@ -1,7 +1,7 @@
 ---
 title: Once Upon a Year at Duke 
 tags: [The Pimm Group,bird,Duke University,Durham,English]
-categories: [Duke,academic]
+categories: [Duke]
 layout: post
 comments: yes
 ---
