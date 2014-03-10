@@ -6,7 +6,7 @@ layout: post
 comments: yes
 ---
 
-Three years ago, I never imagined I will spend one-year in [The Pimm Group](http://www.thepimmgroup.org]) at Duke University. Last fall I finished the visiting and back in China. Now, I should say goodbye to the father of the group, [Dr. Stuart Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm), as he will leave for US from Beijing tomorrow. At the moment, I think I should write something about the one-year visiting in The Pimm Group.
+Three years ago, I never imagined I will spend one-year in [The Pimm Group](http://www.thepimmgroup.org) at Duke University. Last fall I finished the visiting and back in China. Now, I should say goodbye to the father of the group, [Dr. Stuart Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm), as he will leave for US from Beijing tomorrow. At the moment, I think I should write something about the one-year visiting in The Pimm Group.
 
 Stuart is a world leader in the study of conservation biology with special interests in species extinction and how to prevent them. I was impressed at the first time by his extraordinary publication history that nearly a quarter of his academic articles were published on *Nature*, *Science* and *PNAS*. I just had a dream if I could have one of them, I immediately get an opportunity for submitting my doctoral application to my university. Reality is different as what you dreamed. By far, I am still struggling to produce a high impacted article to gain my degree.
 
