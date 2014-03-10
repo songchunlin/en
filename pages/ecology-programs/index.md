@@ -3,7 +3,7 @@ title: Ecology Programs
 layout: page
 ---
 
-**Note: This helpful information comes from [Simone Fattorini's homepage](https://sites.google.com/site/fattorinitenebrionidae/). After 'forked' them directly to my site, I updated and organised all links. I will try to translate them into Chinese, and gradually add more related programs in Ecology. Thanks again for the great work, Dr. Fattorini!** 
+**Note: This helpful information comes from [Simone Fattorini's homepage](https://sites.google.com/site/fattorinitenebrionidae/). After 'forked' them directly to my site, I checked and reorganised all links. I will try to translate them into Chinese, and gradually add more related programs in Ecology. Thanks again for the great work, Dr. Fattorini!** 
 
 This is a list of sites were you can find a number of programs useful in
 ecological research:
