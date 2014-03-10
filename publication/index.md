@@ -9,7 +9,7 @@ title: Publications and Presentations
 
 ## Peer Reviewed
 
--   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson's theory. *under review*
+-   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of breeding bird communities on islands of an inundated lake. *under review*
 -   **Si, X.**, Kays, R. & Ding, P. How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. *under review*
 -   **Si, X.** *et al.* Partitioning beta diversity of bird communities on islands of an inundated lake. *preparing.*
 -   Shen, G., Pimm, S. L., Feng, C., Ren, G., Liu, Y., Xu, W., Li, J., **Si, X.**, Su, H. & Xie, Z. Climate change challenges the static conservation strategy for the giant panda. *under review*.
