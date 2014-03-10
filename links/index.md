@@ -1,5 +1,5 @@
 ---
-title: Links
+title: Eco-Links
 layout: page
 ---
 
@@ -19,9 +19,11 @@ layout: page
 
 # Programs
 
--	A comprehensive list of [**ecology programs**](http://sixf.org/en/pages/ecology-programs/) (still adding)
+-	A comprehensive list of [**Ecology Programs**](http://sixf.org/en/pages/ecology-programs/) (still adding)
 
 
 ---
 
 # Database
+
+-	[**Environmental and Biodiversity Databases**](http://sixf.org/en/pages/environmental-biodiversity-databases/) (still adding)
