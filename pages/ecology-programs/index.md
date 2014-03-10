@@ -3,7 +3,7 @@ title: Ecology and Phylogeny Programs
 layout: page
 ---
 
-**Note: This helpful information comes from [Simone Fattorini's homepage](https://sites.google.com/site/fattorinitenebrionidae/). After 'forked' them directly to my site, I updated all links. I will try to translate them into Chinese, and gradually add more related programs in Ecology. Thanks again for the great work, Dr. Fattorini!** 
+**Note: This helpful information comes from [Simone Fattorini's homepage](https://sites.google.com/site/fattorinitenebrionidae/). After 'forked' them directly to my site, I updated and organised all links. I will try to translate them into Chinese, and gradually add more related programs in Ecology. Thanks again for the great work, Dr. Fattorini!** 
 
 This is a list of sites were you can find a number of programs useful in
 ecological research:
@@ -20,20 +20,14 @@ ecological research:
 -   [EasyReg](http://econ.la.psu.edu/~hbierens/EASYREG.HTM): Regression and kernel density analysis
 -   [EcoSimR](http://www.uvm.edu/~ngotelli/EcoSim/EcoSim.html): Null models for Ecology
 -   [EstimateS](http://viceroy.eeb.uconn.edu/EstimateS): Estimating species richness with non parametric estimators
--   [Impact](http://www.keib.umk.pl/impact/): Species response to environmental gradient
 -   [Mark](http://www.cnr.colostate.edu/~gwhite/mark/mark.htm): Estimations based on marked individuals
--   [Nestedness](http://www.keib.umk.pl/nestedness/): measuring order and disorder in ecological communities
--   [Niche](http://www.keib.umk.pl/niche/): metacommunity analysis
--   [NODF](http://www.keib.umk.pl/nodf/): nestedness analysis
 -   [PCORD](http://home.centurytel.net/~mjm/): Multivariate Analysis of Ecological Data
--   [PatchOccupancy](http://www.keib.umk.pl/drugorzedne-oprogramowanie/): species spatial distributions
 -   [PCCA](http://anolis.oeb.harvard.edu/~liam/programs/): phylogenetic canonical correlation analysis
 -   [Phylip](http://evolution.genetics.washington.edu/phylip.html): Inferring phylogenies
 -   [Past](http://folk.uio.no/ohammer/past/): multivariate analyses in community ecology
--   R Progamme
+-   [R Language](http://www.r-project.org): The R Project for Statistical Computing
 	-	[labdsv](http://cran.r-project.org/web/packages/labdsv/): Ordination and Multivariate Analysis for Ecology  
--   [Paris](http://www.keib.umk.pl/pairs/): pairwise species associations in ecological matrices
--   [RAD](http://www.keib.umk.pl/rad/): rank abundance distribution
+	-	[Pierre Legendre's lab](http://adn.biol.umontreal.ca/~numericalecology/Rcode/): R packages for ecological analysis
 -   [Rangemodel](http://viceroy.eeb.uconn.edu/RangeModel): Geometric constraints analysis
 -   [Resampling](http://www.uvm.edu/~dhowell/StatPages/Resampling/Resampling.html): Bootstrapping and jackknifing
 -   [SAM](http://www.ecoevol.ufg.br/sam/): Spatial Analysis in Macroecology
@@ -42,8 +36,16 @@ ecological research:
 -   [SPOMSIM](http://www.helsinki.fi/bioscience/consplan/software/SPOMSIM.html): Metapopulation simulation
 -   [Temperature calculator](http://www.aics-research.com/nestedness/tempcalc.html): Classic Nestedness temperature calculator
 -   [TreeView](http://taxonomy.zoology.gla.ac.uk/rod/treeview.html): a program for manipulating phylogenetic trees
--   [Transitivity](http://www.keib.umk.pl/turnover/transitivity/): multivariate competitive interactions 
--   [Turnover](http://www.keib.umk.pl/turnover/): null models
+-   [Werner Ulrich's lab](http://www.keib.umk.pl/?lang=en): Ecology and Biogeography
+	-   [Nestedness](http://www.keib.umk.pl/nestedness/): measuring order and disorder in ecological communities
+	-   [Niche](http://www.keib.umk.pl/niche/): metacommunity analysis
+	-   [NODF](http://www.keib.umk.pl/nodf/): nestedness analysis
+	-   [Paris](http://www.keib.umk.pl/pairs/): pairwise species associations in ecological matrices
+	-   [PatchOccupancy](http://www.keib.umk.pl/drugorzedne-oprogramowanie/): species spatial distributions
+	-   [RAD](http://www.keib.umk.pl/rad/): rank abundance distribution
+	-   [Impact](http://www.keib.umk.pl/impact/): Species response to environmental gradient
+	-   [Turnover](http://www.keib.umk.pl/turnover/): null models
+	-   [Transitivity](http://www.keib.umk.pl/turnover/transitivity/): multivariate competitive interactions 
 -   [Ws2m](http://eebweb.arizona.edu/diversity/): Estimating species richness
 -   [zt](http://bioinformatics.psb.ugent.be/webtools/zt/): Mantel and Partial Mantel test
 
@@ -82,6 +84,4 @@ mark-recapture methods
 A wide list of phylogeny programs can be found [here](http://evolution.genetics.washington.edu/phylip/software.html)
 
 Various programs for the analysis of evolutionary data [here](http://anolis.oeb.harvard.edu/~liam/programs/)
-
-A very huge number of programs for ecological analyses in R-language at [Pierre Legendre's homepage.](http://adn.biol.umontreal.ca/~numericalecology/Rcode/)
 
