@@ -1,5 +1,5 @@
 ---
-title: Ecology and Phylogeny Programs
+title: Ecology Programs
 layout: page
 ---
 
