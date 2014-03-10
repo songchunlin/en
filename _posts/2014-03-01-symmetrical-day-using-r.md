@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check Symmetrical Days From Year 2000 to 2999 Using R
+title: Check Symmetrical Days Using R
 categories: [R language, symmetrical day, yyyymmdd]
 tags: [fun]
 comments: yes
