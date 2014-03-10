@@ -5,7 +5,7 @@ layout: page
 
 **Note: This helpful information comes from [Simone Fattorini's homepage](https://sites.google.com/site/fattorinitenebrionidae/). After 'forked' them directly to my site, I checked and reorganised all links. I will try to translate them into Chinese, and gradually add more related programs in Ecology. Thanks again for the great work, Dr. Fattorini!** 
 
-# ENVIRONMENTAL DATABASES
+# Environmental Databases
 
 -	[WorldClim](http://www.worldclim.org/): a set of global climate layers (climate grids) with a spatial resolution of about 1 square kilometer, including [bioclimatic variables](http://www.worldclim.org/bioclim).
 -	[Spot-Vegetation](http://www.spot-vegetation.com/): vegetation data.
@@ -13,7 +13,7 @@ layout: page
 -	[Diva GIS](http://diva-gis.org/Data): global climate data data
 -	[ALARM](http://www.alarmproject.net/alarm/): Assessing large-scale environmental risks with tested methods (ALARM) from Europe
 
-# Geographical databases
+# Geographical Databases
 
 -	A large selection of species occurrence, environmental and phylogenetic databases from the [International Biogeography Society](http://www.biogeography.org/html/Resources/databases.html)
 -	[Diva GIS](http://diva-gis.org/Data): global geographical data, including elevational models and satellite images. 
@@ -23,7 +23,7 @@ layout: page
 -	[ISTAT](http://www.istat.it/en/): Statistics for Italy
 
 
-# GLOBAL BIODIVERSITY DATABASES
+# Global Biodiversity Databases
 
 -	[Global Biodiversity Information Facility (GBIF)](http://www.gbif.org/): Data for a wide range of organisms in many regions of the world
 -	[Ocean Biogeographic Information System (OBIS)](http://www.iobis.org/): Data network for marine taxa
@@ -32,7 +32,7 @@ layout: page
 -	[Diva GIS](http://diva-gis.org/Data): global geographical data. A collection of species occurrence data from [HerpNET](http://herpnet.org/), [MaNIS](http://manis.mvz.berkeley.edu/pres/PresentationServlet?action=home), [ORNIS](http://ornisnet.org/), [REMIB](http://www.conabio.gob.mx/remib_ingles/doctos/remibnodosdb.html?)
 
 
-# PARASITE DATABASES
+# Parasite Databases
 
 -	Gibson DI, Bray RA, Harris EA (2005) Host-Parasite Database of the
 Natural History Museum, London.
@@ -44,7 +44,7 @@ Collection - U.S. Department of Agriculture, Agricultural Research
 Service, Biosystematics and National Parasite Collection Unit.
 Bletsville Maryland. [Link](http://www.anri.barc.usda.gov/bnpcu/parasrch.asp)
 
-# VERTEBRATE DATABASES
+# Vertebrate Databases
 
 ## Fish
 
