@@ -3,8 +3,6 @@ title: Environmental and Biodiversity Databases
 layout: page
 ---
 
-**Note: This helpful information comes from [Simone Fattorini's homepage](https://sites.google.com/site/fattorinitenebrionidae/). After 'forked' them directly to my site, I checked and reorganised all links. I will try to translate them into Chinese, and gradually add more related programs in Ecology. Thanks again for the great work, Dr. Fattorini!** 
-
 # Environmental Databases
 
 -	[WorldClim](http://www.worldclim.org/): a set of global climate layers (climate grids) with a spatial resolution of about 1 square kilometer, including [bioclimatic variables](http://www.worldclim.org/bioclim).
@@ -17,10 +15,9 @@ layout: page
 
 -	A large selection of species occurrence, environmental and phylogenetic databases from the [International Biogeography Society](http://www.biogeography.org/html/Resources/databases.html)
 -	[Diva GIS](http://diva-gis.org/Data): global geographical data, including elevational models and satellite images. 
-
-# Miscellaneous
-
--	[ISTAT](http://www.istat.it/en/): Statistics for Italy
+-	[Global Change Parameters Databases](http://globalchange.nsdc.cn/page/index.vpage): Remote sensing data in China and nearby countries
+-	[EarthExplorer](http://earthexplorer.usgs.gov): Landsate Data through [LandsatLook Viewer](http://landsatlook.usgs.gov) 
+-	[EORS](http://eros.usgs.gov/#/Find_Data/Products_and_Data_Available/TM): Earth Resources Observation and Science Center
 
 
 # Global Biodiversity Databases
@@ -30,6 +27,7 @@ layout: page
 -	[Distributed Information for Biological Collections (SpeciesLink)](http://splink.cria.org.br/index?&setlang=en): Distributed information system that integrates primary data from biological collections
 -	[World Information Network on Biodiversity (REMIB)](http://www.conabio.gob.mx/remib_ingles/doctos/remib_ing.html): A network that shares a biological information. It consist of nodes whose research centres house scientific collections
 -	[Diva GIS](http://diva-gis.org/Data): global geographical data. A collection of species occurrence data from [HerpNET](http://herpnet.org/), [MaNIS](http://manis.mvz.berkeley.edu/pres/PresentationServlet?action=home), [ORNIS](http://ornisnet.org/), [REMIB](http://www.conabio.gob.mx/remib_ingles/doctos/remibnodosdb.html?)
+-	[GBIF](http://www.gbif.org): Global Biodiversity Information Facility
 
 
 # Parasite Databases
@@ -71,3 +69,13 @@ world, containing over 9 million records about 10,000 species and 22,000
 subspecies of birds, including distribution information, taxonomy,
 synonyms etc.
 -	A large selection of species occurrence, environmental and phylogenetic [databases](http://www.biogeography.org/html/Resources/databases.html)
+
+# Miscellaneous
+
+-	[ISTAT](http://www.istat.it/en/): Statistics for Italy
+
+
+---
+---
+
+Sources from [**Simone Fattorini**](https://sites.google.com/site/fattorinitenebrionidae/), and the Internet. Compiled by [**Xingfeng Si**](http://sixf.org). 
