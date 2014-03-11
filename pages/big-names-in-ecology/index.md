@@ -36,19 +36,18 @@ Now so many ecologists activating on ecological studies, I am sure this list can
 
 [Sandrine Pavoine](http://www2.mnhn.fr/cersp/spip.php?rubrique26) | [Pedro Peres-Neto](http://www.er.uqam.ca/nobel/r3424621/labo/en/site/Home.html) | [Albert Phillimore](http://phillimore.bio.ed.ac.uk/home) | [Hugh Possingham](http://www.possinghamlab.org) | [Stuart Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm) | [Andreas Prinzing](http://ecobio.univ-rennes1.fr/Fiches_perso/Fiche.asp?pseudo=APrinzing) | [Andy Purvis](http://www.imperial.ac.uk/AP/faces/pages/read/Home.jsp?person=a.purvis) | [Petr Pyšek](http://www.ibot.cas.cz/personal/pysek/index.htm)
 
+[Simon A. Queenborough](http://www.simonqueenborough.com/index.html)
+
 [Daniel L. Rabosky](http://cteg.berkeley.edu/%7Erabosky/Home.html) | [Carsten Rahbek](http://macroecology.ku.dk/) | [Peter H. Raven](http://www.missouribotanicalgarden.org/plant-science/plant-science/research-staff/article/379/raven-peter-h.aspx)
 
 [Çağan H. Şekercioğlu](www.sekercioglu.org) | [Dolph Schluter](https://www.zoology.ubc.ca/~schluter/wordpress/) | [Daniel Simberloff](http://eeb.bio.utk.edu/peopletwo/daniel-simberloff/) | [Jens-Christian Svenning](http://pure.au.dk/portal/en/svenning@biology.au.dk) | [Navjot Sodhi (deceased)](http://www.dbs.nus.edu.sg/lab/cons-lab/navjot_sodhi.html) | [Janne H. Soinin](http://blogs.helsinki.fi/jhsoinin/) | [Nate Swenson](http://www.msu.edu/%7Eswensonn/Site_5/Home.html) | [Felisa A. Smith](http://biology.unm.edu/fasmith/research.html) | [Martin Sykes](http://www.nateko.lu.se/embers/sykesres.htm)
 
 [John W. Terborgh](http://fds.duke.edu/db/Nicholas/esp/faculty/manu) | [Wilfried Thuiller](http://www.will.chez-alice.fr/) | [Hanna Tuomisto](http://oxford.academia.edu/HannaTuomisto)
 
-[Simon A. Queenborough](http://www.simonqueenborough.com/index.html)
-
 [Steven M. Vamosi](http://www.ucalgary.ca/%7Esmvamosi/publications.htm) | [Mark Vellend](http://www3.botany.ubc.ca/vellend/index.htm)
 
-[Peter Wainwright](http://fishlab.ucdavis.edu/) | [John Wakeley](http://www.oeb.harvard.edu/faculty/wakeley/John/wakeley.htm) | [Bruce Walsh](http://nitro.biosci.arizona.edu/) | [Campbell O. Webb](http://camwebb.info) | [Jason Weir](http://www.utsc.utoronto.ca/%7Ejweir/research.html) | [John J. Wiens](http://www.wienslab.com/Home.html) | [Michael R. Willig](http://hydrodictyon.eeb.uconn.edu/people/willig/index.htm) | [Edward O. Wilson](http://en.wikipedia.org/wiki/E_O_Wilson) | [Robert J. Whittaker](http://www.geog.ox.ac.uk/staff/rwhittaker.html)
-
-
+[Peter Wainwright](http://fishlab.ucdavis.edu/) | [John Wakeley](http://www.oeb.harvard.edu/faculty/wakeley/John/wakeley.htm) | [Bruce Walsh](http://nitro.biosci.arizona.edu/) | [Campbell O. Webb](http://camwebb.info) | [Jason Weir](http://www.utsc.utoronto.ca/%7Ejweir/research.html) | [John J. Wiens](http://www.wienslab.com/Home.html) | [Michael R. Willig](http://hydrodictyon.eeb.uconn.edu/people/willig/index.htm) | [Edward O. Wilson](http://en.wikipedia.org/wiki/E_O_Wilson) |
+[Robert J. Whittaker](http://www.geog.ox.ac.uk/staff/rwhittaker.html)
 
 ---
 ---
