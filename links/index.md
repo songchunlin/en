@@ -25,18 +25,18 @@ layout: page
 
 # Bigged and Bigging Names
 
--	[Big Names in Ecology](http://sixf.org/en/pages/big-names-in-ecology/) (~ 130 scholars and still adding)
+-	[Big Names in Ecology](http://sixf.org/en/2014/03/big-names-in-ecology/) (~ 130 scholars and still adding)
 
 ---
 
 # Programs
 
--	[Ecology, Biogeography and Evolutionary Programs](http://sixf.org/en/pages/ecology-programs/) (still adding)
--	[R language](http://sixf.org/en/pages/r-language/) (still adding)
+-	[Ecology, Biogeography and Evolutionary Programs](http://sixf.org/en/2014/03/ecology-programs/) (still adding)
+-	[R language](http://sixf.org/en/2014/03/r-language/) (still adding)
 
 
 ---
 
 # Databases
 
--	[Environmental and Biodiversity Databases](http://sixf.org/en/pages/environmental-biodiversity-databases/) (still adding)
+-	[Environmental and Biodiversity Databases](http://sixf.org/en/2014/03/environmental-biodiversity-databases/) (still adding)

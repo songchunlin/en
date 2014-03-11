@@ -1,9 +1,12 @@
 ---
 title: Big Names in Ecology
-layout: page
+tags: [famous scholars, ecology, environmental, evolution, ISI]
+categories: [academic]
+layout: post
+comments: yes
 ---
 
-Now so many ecologists activating on ecological studies, I am sure this list cannot include all, so it is still open to add more eminent big names or to-be big names in the future. Please [contact me](http://sixf.org/en/about/) if you would like to suggest more scholars you known them very well but do not on the list, or any dead links found below. The list is sorted alphabetically by their family names.
+Now so many ecologists activating on ecological studies, I am sure this list cannot include all, so it is still open to add more eminent big names or to-be big names in the future. Please leave a message if you would like to suggest more scholars you known them very well but do not on the list, or any dead links found below. The list is sorted alphabetically by their family names.
 
 [David Ackerly](http://ib.berkeley.edu/labs/ackerly/) | [Paul M. Agepow](http://www.agapow.net/)  | [Michael Alfaro](http://pandorasboxfish.squarespace.com/) | [Resit Akakaya](http://life.bio.sunysb.edu/ee/akcakayalab/) | [Cajsa L. Anderson](http://cajsalisa.net/cajsalisa.index.html) | [Amy Angert](http://angert.botany.ubc.ca) | [Miguel B. Araújo](http://www.biochange-lab.eu/)
 

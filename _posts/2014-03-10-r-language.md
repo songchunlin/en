@@ -1,6 +1,9 @@
 ---
-title: R Language
-layout: page
+title: Packages of R Language for Ecological Studies
+tags: [vegan, ecology, environmental, evolution, statistics]
+categories: [academic, software]
+layout: post
+comments: yes
 ---
 
 # R Language for Ecological Statistics

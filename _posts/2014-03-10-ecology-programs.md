@@ -1,6 +1,9 @@
 ---
-title: Ecology Programs
-layout: page
+title: Ecology and Environmental Programs
+tags: [ecology, global, community ecology, conservation biology]
+categories: [academic, software]
+layout: post
+comments: yes
 ---
 
 # Ecological Researches
