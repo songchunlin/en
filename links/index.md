@@ -26,7 +26,7 @@ layout: page
 
 # Bigged and Bigging Names
 
--	[Big Names in Ecology](http://sixf.org/en/2014/03/big-names-in-ecology/) (~ 230 scholars and still adding)
+-	[Big Names in Ecology](http://sixf.org/en/2014/03/big-names-in-ecology/) (~ 270 scholars and still adding)
 
 ---
 
