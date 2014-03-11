@@ -12,20 +12,31 @@ layout: page
 -	BCI
 -	Duke Forest
 
+---
+
+# Bloggers
+
+-	Ecological Bloggers (still adding)
+	-	[ConservationBytes.com](http://conservationbytes.com)
+	-	[ALERT](http://alert-conservation.org)
+	-	[NatureThinker](http://www.naturethinker.org)
 
 -----
 
-# Big Names
+# Bigged and Bigging Names
+
+-	[Big Names in Ecology](http://sixf.org/en/pages/big-names-in-ecology/) (still adding)
 
 ---
 
 # Programs
 
--	A comprehensive list of [**Ecology Programs**](http://sixf.org/en/pages/ecology-programs/) (still adding)
+-	[Ecology, Biogeography and Evolutionary Programs](http://sixf.org/en/pages/ecology-programs/) (still adding)
+-	[R language](http://sixf.org/en/pages/r-language/) (still adding)
 
 
 ---
 
 # Databases
 
--	[**Environmental and Biodiversity Databases**](http://sixf.org/en/pages/environmental-biodiversity-databases/) (still adding)
+-	[Environmental and Biodiversity Databases](http://sixf.org/en/pages/environmental-biodiversity-databases/) (still adding)
