@@ -3,10 +3,7 @@ title: Ecology Programs
 layout: page
 ---
 
-**Note: This helpful information comes from [Simone Fattorini's homepage](https://sites.google.com/site/fattorinitenebrionidae/). After 'forked' them directly to my site, I checked and reorganised all links. I will try to translate them into Chinese, and gradually add more related programs in Ecology. Thanks again for the great work, Dr. Fattorini!** 
-
-This is a list of sites were you can find a number of programs useful in
-ecological research:
+# Ecological Researches
 
 -   [ADE-4](http://pbil.univ-lyon1.fr/JTHome/ref/ADE-4-Web.html): a multivariate analysis and graphical display software
 -   [BINMATNEST](http://www.eeza.csic.es/eeza/personales/rgirones.aspx): nestedness analysis
@@ -25,9 +22,6 @@ ecological research:
 -   [PCCA](http://anolis.oeb.harvard.edu/~liam/programs/): phylogenetic canonical correlation analysis
 -   [Phylip](http://evolution.genetics.washington.edu/phylip.html): Inferring phylogenies
 -   [Past](http://folk.uio.no/ohammer/past/): multivariate analyses in community ecology
--   [R Language](http://www.r-project.org): The R Project for Statistical Computing
-	-	[labdsv](http://cran.r-project.org/web/packages/labdsv/): Ordination and Multivariate Analysis for Ecology  
-	-	[Pierre Legendre's lab](http://adn.biol.umontreal.ca/~numericalecology/Rcode/): R packages for ecological analysis
 -   [Rangemodel](http://viceroy.eeb.uconn.edu/RangeModel): Geometric constraints analysis
 -   [Resampling](http://www.uvm.edu/~dhowell/StatPages/Resampling/Resampling.html): Bootstrapping and jackknifing
 -   [SAM](http://www.ecoevol.ufg.br/sam/): Spatial Analysis in Macroecology
@@ -49,39 +43,31 @@ ecological research:
 -   [Ws2m](http://eebweb.arizona.edu/diversity/): Estimating species richness
 -   [zt](http://bioinformatics.psb.ugent.be/webtools/zt/): Mantel and Partial Mantel test
 
-This is a list of programs specifically designed for biogeographical
-analyses:
+# Biogeographical Analyses:
 
 -   [Biomapper](http://www2.unil.ch/biomapper/index.html): a kit og GIS- and statistical tools designed to build
     habitat suitability (HS) models
 -   [DesktopGarp](http://www.nhm.ku.edu/desktopgarp/index.html): to predict and analyze wild species distributions
 -   [DIVA GIS](http://www.diva-gis.org/): for mapping and analyzing biodiversity data
 
-Wide lists of programs for community and population ecology at:
+# Community and Population Ecology
 
-[INHS](http://nhsbig.inhs.uiuc.edu/wes/soft_text.html): including,
-among others, links to software for population density and abundance,
-survival rates for capture-recapture of marked populations, bioacustics,
-home range, banding data analysis, rarefaction, geometric series, log
-series, truncated log normal, broken stick, Q statistic, Shannon
-diversity index, Brillouin index, Simpson's index, McIntosh's index,
-Berger-Parker index, jack-knifing, Pielou's pooled quadrat, beta
-diversity, similarity measures, radio telemetry, landscape structure
-analysis, LOcally Weighted regrESSion, multivariate statistics
+-	[INHS](http://nhsbig.inhs.uiuc.edu/wes/soft_text.html): including software for population density and abundance, survival rates for capture-recapture of marked populations, bioacustics, home range, banding data analysis, rarefaction, geometric series, log series, truncated log normal, broken stick, Q statistic, Shannon diversity index, Brillouin index, Simpson's index, McIntosh's index, Berger-Parker index, jack-knifing, Pielou's pooled quadrat, beta diversity, similarity measures, radio telemetry, landscape structure analysis, LOcally Weighted regrESSion, multivariate statistics
 
-[Pisces Staff](http://www.pisces-conservation.com/): including
-packages for: NMDS, DECORANA, TWINSPAN, Reciprocal Averaging, PCA,
-ANOSIM, SIMPER, Cluster analysis, Similarity and distance measures;
-Canonical Correspondence Analysis (CCA), Redundancy Analysis (RDA) and Multiple Regression (MR); diversity and distance measures from genetic
-sequences; statistical analysis of circular data; Fuzzy clustering
-methods; animal and plant density from measurements of the distance
-between objects; population statistics from removal trapping data; fits
-and plots von Bertalanffy, Seasonally-adjusted von Bertalanffy,
-Gompertz, Logistic and many other growth curves to length and/or weight
-at age data; population size of both closed and open populations with
-mark-recapture methods
+-	[Pisces Staff](http://www.pisces-conservation.com/): including
+packages for: NMDS, DECORANA, TWINSPAN, Reciprocal Averaging, PCA, ANOSIM, SIMPER, Cluster analysis, Similarity and distance measures; Canonical Correspondence Analysis (CCA), Redundancy Analysis (RDA) and Multiple Regression (MR); diversity and distance measures from genetic sequences; statistical analysis of circular data; Fuzzy clustering methods; animal and plant density from measurements of the distance between objects; population statistics from removal trapping data; fits and plots von Bertalanffy, Seasonally-adjusted von Bertalanffy, Gompertz, Logistic and many other growth curves to length and/or weight at age data; population size of both closed and open populations with mark-recapture methods
 
-A wide list of phylogeny programs can be found [here](http://evolution.genetics.washington.edu/phylip/software.html)
+# Phylogeny Programs 
 
-Various programs for the analysis of evolutionary data [here](http://anolis.oeb.harvard.edu/~liam/programs/)
+-	[392 Packages and 54 Servers](http://evolution.genetics.washington.edu/phylip/software.html)
 
+# Evolutionary Programs
+
+-	[Liam J. Revell's Site](http://anolis.oeb.harvard.edu/~liam/programs/)
+
+
+
+---
+---
+
+Sources from [**Simone Fattorini**](https://sites.google.com/site/fattorinitenebrionidae/), and the Internet. Compiled by [**Xingfeng Si**](http://sixf.org). 
