@@ -4,13 +4,26 @@ layout: page
 ---
 
 
-# Field Stations
+# Bigged and Bigging Names
 
--	[Thousand Island Lake](http://sixf.org/en/pages/thousand-island-lake): A man-made lake created in 1959 with more than one thousand islands in western Zhejiang Province, China
--	[CForBio](http://www.cfbiodiv.org/): Chinese Forest Biodiversity Monitoring Network
-	-	[Gutianshan Reserve](http://sixf.org/en/pages/gutianshan-reserve): A nature reserve established in 1975 in western Zhejiang Province, China
--	BCI
--	Duke Forest
+-	[Big Names in Ecology](http://sixf.org/en/2014/03/big-names-in-ecology/) (~ 270 scholars and still adding)
+
+
+-----
+
+# Programs
+
+-	[Ecology, Biogeography and Evolutionary Programs](http://sixf.org/en/2014/03/ecology-programs/) (still adding)
+-	[R language](http://sixf.org/en/2014/03/r-language/) (still adding)
+-	[pandoc](http://johnmacfarlane.net/pandoc/) 
+-	[LyX](http://www.lyx.org) 
+
+
+---
+
+# Databases
+
+-	[Environmental and Biodiversity Databases](http://sixf.org/en/2014/03/environmental-biodiversity-databases/) (still adding)
 
 ---
 
@@ -22,22 +35,13 @@ layout: page
 	-	[NatureThinker](http://www.naturethinker.org)
 	-	[Rob Dunn](http://www.robrdunn.com)
 
------
-
-# Bigged and Bigging Names
-
--	[Big Names in Ecology](http://sixf.org/en/2014/03/big-names-in-ecology/) (~ 270 scholars and still adding)
-
 ---
 
-# Programs
+# Field Stations
 
--	[Ecology, Biogeography and Evolutionary Programs](http://sixf.org/en/2014/03/ecology-programs/) (still adding)
--	[R language](http://sixf.org/en/2014/03/r-language/) (still adding)
+-	[Thousand Island Lake](http://sixf.org/en/pages/thousand-island-lake): A man-made lake created in 1959 with more than one thousand islands in western Zhejiang Province, China
+-	[CForBio](http://www.cfbiodiv.org/): Chinese Forest Biodiversity Monitoring Network
+	-	[Gutianshan Reserve](http://sixf.org/en/pages/gutianshan-reserve): A nature reserve established in 1975 in western Zhejiang Province, China
+-	BCI
+-	Duke Forest
 
-
----
-
-# Databases
-
--	[Environmental and Biodiversity Databases](http://sixf.org/en/2014/03/environmental-biodiversity-databases/) (still adding)
