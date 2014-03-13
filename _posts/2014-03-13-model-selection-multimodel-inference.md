@@ -1,5 +1,5 @@
 ---
-title: Determinants of Bird Richness and Tombs at TIL
+title: Model Selection and Multimodel Inference
 tags: [Thousand Island Lake, AIC, Zhejiang]
 categories: [Statistics,Fun]
 layout: post
@@ -7,15 +7,15 @@ comments: yes
 ---
 
 
-#### Based on the Model Selection and Multimodel Inference
+#### A Case Study of Bird Richness and Tomb Occupancy at the Thousand Island Lake
 
 [**Xingfeng Si**](http://sixf.org/en)
 
-Institute of Imagination Sciences, College of Life Sciences of Zhejiang University, Hangzhou Zhejiang 310035, China
+Institute of Imagination Sciences, Zhejiang University, Hangzhou Zhejiang 310035, China
 
 ## Abstract
 
-Because of the biases and shortcomings of the stepwise multiple regression, the Information Theoretic (IT) are becoming a reliable method to inference the data well, even there have a larger number of competing models. Here, based on the Akaike Information Criterion, we analysed the determinants of the bird richness at the Thousand Island Lake using the method multimodel inference. Additionally, we discussed the distribution pattern of tombs on the islands. Bird communities on the island were determined by island area and habitat richness, while the occupancy of tombs was determined by habitat richness only. Our results firstly showed bird richness significantly related with tomb occupancy, which may be a potential indicator to find the tombs in the region of Thousand Island Lake.
+Because of the biases and shortcomings of the stepwise multiple regression, the Information Theoretic (IT) are becoming a reliable method to infer the data well, even there have a larger number of competing models. Here, based on the Akaike Information Criterion, we analysed the determinants of the bird richness at the Thousand Island Lake using the method of multimodel inference. Additionally, we discussed the distribution pattern of tombs on the islands. The results showed bird communities on the islands were determined by island area and habitat richness, while the occupancy of tombs was determined by shape of the islands. The results firstly showed bird richness significantly related with tomb occupancy, which may be a potential indicator to find the tombs in the region of the Thousand Island Lake.
 
 ## Keywords
 
@@ -23,20 +23,20 @@ AIC, model selection, birds, multimodel inference,  stepwise regression,Thousand
 
 ## Introduction
 
-How to select the model as you are facing a larger number of competing models in your analyses? Using stepwise multiple regression, or the Information Theoretic Analysis? Whittingham et al. (2006) found 57% of 65 papers published in three leading ecological journals used a stepwise approach. Although the stepwise regression include several principal drawbacks, such as bias in parameter estimation, inconsistencies among model selection algorithms, an inherent problems of multiple hypothesis testing, and an inappropriate focus or reliance on a single best model, it is still widely used. For the detail mechanisms underlying these shortages of stepwise regression is not the scope of this blog. In this blog, I will introduce how to use the AIC to make the model selection.
+How to select the model as a larger number of competing models in your analyses? Using stepwise multiple regression, or the Information Theoretic Analysis? Whittingham *et al.* (2006) found 57% of 65 papers published in three leading ecological journals (*Ecology Letters*, *Journal of Applied Ecology*, and *Animal Behaviour*) used a stepwise approach. Although the stepwise regression includes several principal drawbacks, such as bias in parameter estimation, inconsistencies among model selection algorithms, an inherent problems of multiple hypothesis testing, and an inappropriate focus or reliance on a single best model, it is still widely used. For the detail mechanisms underlying these shortages of stepwise regression is not the scope of this paper. In this paper, I will introduce how to use the AIC for the model selection.
 
-The [Thousand Island Lake](http://sixf.org/en/pages/thousand-island-lake/)(hereafter, the Lake for simplify) locates at the western Zhejiang Province, eastern China. It was created in 1959 by the damming construction. Flooding more than 500 km^2, in formed 1078 islands with area > 0.25 ha at 108 m water-level, which is a natural experiment for the studying of island biogeography, and conservation biology. [Our group](http://mypage.zju.edu.cn/personnelCard/pingding) began to survey the bird communities since 2002, and now expanded to many biological categories, e.g. spider, reptiles, amphibians, snake, monkey, insects, small mammals, butterflies and vegetation monitoring. It is a rapidly growing project as welcome all the ecologists who have an interest. Just several months ago, I talked with the spider Dr. Wu in our group who forces on the spider researches, and discuss the possibility of analyzing the relationship between bird richness and fengshui. Yes, I know it is not easy to explain the word fengshui in English which is a special culture existing in Chinese history. Fengshui may be simply similar as good luck. For example, when someone was diseased, his/her family will try to find some place have a good fengshui to build the tomb as hope he/she will have another good destination after died. 
+The [Thousand Island Lake](http://sixf.org/en/pages/thousand-island-lake/)(hereafter, the Lake) locates at the western Zhejiang Province, eastern China. It was created in 1959 by the construction of Xin'anjiang Dam. Flooding around 500 km^2, it formed 1078 islands with area > 0.25 ha at 108 m water-level, which is a natural experiment for the studying of island biogeography, and conservation biology. [Our group](http://mypage.zju.edu.cn/personnelCard/pingding) began to survey the bird communities since 2002, and now expanded to many biological categories, e.g. spiders, reptiles, amphibians, snakes, monkeys, insects, small mammals, butterflies and plants. It is a rapidly growing project and welcomes all the ecologists who have an interest to participate in. Just several months ago, I talked with the spider Dr. Wu in our group who has special interests in the spider researches, and discussed the possibility of analyzing the relationship between bird richness and fengshui. Yes, I know it is not easy to explain the word fengshui in English which is a special culture existing in Chinese history. Fengshui may be simply explained as good luck. For example, when someone was passed away, his/her family will try to find some place have good fengshui to build the tomb as hope he/she will have another good living place after died. 
 
-Here, I employed the method of model selection and multimodel inference to analysis the determinants of the bird richness and tomb occurrence on the islands. This blog addressed these questions: 1) What is the AIC? Does it mean the American International College? 2) the key processes to run the multimodel inference. 3) the determinants of the bird and tomb distribution on the islands.
+Here, I employed the method of model selection and multimodel inference to analyze the determinants of the bird richness and tomb occupancy on the islands. This paper addressed these questions: 1) What is the AIC? Does it mean the American International College? 2) the key processes to run the multimodel inference. 3) the determinants of the bird and tomb distribution on the islands.
 
 
 ## Materials and Methods 
 
 ### Study area and island attributes
 
-We stratified randomly sampled 40 islands across the area and isolation gradients at the Lake.Since 2002, many islands attributes were measured which relate to bird richness, such as island area, isolation, plant richness, habitat types, perimeter, perimeter to area ratio (PAR), shape index (SI), and elevation. I also imagined several island attributed that may relate to discover the tombs on the islands, such as convex, slope, aspect, Al, Si, sand, and pH.
+We sampled 40 islands randomly stratified across the area and isolation gradients at the Lake.Since 2002, many islands attributes were measured which are related to bird richness, including area, isolation, plant richness, habitat types, perimeter, perimeter to area ratio (PAR), shape index (SI), and elevation. I also imagined several island attributed that may relate to discover the tombs on the islands, such as convex, slope, aspect, Al, Si, and sand index.
 
-The elements of Al and Si are the main substances of earth which has a good material for waterproof. The index of sand means the possibility of building a tomb on the island, because it is impossible to find a tomb on sand. pH might be related to the organic materiel on the tomb. Other factors, e.g. SI, convex, slope and aspect are the key indicators for fengshui. For example, a mountain with a perfect round shape, thick earth and high plant richness is the priority place to set a tomb.
+The elements of Al and Si are the main substances of Kaolin clay which is a good kind of soil for waterproof. The index of sand means the possibility of building a tomb on the island, because it is impossible to find a tomb in the sand. pH value is an indicator of the organic meterials in the tomb. Other factors, e.g. SI, convex, slope and aspect are the key indicators for fengshui. For example, a mountain with a perfect circle, thick soil and high plant richness is the priority place to set a tomb.
 
 ### AIC
 
@@ -46,17 +46,17 @@ Basically, AIC is
 
 ![](http://sixf.org/files/images/2014/03/eq1.png)
 
-where *k* is the number of parameters in the statistical model, and *L* is the maximized value of the likelihood function for the estimated model. We need not the know the detail calculation method, as there are already having existing functions in R packages, such as `AIC` function in `stat` package, and `extractAIC` in `stats` package. If you would like to calculate AIC by yourself, it is also easy to make it. If the variance of the model distributes normally, and n is the number of sampling, RSS is the residual-sum-squares, so
+where *k* is the number of parameters in the statistical model, and *L* is the maximized value of the likelihood function for the estimated model. Several existing functions in R packages were already developed, such as `AIC` function in `stat` package, and `extractAIC` in `stats` package to calculate the AIC. If you would like to calculate AIC by yourself, it is also easy to make it. Suppose the variance of the model distributes is normal, and n is the number of sampling, RSS is the residual-sum-squares, so
 
 ![](http://sixf.org/files/images/2014/03/eq2.png)
 
 Given a set of candidate models for the data, the preferred model is the one with the minimum AIC value. Hence AIC not only rewards goodness of fit, but also includes a penalty that is an increasing function of the number of estimated parameters. This penalty discourages overfitting.
 
-For the sample sizes, the AIC is corrected by AICc (corrected AIC)
+For the sample sizes (n/k < 40), the AIC is corrected by AICc (corrected AIC)
 
 ![](http://sixf.org/files/images/2014/03/eq3.png)
 
-where *n* denotes the sample size. Burnham & Anderson(2002) strongly recommend using AICc, rather than AIC, if *n* is small or *k* is larger. Since AICc converges to AIC as *n* gets large, AICc generally should be employed regardless (Most of the contents in the section was borrowed from [Wikipeadia](http://en.wikipedia.org/wiki/Akaike_information_criterion), whereas there is a mistake in the Chinese version of this page as it cited the Burnham & Anderson's book in 2004)
+where *n* denotes the sample size. Burnham & Anderson (2002) strongly recommend using AICc, rather than AIC, if *n* is small or *k* is larger. Since AICc converges to AIC as *n* gets large, AICc generally should be employed regardless (note: most of the contents in this section was borrowed from [Wikipeadia](http://en.wikipedia.org/wiki/Akaike_information_criterion), whereas there is a mistake in the Chinese version of this page as it cited the Burnham & Anderson's book as in 2004)
 
 If the overdispersion exists in the data, the QAIC would be a better choice, which is
 
@@ -66,35 +66,35 @@ $\hat{c}$ is the variance inflation factors, or the overdispersion coefficient. 
 
 ### Calculating the model weights
 
-Once get all the AIC values for each model, then sorting these model in the decreasing order of AIC. ∆AIC means the AIC of each model minus the small one. The model weight, also called Akaika weight(*w<sub>i</sub>*), is calculated as
+Once get all the AIC values for each model, then these models were sorted in the decreasing order of AIC. ∆AIC means the AIC of each model minus the smallest one. The model weight, also called Akaika weight(*w<sub>i</sub>*), is calculated as
 
 ![](http://sixf.org/files/images/2014/03/eq5.png)
 
-where *w<sub>i</sub>* the weight of the *i*th model。*w<sub>i</sub>* ranges between 0 and 1, and the sum of them equals 1. The larger the model weight, the more possibility to be the best "true" model. For example, if we get a model with the model weight *w<sub>2</sub>* is 0.31, indicating the probability of this model to be the best possible model is 31%.
+where *w<sub>i</sub>* the weight of the *i*th model. *w<sub>i</sub>* ranges between 0 and 1, and the sum of them equals 1. The larger the model weights, the more possibilities to be the best "true" model. For example, if we get a model with the model weight *w<sub>2</sub>* of 0.31, indicating the probability of this model to be the best possible model is 31%.
 
-The importance of each parameters can be calculated by the model weights, which add the weights of the model containing the parameter. After ranking the importance in decreasing order, it is clear which parameter is the most important one.
+The importance of each parameter can be calculated by the model weights, which add the weights of the model containing the parameter. After ranking the importance in the decreasing order, it is clear which parameter is the most important one.
 
 ### Model selection uncertainity and multimodel inference
 
-In practice, the result will be not so perfect as assumed. All the previous results were based on the assumption of ∆AIC > 2, meaning the AIC of second best model is larger than 2 points the smallest AIC. If ∆AIC > 2, it is safe to use the first model as the best model. If not, it means the first several competing models have substantially supports. So, how to deal with under this circumstance? The terminal weapon: model averaging.
+In practice, the result will be not so perfect as assumed. All the previous results were based on the assumption of ∆AIC > 2, meaning the AIC of second best model is larger 2 points than the smallest. If ∆AIC > 2, it is safe to use the first model as the best model. If not, it means the first several competing models have substantially supports. So, how to deal with under this circumstance? The terminal weapon: model averaging.
 
-Once ∆AIC > 2 is a golden rule (Burnham & Anderson, 2002), whereas Anderson (2008) suggested it is better to conclude all the possible models, UNLESS some model should be removed with confidence evidence. As the model with very small AIC, which also have small model weight, so the result will not be influenced a lot by the such models. Suppose *Y<sup>^</sup>* is the observed dependent value, such as the bird richness or the occupancy of the tomb in my case, whose averaging observed value is
+Once ∆AIC > 2 is a golden rule (Burnham & Anderson, 2002), whereas Anderson (2008) suggested it is better to conclude all the possible models UNLESS some models should be removed with confidence reasons. As the model with very small AIC values, which also have small model weights, so the model-averaged result will not be influenced a lot by such models. Suppose *Y<sup>^</sup>* is the observed dependent value, such as the bird richness or the occupancy of the tomb in my case, which is estimated as
 
 ![](http://sixf.org/files/images/2014/03/eq6.png)
 
-It means if you have nine candidate models, so there are nine model weights, and could calculate nine observes. The averaging observe dependence value is calculated for each observe multiply its model weight, i.e.
+It means if you have nine candidate models, so there are nine model weights, and could calculate nine observes. The model-averaged prediction is calculated for each prediction multiply by its model weight,
 
 ![](http://sixf.org/files/images/2014/03/eq7.png)
 
-As similar as the averaging observed dependent estimates, we can also get the model-averaged estimates of parameter. Suppose the estimate of the *i*th  parameter is *θ<sub>i</sub>*, it can be calculated directly from the model with smallest AIC value if the ∆AIC > 2. Once ∆AIC < 2, the averaged estimate of parameter is given by
+As similar as the model-averaged prediction, we can also get the model-averaged estimates of parameters. Suppose the estimate of the *i*th  parameter is *θ<sub>i</sub>*, it can be calculated directly from the model with the smallest AIC value if the ∆AIC > 2. Once ∆AIC < 2, the averaged estimate of parameter is given by
 
 ![](http://sixf.org/files/images/2014/03/eq8.png)
 
-Then using the model weight, we obtained the unconditional variance estimate (Burnham & Anderson, 2002, p162)
+Then with the model weight, we obtained the unconditional variance estimate (Burnham & Anderson, 2002, p.162)
 
 ![](http://sixf.org/files/images/2014/03/eq9.png)
 
-Anderson suggested we should use the alternative one (Anderson, 2008 p111), which is
+Dr. Anderson suggested we should use the alternative one (Anderson, 2008, p.111), which is
 
 ![](http://sixf.org/files/images/2014/03/eq10.png)
 
@@ -104,13 +104,13 @@ where $\hat{\bar{θ}}$ is the model-averaged estimate, *w<sub>i</sub>* is model 
 
 ### Case study
 
-Before running the code below, to be sure these package were installed: `glmulti`, `MuMIn`, `bbmle`. If not, simply put the below code to the R console, and the installation will start automatically.
+Before running the code below, to be sure these package were installed: `glmulti`, `MuMIn`, `bbmle`. If not, simply entry the following code into the R console, and the installation will start automatically.
 
 {% highlight r %}
 install.packages("glmulti")
 {% endhighlight %}
 
-Or else, download these packages from any CRAN of R project, and install them locally.
+Or else, download these packages from any [CRAN of R project](http://www.r-project.org), and install them locally.
 
 
 #### Case One: the determinant of bird richness at the Lake
@@ -127,7 +127,7 @@ library(glmulti)
 ```
 
 
-Load the bird and island data (this is the real data, but I shuffled the data randomly)
+Load the bird and island data (this is the real data, but I shuffled them randomly)
 
 
 {% highlight r %}
@@ -136,12 +136,12 @@ str(tilbird)  # check the data structure of `til.bird`
 {% endhighlight %}
 
 ```
-## 'data.frame':  40 obs. of  9 variables:
+## 'data.frame':	40 obs. of  9 variables:
 ##  $ birdspp  : int  43 34 35 32 31 27 30 33 24 24 ...
 ##  $ area     : num  1289.2 143.2 109 55.1 46.4 ...
 ##  $ isolation: num  897 1415 965 954 730 ...
-##  $ plants   : int  198 99 86 59 51 49 57 69 74 85 ...
-##  $ habitats : int  7 6 6 5 5 5 5 3 4 3 ...
+##  $ plants   : int  36 50 88 86 65 68 45 49 45 31 ...
+##  $ habitats : int  3 6 3 3 3 3 3 7 4 4 ...
 ##  $ Pe       : num  105965 17465 12022 7570 10444 ...
 ##  $ PAR      : num  82.2 122 110.3 137.4 225.2 ...
 ##  $ SI       : num  832 412 325 288 433 ...
@@ -153,7 +153,7 @@ The first column of the data is the bird species on each island, and thereby eig
 
 Before running the model, we should check the independence of each variables. There are several available methods, such as correlation test, VIF and PCA analyses. Here, we use the common method of correlation test.
 
-The R function for correlation test is `cor.test`, which is a test for two factors. Function `cor` can run the correlation with more than two factors, but no p-values in the result. So, I wrote a function to run the test with p-value in the result, named `cor.sig`.
+The R function for correlation test is `cor.test`, which is a test for two factors. Function `cor` can run the correlation with more than two factors, but no p-values showed in the result. So, I wrote a simple function to run the test with p-value in the result, named `cor.sig`.
 
 {% highlight r %}
 cor.sig = function(test) {
@@ -199,19 +199,19 @@ cor.sig(tilbird[, 2:9])  # exclude the first column which is the bird richness, 
 
 ```
 ##                area isolation    plants  habitats        Pe       PAR
-## area           1*** -0.115     0.798***  0.623***  0.996*** -0.429** 
-## isolation -0.115         1*** -0.132    -0.191    -0.117     0.299   
-## plants     0.798*** -0.132         1***  0.542***  0.798*** -0.521***
-## habitats   0.623*** -0.191     0.542***      1***  0.676*** -0.805***
-## Pe         0.996*** -0.117     0.798***  0.676***      1*** -0.481** 
-## PAR       -0.429**   0.299    -0.521*** -0.805*** -0.481**       1***
-## SI         0.857*** -0.045     0.697***  0.827***  0.898*** -0.619***
-## elev       0.726*** -0.127     0.666***  0.924***  0.775*** -0.803***
+## area           1*** -0.115    -0.139    -0.064     0.996*** -0.429** 
+## isolation -0.115         1*** -0.101      -0.1    -0.117     0.299   
+## plants    -0.139    -0.101         1***  -0.16    -0.138    -0.048   
+## habitats  -0.064      -0.1     -0.16         1*** -0.057    -0.035   
+## Pe         0.996*** -0.117    -0.138    -0.057         1*** -0.481** 
+## PAR       -0.429**   0.299    -0.048    -0.035    -0.481**       1***
+## SI         0.857*** -0.045    -0.167    -0.034     0.898*** -0.619***
+## elev       0.726*** -0.127    -0.039    -0.032     0.775*** -0.803***
 ##                  SI      elev
 ## area       0.857***  0.726***
 ## isolation -0.045    -0.127   
-## plants     0.697***  0.666***
-## habitats   0.827***  0.924***
+## plants    -0.167    -0.039   
+## habitats  -0.034    -0.032   
 ## Pe         0.898***  0.775***
 ## PAR       -0.619*** -0.803***
 ## SI             1***  0.888***
@@ -219,9 +219,9 @@ cor.sig(tilbird[, 2:9])  # exclude the first column which is the bird richness, 
 ```
 
 
-The results indicated a significant correlation existed among area, perimeter, PAR, SI and elevation. We know area is a very important parameter in the theory of island biogeography. Other parameters may be resulted by area, so I excluded the perimeter, PAR, SI and elevation, and only four parameter entering the analyses: area, isolation, plant richness and habitat types.
+The results indicated significant correlations existed among area, perimeter, PAR, SI and elevation. We know area is a very important parameter in the theory of island biogeography. Other parameters may be resulted by area, so I excluded the perimeter, PAR, SI and elevation, and only four parameters entering the analyses: area, isolation, plant richness and habitat types.
 
-I simply used the linear model. The global model is 
+I simply chose the linear model. The global model is 
 
 
 {% highlight r %}
@@ -229,7 +229,7 @@ global.model <- lm(birdspp ~ area + isolation + plants + habitats, data = tilbir
 {% endhighlight %}
 
 
-Then use the function `glmulti` in the `glmulti` package to choose the 'best ' model whose AIC is the smallest. Because I have four parameters, so totally have 2^4=16 candidate model (**excluding the interaction effect between island attributs**).
+Then use the function `glmulti` in the `glmulti` package to check the 'best ' model whose AIC is smallest. Because I have four parameters, so totally have 2^4=16 candidate models. Here, the interaction effects between island attributes were not accounted.
 
 
 {% highlight r %}
@@ -270,19 +270,19 @@ summary(bird.model)
 ## [1] 100
 ## 
 ## $bestic
-## [1] 204.9
+## [1] 223.7
 ## 
 ## $icvalues
-##  [1] 204.9 205.3 206.9 207.5 214.3 214.9 216.6 217.1 217.8 218.4 220.6
-## [12] 221.3 226.2 226.7 243.6 244.5
+##  [1] 223.7 223.8 225.0 225.7 226.2 226.7 228.6 228.7 243.6 244.1 244.5
+## [12] 244.5 246.0 246.7 246.8 247.0
 ## 
 ## $bestmodel
-## [1] "birdspp ~ 1 + plants + habitats"
+## [1] "birdspp ~ 1 + area + habitats"
 ## 
 ## $modelweights
-##  [1] 4.005e-01 3.296e-01 1.499e-01 1.103e-01 3.555e-03 2.653e-03 1.141e-03
-##  [8] 9.180e-04 6.250e-04 4.660e-04 1.578e-04 1.095e-04 9.564e-06 7.474e-06
-## [15] 1.568e-09 1.005e-09
+##  [1] 2.871e-01 2.708e-01 1.455e-01 1.049e-01 8.123e-02 6.348e-02 2.432e-02
+##  [8] 2.259e-02 1.332e-05 1.036e-05 8.538e-06 8.461e-06 3.984e-06 2.794e-06
+## [15] 2.652e-06 2.496e-06
 ## 
 ## $includeobjects
 ## [1] TRUE
@@ -303,19 +303,19 @@ summary(lm9)
 ## 
 ## Residuals:
 ##    Min     1Q Median     3Q    Max 
-## -6.665 -2.266  0.128  1.844  8.594 
+## -6.606 -2.107 -0.263  1.911  8.705 
 ## 
 ## Coefficients:
 ##             Estimate Std. Error t value Pr(>|t|)    
-## (Intercept) 17.47172    2.33167    7.49  6.3e-09 ***
-## area         0.00779    0.00343    2.27   0.0289 *  
-## habitats     2.29668    0.65987    3.48   0.0013 ** 
+## (Intercept) 20.69295    2.08432    9.93  5.6e-12 ***
+## area         0.01564    0.00289    5.41  3.9e-06 ***
+## habitats     1.29893    0.55652    2.33    0.025 *  
 ## ---
 ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 ## 
-## Residual standard error: 3.42 on 37 degrees of freedom
-## Multiple R-squared:  0.545,	Adjusted R-squared:  0.52 
-## F-statistic: 22.2 on 2 and 37 DF,  p-value: 4.71e-07
+## Residual standard error: 3.67 on 37 degrees of freedom
+## Multiple R-squared:  0.474,	Adjusted R-squared:  0.445 
+## F-statistic: 16.6 on 2 and 37 DF,  p-value: 7e-06
 ```
 
 
@@ -327,12 +327,12 @@ summary(bird.model)$icvalue
 {% endhighlight %}
 
 ```
-##  [1] 204.9 205.3 206.9 207.5 214.3 214.9 216.6 217.1 217.8 218.4 220.6
-## [12] 221.3 226.2 226.7 243.6 244.5
+##  [1] 223.7 223.8 225.0 225.7 226.2 226.7 228.6 228.7 243.6 244.1 244.5
+## [12] 244.5 246.0 246.7 246.8 247.0
 ```
 
 
-The ∆AICc of the second model is 225.6429-225.4588=0.1841, which is < 2. If it is > 2, the process of model selection was finished, as the best model is the first model. Now, we should run the model averaging, and list all the possible model (16 models):
+The ∆AICc of the second model is 225.6429-225.4588=0.1841, which is < 2. If it is > 2, the process of model selection was finished, as the best model is the first one. Now, we should run the model averaging, and list all the possible models (16 models):
 
 
 {% highlight r %}
@@ -355,7 +355,7 @@ lm16 <- lm(birdspp ~ 1, data = tilbird)
 {% endhighlight %}
 
 
-Looks nice? It will be tricky if you have 10 parameter as there are 2^10=1024 candidate models! Take easy, we can create a loop function to let the computer run the calculation (not shown here)
+Looks nice? It will be tricky if you have 10 parameters as there are 2^10=1024 candidate models! Take it easy, we can create a loop function to let the computer run the calculation (not shown here)
 
 Average the model together,
 
@@ -374,23 +374,23 @@ summary(lm.ave)
 ##     lm8, lm9, lm10, lm11, lm12, lm13, lm14, lm15, lm16)
 ## 
 ## Component models:
-##        df  logLik  AICc Delta Weight
-## 24      4  -97.88 204.9  0.00   0.40
-## 234     5  -96.76 205.3  0.39   0.33
-## 124     5  -97.55 206.9  1.96   0.15
-## 1234    6  -96.46 207.5  2.58   0.11
-## 34      4 -102.60 214.3  9.45   0.00
-## 4       3 -104.13 214.9 10.03   0.00
-## 134     5 -102.43 216.6 11.72   0.00
-## 14      4 -103.95 217.1 12.16   0.00
-## 12      4 -104.34 217.8 12.93   0.00
-## 123     5 -103.32 218.4 13.51   0.00
-## 2       3 -106.95 220.6 15.68   0.00
-## 23      4 -106.08 221.3 16.41   0.00
-## 13      4 -108.52 226.2 21.29   0.00
-## 1       3 -110.00 226.7 21.78   0.00
-## 3       3 -118.47 243.6 38.72   0.00
-## (Null)  2 -120.09 244.5 39.61   0.00
+##        df logLik  AICc Delta Weight
+## 12      4 -107.3 223.7  0.00   0.29
+## 123     5 -106.0 223.8  0.12   0.27
+## 124     5 -106.6 225.0  1.36   0.15
+## 1234    6 -105.6 225.7  2.01   0.10
+## 13      4 -108.5 226.2  2.53   0.08
+## 1       3 -110.0 226.7  3.02   0.06
+## 134     5 -108.4 228.6  4.94   0.02
+## 14      4 -109.8 228.7  5.08   0.02
+## 3       3 -118.5 243.6 19.96   0.00
+## 23      4 -117.5 244.1 20.46   0.00
+## (Null)  2 -120.1 244.5 20.85   0.00
+## 2       3 -118.9 244.5 20.86   0.00
+## 34      4 -118.4 246.0 22.37   0.00
+## 234     5 -117.5 246.7 23.08   0.00
+## 4       3 -120.1 246.8 23.18   0.00
+## 24      4 -118.9 247.0 23.31   0.00
 ## 
 ## Term codes:
 ##      area  habitats isolation    plants 
@@ -398,25 +398,25 @@ summary(lm.ave)
 ## 
 ## Model-averaged coefficients: 
 ##              Estimate Std. Error Adjusted SE z value Pr(>|z|)    
-## (Intercept) 14.016589   2.311063    2.372339    5.91   <2e-16 ***
-## plants       0.092700   0.022636    0.023348    3.97   0.0001 ***
-## habitats     1.921310   0.542074    0.560239    3.43   0.0006 ***
-## isolation   -0.000818   0.000573    0.000593    1.38   0.1677    
-## area        -0.002977   0.004172    0.004313    0.69   0.4901    
+## (Intercept) 22.023011   3.272613    3.327045    6.62   <2e-16 ***
+## area         0.015423   0.002945    0.003044    5.07   <2e-16 ***
+## habitats     1.287322   0.560392    0.579478    2.22    0.026 *  
+## isolation   -0.001104   0.000728    0.000753    1.47    0.143    
+## plants       0.019405   0.021519    0.022247    0.87    0.383    
 ## ---
 ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 ## 
 ## Full model-averaged coefficients (with shrinkage): 
-##  (Intercept)    plants  habitats isolation      area
-##    14.016589  0.092572  1.905393 -0.000364 -0.000784
+##  (Intercept)      area  habitats isolation    plants
+##    22.023011  0.015422  1.040595 -0.000531  0.005770
 ## 
 ## Relative variable importance:
-##    plants  habitats isolation      area 
-##      1.00      0.99      0.45      0.26
+##      area  habitats isolation    plants 
+##      1.00      0.81      0.48      0.30
 ```
 
 
-The first part of the result 'Component models', have listed the degree of freedom for all models(df), the log likelihood (logLik), the AICc values, ∆AICc and model weights. Here, the weight of the best model is **0.22**, it means the possibility to-be the "true" model is 22%, which is pretty low. It will be nice if the weight reaches to 0.6-0.7. It should be to know the data here was shuffled by me, so the result have no meanings.
+The first part of the result 'Component models', have listed the degree of freedom for all models (df), the log likelihood (logLik), the AICc values, ∆AICc and model weights. Here, the weight of the best model is **0.29**, it means the possibility to-be the "true" model is 29%, which is pretty low. It will be nice if the weight reaches to 0.6-0.7. It should be to know the data here was shuffled by me, so the result have no meanings.
 
 The fourth part of the result is 'Full model-averaged coefficients'.
 
@@ -450,14 +450,14 @@ t(bird.pred)  #transfer the matrix to save the space of the page. Nothing relate
 {% endhighlight %}
 
 ```
-##       isl1  isl2  isl3  isl4  isl5 isl6  isl7 isl8 isl9 isl10 isl11 isl12
-## [1,] 43.83 33.87 33.09 28.86 28.33 27.2 28.02 26.5 28.5 26.65 29.07 27.45
-##      isl13 isl14 isl15 isl16 isl17 isl18 isl19 isl20 isl21 isl22 isl23
-## [1,] 22.86 23.73 26.22 27.59 27.66 23.43 23.15 23.57 26.14 24.94 24.95
-##      isl24 isl25 isl26 isl27 isl28 isl29 isl30 isl31 isl32 isl33 isl34
-## [1,] 24.81 22.83 22.66 21.37 22.21 25.95  22.7  25.9 23.78 23.28 25.64
-##      isl35 isl36 isl37 isl38 isl39 isl40
-## [1,] 26.37 24.06 22.33 23.14 23.75 24.61
+##       isl1  isl2  isl3  isl4  isl5 isl6  isl7  isl8  isl9 isl10 isl11
+## [1,] 37.64 29.45 26.74 26.21 26.15 24.7 24.62 30.58 26.76 25.43 25.56
+##      isl12 isl13 isl14 isl15 isl16 isl17 isl18 isl19 isl20 isl21 isl22
+## [1,] 25.51 24.19 24.07 25.48 24.31 26.46 25.51 24.43 26.67 26.58 25.67
+##      isl23 isl24 isl25 isl26 isl27 isl28 isl29 isl30 isl31 isl32 isl33
+## [1,] 24.18 23.78 25.49 24.75 23.87 26.52  27.5 23.02 26.37 24.45 24.08
+##      isl34 isl35 isl36 isl37 isl38 isl39 isl40
+## [1,] 26.61 26.38 26.48 25.21 25.34 28.94 25.29
 ```
 
 
@@ -475,22 +475,22 @@ cor.sig(tiltomb[, -1])
 
 ```
 ##               area    plants  habitats        SI      elev    convex
-## area          1***  0.798***  0.623***  0.857***  0.726***  0.041   
-## plants    0.798***      1***  0.542***  0.697***  0.666*** -0.019   
-## habitats  0.623***  0.542***      1***  0.827***  0.924***  0.394*  
-## SI        0.857***  0.697***  0.827***      1***  0.888***  0.237   
-## elev      0.726***  0.666***  0.924***  0.888***      1***  0.307   
-## convex    0.041    -0.019     0.394*    0.237     0.307         1***
-## slope     0.248     0.394*    0.311     0.247     0.322*    0.264   
-## aspect   -0.114    -0.031     0.226     0.069     0.278     0.075   
-## Al        0.088     0.204     0.308     0.223     0.326*     0.06   
-## Si        0.055     0.184     0.173      0.14     0.243     0.081   
-## sand     -0.207     0.021    -0.118     -0.22    -0.191    -0.311   
-## pH       -0.194    -0.326*   -0.247     -0.17    -0.228     0.018   
+## area          1*** -0.139    -0.064     0.857***  0.726***  0.041   
+## plants   -0.139         1***  -0.16    -0.167    -0.039    -0.107   
+## habitats -0.064     -0.16         1*** -0.034    -0.032    -0.187   
+## SI        0.857*** -0.167    -0.034         1***  0.888***  0.237   
+## elev      0.726*** -0.039    -0.032     0.888***      1***  0.307   
+## convex    0.041    -0.107    -0.187     0.237     0.307         1***
+## slope     0.248     0.193     0.115     0.247     0.322*    0.264   
+## aspect   -0.114    -0.081     0.141     0.069     0.278     0.075   
+## Al        0.088    -0.066     0.193     0.223     0.326*     0.06   
+## Si        0.055    -0.099     0.101      0.14     0.243     0.081   
+## sand     -0.207     0.197     0.111     -0.22    -0.191    -0.311   
+## pH       -0.194    -0.132    -0.204     -0.17    -0.228     0.018   
 ##              slope    aspect        Al        Si      sand        pH
 ## area      0.248    -0.114     0.088     0.055    -0.207    -0.194   
-## plants    0.394*   -0.031     0.204     0.184     0.021    -0.326*  
-## habitats  0.311     0.226     0.308     0.173    -0.118    -0.247   
+## plants    0.193    -0.081    -0.066    -0.099     0.197    -0.132   
+## habitats  0.115     0.141     0.193     0.101     0.111    -0.204   
 ## SI        0.247     0.069     0.223      0.14     -0.22     -0.17   
 ## elev      0.322*    0.278     0.326*    0.243    -0.191    -0.228   
 ## convex    0.264     0.075      0.06     0.081    -0.311     0.018   
@@ -514,16 +514,16 @@ cor.sig(tiltomb[, c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand"
 
 ```
 ##             plants  habitats        SI    convex    aspect        Al
-## plants        1***  0.542***  0.697*** -0.019    -0.031     0.204   
-## habitats  0.542***      1***  0.827***  0.394*    0.226     0.308   
-## SI        0.697***  0.827***      1***  0.237     0.069     0.223   
-## convex   -0.019     0.394*    0.237         1***  0.075      0.06   
-## aspect   -0.031     0.226     0.069     0.075         1***  0.075   
-## Al        0.204     0.308     0.223      0.06     0.075         1***
-## sand      0.021    -0.118     -0.22    -0.311    -0.086     0.615***
+## plants        1***  -0.16    -0.167    -0.107    -0.081    -0.066   
+## habitats  -0.16         1*** -0.034    -0.187     0.141     0.193   
+## SI       -0.167    -0.034         1***  0.237     0.069     0.223   
+## convex   -0.107    -0.187     0.237         1***  0.075      0.06   
+## aspect   -0.081     0.141     0.069     0.075         1***  0.075   
+## Al       -0.066     0.193     0.223      0.06     0.075         1***
+## sand      0.197     0.111     -0.22    -0.311    -0.086     0.615***
 ##               sand
-## plants    0.021   
-## habitats -0.118   
+## plants    0.197   
+## habitats  0.111   
 ## SI        -0.22   
 ## convex   -0.311   
 ## aspect   -0.086   
@@ -545,9 +545,9 @@ tomb.model <- glmulti(global.model.tomb, level = 1, crit = "aicc")
 ## Fitting...
 ## 
 ## After 50 models:
-## Best model: tomb~1+habitats
-## Crit= 55.4946426318003
-## Mean crit= 61.2928677656059
+## Best model: tomb~1+SI
+## Crit= 57.9820910321992
+## Mean crit= 64.0858355584437
 ```
 
 ![](http://sixf.org/files/images/2014/03/unnamed-chunk-141.png) 
@@ -555,9 +555,9 @@ tomb.model <- glmulti(global.model.tomb, level = 1, crit = "aicc")
 ```
 ## 
 ## After 100 models:
-## Best model: tomb~1+habitats
-## Crit= 55.4946426318003
-## Mean crit= 62.1673748202582
+## Best model: tomb~1+SI
+## Crit= 57.9820910321992
+## Mean crit= 64.9421343165768
 ```
 
 ![](http://sixf.org/files/images/2014/03/unnamed-chunk-142.png) 
@@ -565,9 +565,9 @@ tomb.model <- glmulti(global.model.tomb, level = 1, crit = "aicc")
 ```
 ## 
 ## After 150 models:
-## Best model: tomb~1+habitats
-## Crit= 55.4946426318003
-## Mean crit= 61.961797879279
+## Best model: tomb~1+SI
+## Crit= 57.9820910321992
+## Mean crit= 64.5619346833708
 ```
 
 ![](http://sixf.org/files/images/2014/03/unnamed-chunk-143.png) 
@@ -603,39 +603,39 @@ summary(tomb.model)
 ## [1] 100
 ## 
 ## $bestic
-## [1] 55.49
+## [1] 57.98
 ## 
 ## $icvalues
-##   [1] 55.49 57.02 57.37 57.54 57.86 57.88 57.92 57.98 58.33 59.11 59.19
-##  [12] 59.39 59.43 59.51 59.61 59.84 59.96 59.97 59.98 60.05 60.07 60.12
-##  [23] 60.17 60.22 60.31 60.39 60.39 60.45 60.50 60.75 60.82 60.89 61.22
-##  [34] 61.43 61.57 61.59 61.68 61.74 61.79 61.80 61.83 61.87 61.87 61.89
-##  [45] 62.01 62.12 62.13 62.15 62.17 62.39 62.44 62.57 62.59 62.60 62.66
-##  [56] 62.67 62.70 62.72 62.73 62.75 62.75 62.77 62.78 62.79 62.82 62.83
-##  [67] 62.87 62.95 63.01 63.08 63.09 63.41 63.53 63.54 63.66 63.73 63.81
-##  [78] 63.91 64.05 64.14 64.20 64.39 64.41 64.45 64.47 64.52 64.57 64.59
-##  [89] 64.60 64.61 64.62 64.68 64.70 64.75 64.77 64.78 64.78 64.83 64.87
-## [100] 64.92
+##   [1] 57.98 58.33 59.61 60.17 60.22 60.30 60.39 60.46 60.54 60.75 60.82
+##  [12] 60.94 62.15 62.17 62.18 62.24 62.39 62.44 62.67 62.70 62.77 62.77
+##  [23] 62.79 62.87 62.89 62.91 62.95 62.98 63.01 63.09 63.19 63.27 63.32
+##  [34] 63.51 63.53 63.60 63.66 64.05 64.43 64.52 64.53 64.60 64.62 64.77
+##  [45] 64.80 64.87 64.88 64.91 64.92 64.92 64.95 64.96 65.08 65.12 65.14
+##  [56] 65.40 65.40 65.45 65.52 65.54 65.58 65.65 65.66 65.67 65.69 65.69
+##  [67] 65.72 65.81 65.82 65.88 66.02 66.08 66.14 66.14 66.22 66.32 66.47
+##  [78] 66.56 66.64 66.72 66.82 66.85 66.91 66.92 66.93 67.22 67.35 67.37
+##  [89] 67.38 67.64 67.65 67.66 67.67 67.80 67.83 67.83 67.86 67.87 68.02
+## [100] 68.17
 ## 
 ## $bestmodel
-## [1] "tomb ~ 1 + habitats"
+## [1] "tomb ~ 1 + SI"
 ## 
 ## $modelweights
-##   [1] 0.128895 0.060215 0.050588 0.046452 0.039523 0.039070 0.038387
-##   [8] 0.037162 0.031300 0.021153 0.020362 0.018351 0.018034 0.017282
-##  [15] 0.016432 0.014668 0.013839 0.013729 0.013665 0.013229 0.013062
-##  [22] 0.012760 0.012424 0.012150 0.011631 0.011135 0.011126 0.010795
-##  [29] 0.010573 0.009297 0.008987 0.008661 0.007364 0.006612 0.006189
-##  [36] 0.006106 0.005841 0.005679 0.005542 0.005503 0.005417 0.005326
-##  [43] 0.005319 0.005273 0.004959 0.004704 0.004660 0.004631 0.004590
-##  [50] 0.004106 0.004004 0.003754 0.003715 0.003699 0.003581 0.003571
-##  [57] 0.003510 0.003485 0.003459 0.003434 0.003418 0.003393 0.003378
-##  [64] 0.003356 0.003311 0.003295 0.003230 0.003100 0.003011 0.002909
-##  [71] 0.002890 0.002458 0.002319 0.002313 0.002168 0.002098 0.002018
-##  [78] 0.001918 0.001790 0.001706 0.001663 0.001510 0.001494 0.001468
-##  [85] 0.001450 0.001413 0.001381 0.001368 0.001358 0.001354 0.001343
-##  [92] 0.001308 0.001292 0.001261 0.001246 0.001244 0.001240 0.001211
-##  [99] 0.001190 0.001156
+##   [1] 0.1201201 0.1011728 0.0531133 0.0401592 0.0392729 0.0377621 0.0359927
+##   [8] 0.0348480 0.0333513 0.0300502 0.0290503 0.0273379 0.0149678 0.0148350
+##  [15] 0.0147370 0.0143245 0.0132729 0.0129413 0.0115051 0.0113448 0.0109770
+##  [22] 0.0109687 0.0108420 0.0104403 0.0103423 0.0102346 0.0100197 0.0098576
+##  [29] 0.0097113 0.0093423 0.0088919 0.0085364 0.0083084 0.0075580 0.0074968
+##  [36] 0.0072460 0.0070090 0.0057865 0.0047700 0.0045613 0.0045489 0.0043911
+##  [43] 0.0043397 0.0040282 0.0039725 0.0038450 0.0038208 0.0037599 0.0037378
+##  [50] 0.0037365 0.0036946 0.0036696 0.0034468 0.0033923 0.0033552 0.0029419
+##  [57] 0.0029405 0.0028648 0.0027779 0.0027422 0.0026895 0.0025989 0.0025888
+##  [64] 0.0025730 0.0025506 0.0025475 0.0025079 0.0023998 0.0023883 0.0023173
+##  [71] 0.0021582 0.0020990 0.0020310 0.0020308 0.0019495 0.0018537 0.0017263
+##  [78] 0.0016468 0.0015814 0.0015211 0.0014462 0.0014228 0.0013853 0.0013789
+##  [85] 0.0013704 0.0011849 0.0011078 0.0011006 0.0010928 0.0009612 0.0009542
+##  [92] 0.0009487 0.0009451 0.0008861 0.0008726 0.0008723 0.0008583 0.0008546
+##  [99] 0.0007955 0.0007370
 ## 
 ## $includeobjects
 ## [1] TRUE
@@ -678,7 +678,7 @@ cor.test(tilbird[, 1], tiltomb[, 1])
 ## 0.4671
 ```
 
-The result showed they have significant correlation (t = 3.2562, df = 38, p-value = 0.002378). The islands with tombs are the islands having good fengshui. My result verified our prediction talked with Dr. Spider that bird richness related to fengshui significantly. For the detail underlying mechanisms, I should use the pathway analyses to explore the patterns. It may be a follow-up paper to answer this question.
+The result showed they have significant correlation (t = 3.2562, df = 38, p-value = 0.002378). The islands with tombs are the islands having good fengshui. My result verified our prediction talked with Dr. Spider that bird richness related to fengshui significantly. For the detail underlying mechanisms, it may be a follow-up paper to answer this question.
 
 ## Acknowlegements
 
@@ -687,7 +687,7 @@ Thanks for your reading this long boring blog. Thanks for the supports for our g
 ## References
 
 1.	Anderson, David R. (2008) *Model based inference in the life sciences: a primer on evidence*. New York: Springer.
-Burnham, Kenneth P., and David R. Anderson. (2002) *Model selection and multimodel inference: a practical information-theoretic approach*. Springer.
+2.	Burnham, Kenneth P., and David R. Anderson. (2002) *Model selection and multimodel inference: a practical information-theoretic approach*. Springer.
 2.	Symonds, Matthew RE, and Adnan Mouθalli. (2011) A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using Akaike’s information criterion. *Behavioral Ecology and Sociobiology*, **65**: 13-21.
 APA  
 3.	Whittingham, Mark J., et al. (2006) Why do we still use stepwise modelling in ecology and behaviour?. *Journal of animal ecology*, **75**: 1182-1189.
