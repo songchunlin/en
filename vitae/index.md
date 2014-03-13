@@ -9,7 +9,7 @@ title: Curriculum Vitae (Xingfeng Si)
 - Email: [xingfengsi\[at\]gmail.com](mailto:xingfengsi@gmail.com)
 - Website: [www.sixf.org](http://sixf.org) 
 - Address: 441A College of Life Sciences, Zhejiang Univ., Hangzhou, ZJ 310058, China
-- [Download Full CV(78KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+- [CV(78KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
 ---
 
@@ -175,5 +175,5 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-## [Download Full CV(78KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+## [CV(78KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
