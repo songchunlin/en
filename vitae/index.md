@@ -61,17 +61,17 @@ title: Curriculum Vitae (Xingfeng Si)
 
 # Research Interests
 
-- **Breeding bird turnover in Thousand Island Lake, China**
+## Breeding bird turnover in Thousand Island Lake, China
 
-	The Island Biogeography Theory of MacArthur & Wilson provides important insights into fragmentation because of the proposed similarity of island surrounded by water and habitat "islands" surrounded by other habitats inhospitable to the species involved. This theory proposes that the species' colonization rates to islands depend on their isolation, while
+The Island Biogeography Theory of MacArthur & Wilson provides important insights into fragmentation because of the proposed similarity of island surrounded by water and habitat "islands" surrounded by other habitats inhospitable to the species involved. This theory proposes that the species' colonization rates to islands depend on their isolation, while
 local extinction rates depend on their area. The Thousand Island Lake in
 eastern China exactly has the landscape to test this theory. 
 
-	I examined the factors that determine the colonization and extinction of breeding birds on island using long-term counts of bird communities.
+I examined the factors that determine the colonization and extinction of breeding birds on island using long-term counts of bird communities.
 
-- **Camera traps in Gutianshan Reserve, China** 
+## Camera traps in Gutianshan Reserve, China
 	
-	Camera trapping of wildlife, especially for some elusive and cryptic animals, had been practiced and become an available method to estimate the abundance of animals. I investigate the relationship between the population estimation and trapping rate that can be influenced by a variety of factors, such as species-specific behavior, species size and patterns of
+Camera trapping of wildlife, especially for some elusive and cryptic animals, had been practiced and become an available method to estimate the abundance of animals. I investigate the relationship between the population estimation and trapping rate that can be influenced by a variety of factors, such as species-specific behavior, species size and patterns of
 habitat use. Then I proposed a minimum trapping effort to ensure that we
 can detect the wildlife of interest effectively with limited time.
 
