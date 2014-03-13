@@ -1,5 +1,5 @@
 ---
-title: Environmental and Biodiversity Databases
+title: Environment and Biodiversity Databases
 tags: [ecology, global, monitoring, birds, reptiles, mammals, fish]
 categories: [academic, database]
 layout: post

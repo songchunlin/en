@@ -1,5 +1,5 @@
 ---
-title: Ecology and Environmental Programs
+title: Ecology and Environment Programs
 tags: [ecology, global, community ecology, conservation biology]
 categories: [academic, software]
 layout: post
