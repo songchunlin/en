@@ -6,7 +6,6 @@ layout: post
 comments: yes
 ---
 
-# R Language for Ecological Statistics
 
 [The (Mc)R Language](http://www.r-project.org): The R Project for Statistical Computing
 
