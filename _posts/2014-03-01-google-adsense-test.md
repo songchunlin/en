@@ -1,6 +1,6 @@
 ---
 title: Test Codes for Google Adsense
-layout: post-ad
+layout: post
 ---
 
 
