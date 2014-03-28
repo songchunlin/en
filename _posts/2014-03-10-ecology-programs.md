@@ -71,6 +71,5 @@ packages for: NMDS, DECORANA, TWINSPAN, Reciprocal Averaging, PCA, ANOSIM, SIMPE
 
 
 ---
----
 
-Sources from [**Simone Fattorini**](https://sites.google.com/site/fattorinitenebrionidae/), and the Internet. Compiled by [**Xingfeng Si**](http://sixf.org). 
+<small>Sources from [**Simone Fattorini**](https://sites.google.com/site/fattorinitenebrionidae/), and the Internet. Compiled by [**Xingfeng Si**](http://sixf.org). </small>

@@ -58,9 +58,8 @@ As so many ecologists activating on ecological studies, I am sure it is impossib
 [Bruce E. Young](http://iucn-ccsg.org/people/bruce-e-young)
 
 ---
----
 
-Notes:
+<small>Notes:
 
 1.	"\*" indicating deceased.
-2.	Sources from the Internet. Compiled by [Xingfeng Si](http://sixf.org). 
+2.	Sources from the Internet. Compiled by [Xingfeng Si](http://sixf.org). </small>
