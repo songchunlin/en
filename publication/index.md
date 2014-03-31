@@ -12,7 +12,7 @@ title: Publications and Presentations
 -   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of breeding bird communities on islands of an inundated lake. *under revision*.
 -   Shen, G., Pimm, S. L., Feng, C., Ren, G., Liu, Y., Xu, W., Li, J., **Si, X.**, Su, H. & Xie, Z. Climate change challenges the static conservation strategy for the giant panda. *under review*.
 -   **Si, X.** *et al.* Partitioning beta diversity of bird communities on islands of an inundated lake. *preparing*.
--   **Si, X.**, Kays, R. & Ding, P. (2014) How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. ***PeerJ***, *accepted*.
+-   **Si, X.**, Kays, R. & Ding, P. How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. *under revision*.
 -   **Si, X.** & Ding, P. (2011) History, status of monitoring land birds in Europe and American and countermeasures of China. ***Biodiversity Science***, 19: 303-310. <small>(in Chinese with English abstract)</small>  [pdf(241KB)](http://sixf.org/files/articles/Si-Ding-2011.pdf)
 
 ## Non-peer Reviewed
