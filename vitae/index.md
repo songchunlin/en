@@ -90,7 +90,7 @@ can detect the wildlife of interest effectively with limited time.
 -   2012-2015     Dynamic and Stability of forest bird community in fragmented habitats of Thousand Island Lake. National Science Foundation of China. (Participant, 6/10)
 -   2012-2014     Sensitivity research on habitat fragmentation of birds and reptiles in Thousand Island Lake. National Science Foundation of China. (Participant, 5/8)
 -   2012-2014     Body size evolution of island population of *Takydromus septentrionalis* and its responses on life history. National Science Foundation of China. (Participant, 3/7)
--   2012-2012     Conservation project of *Leucopsar rothschildi* in Indonisia. Ministry of Science and Technology of China. (Participant, 14/?)
+-   2012-2012     Conservation project of *Leucopsar rothschildi* in Indonisia. Ministry of Science and Technology of China. (Participant, 14/×)
 -   2010-2012     Biodiversity census in Baishanzu National Nature Reserve (Plants, Mammals and Birds). Baishanzu National Nature Reserve. (Core Participant)
 -   2009-2011     The effects of habitat fragmentation on life history traits of birds in Thousand Island Lake. National Science Foundation of China. (Participant)
 -   2009-2010     Wild Animal Resource Census in Wuxijiang Wetland Park, Zhejiang. Forestry Administration of Qujiang District. (Core Participant)
