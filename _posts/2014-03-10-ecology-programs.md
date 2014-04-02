@@ -6,7 +6,7 @@ layout: post
 comments: yes
 ---
 
-# Ecological Researches
+## Ecological Researches
 
 -   [ADE-4](http://pbil.univ-lyon1.fr/JTHome/ref/ADE-4-Web.html): a multivariate analysis and graphical display software
 -   [BINMATNEST](http://www.eeza.csic.es/eeza/personales/rgirones.aspx): nestedness analysis
@@ -46,25 +46,25 @@ comments: yes
 -   [Ws2m](http://eebweb.arizona.edu/diversity/): Estimating species richness
 -   [zt](http://bioinformatics.psb.ugent.be/webtools/zt/): Mantel and Partial Mantel test
 
-# Biogeographical Analyses:
+## Biogeographical Analyses:
 
 -   [Biomapper](http://www2.unil.ch/biomapper/index.html): a kit og GIS- and statistical tools designed to build
     habitat suitability (HS) models
 -   [DesktopGarp](http://www.nhm.ku.edu/desktopgarp/index.html): to predict and analyze wild species distributions
 -   [DIVA GIS](http://www.diva-gis.org/): for mapping and analyzing biodiversity data
 
-# Community and Population Ecology
+## Community and Population Ecology
 
 -	[INHS](http://nhsbig.inhs.uiuc.edu/wes/soft_text.html): including software for population density and abundance, survival rates for capture-recapture of marked populations, bioacustics, home range, banding data analysis, rarefaction, geometric series, log series, truncated log normal, broken stick, Q statistic, Shannon diversity index, Brillouin index, Simpson's index, McIntosh's index, Berger-Parker index, jack-knifing, Pielou's pooled quadrat, beta diversity, similarity measures, radio telemetry, landscape structure analysis, LOcally Weighted regrESSion, multivariate statistics
 
 -	[Pisces Staff](http://www.pisces-conservation.com/): including
 packages for: NMDS, DECORANA, TWINSPAN, Reciprocal Averaging, PCA, ANOSIM, SIMPER, Cluster analysis, Similarity and distance measures; Canonical Correspondence Analysis (CCA), Redundancy Analysis (RDA) and Multiple Regression (MR); diversity and distance measures from genetic sequences; statistical analysis of circular data; Fuzzy clustering methods; animal and plant density from measurements of the distance between objects; population statistics from removal trapping data; fits and plots von Bertalanffy, Seasonally-adjusted von Bertalanffy, Gompertz, Logistic and many other growth curves to length and/or weight at age data; population size of both closed and open populations with mark-recapture methods
 
-# Phylogeny Programs 
+## Phylogeny Programs 
 
 -	[392 Packages and 54 Servers](http://evolution.genetics.washington.edu/phylip/software.html)
 
-# Evolutionary Programs
+## Evolutionary Programs
 
 -	[Liam J. Revell's Site](http://anolis.oeb.harvard.edu/~liam/programs/)
 

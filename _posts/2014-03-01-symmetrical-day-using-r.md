@@ -11,18 +11,18 @@ I still clearly remembered in November 2nd, 2011, someone said we may never meet
 Here is the code:
 
 {% highlight r %}
-a <- 2000:2999 # all years
-b <- c(paste("0",1:9,sep=""),10,11,12) # the month
-c <- c(paste("0",1:9,sep=""),10:31) # the day
-mmdd <- paste(rep(b,each=31),rep(c,time=12),sep="") # 'mmdd'
-all <- paste(rep(a,each=length(mmdd)),rep(mmdd,time=length(a)),sep="") # all days formatted as 'yyyymmdd'
-s12 <- substr(all,1,2) # first two letters in 'yyyymmdd'
-s34 <- substr(all,3,4) # third and fourth letters in 'yyyymmdd'
-s56 <- substr(all,5,6) # fifth and sixth letters in 'yyyymmdd'
-s78 <- substr(all,7,8) # last two letter in 'yyyymmdd'
-rev.s56 <- paste(substr(s56,2,2),substr(s56,1,1),sep="") # reverse the order of these two letters
-rev.s78 <- paste(substr(s78,2,2),substr(s78,1,1),sep="") # reverse the order of these two letters
-sym.day <- all[(s12==rev.s78)&(s34==rev.s56)] # whether this day is symmetrical
+a <- 2000:2999 ## all years
+b <- c(paste("0",1:9,sep=""),10,11,12) ## the month
+c <- c(paste("0",1:9,sep=""),10:31) ## the day
+mmdd <- paste(rep(b,each=31),rep(c,time=12),sep="") ## 'mmdd'
+all <- paste(rep(a,each=length(mmdd)),rep(mmdd,time=length(a)),sep="") ## all days formatted as 'yyyymmdd'
+s12 <- substr(all,1,2) ## first two letters in 'yyyymmdd'
+s34 <- substr(all,3,4) ## third and fourth letters in 'yyyymmdd'
+s56 <- substr(all,5,6) ## fifth and sixth letters in 'yyyymmdd'
+s78 <- substr(all,7,8) ## last two letter in 'yyyymmdd'
+rev.s56 <- paste(substr(s56,2,2),substr(s56,1,1),sep="") ## reverse the order of these two letters
+rev.s78 <- paste(substr(s78,2,2),substr(s78,1,1),sep="") ## reverse the order of these two letters
+sym.day <- all[(s12==rev.s78)&(s34==rev.s56)] ## whether this day is symmetrical
 sym.day
 {% endhighlight %}
 

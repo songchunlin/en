@@ -5,9 +5,9 @@ title: Publications and Presentations
 ---
 
 
-# Publications <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en)</small> 
+## Publications <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en)</small> 
 
-## Peer Reviewed
+### Peer Reviewed
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. Turnover of breeding bird communities on islands of an inundated lake. *under revision*.
 -   Guozhen Shen, Stuart L. Pimm, Chaoyang Feng, Guofang Ren, Yangping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Hongxin Su & Zongqiang Xie. Climate change challenges the static conservation strategy for the giant panda. *under review*.
@@ -15,7 +15,7 @@ title: Publications and Presentations
 -   **Xingfeng Si**, Roland Kays & Ping Ding. How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. *under revision*.
 -   **Xingfeng Si** & Ping Ding. (2011) History, status of monitoring land birds in Europe and American and countermeasures of China. ***Biodiversity Science***, 19: 303-310. <small>(in Chinese with English abstract)</small>  [pdf(241KB)](http://sixf.org/files/articles/Si-Ding-2011.pdf)
 
-## Non-peer Reviewed
+### Non-peer Reviewed
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson’s theory. *Proceedings of the 26th International Ornithological Congress*, 2014.08.18-24, pp. ××-××, Tokyo, Japan.
 -   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. *Proceedings of the 6th EAFES International Congress*, 2014.04.09-11, pp. ××-××, Haikou, China.
@@ -30,9 +30,9 @@ title: Publications and Presentations
 
 ---
 
-# Presentations
+## Presentations
 
-## Oral Talks
+### Oral Talks
 
 -   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. The 6th EAFES International Congress, Haikou, China.
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2013) Determinants of colonization-extinction dynamics of breeding bird communities on land-bridge islands. The 12th China Ornithological Conference and the 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China.
@@ -42,7 +42,7 @@ title: Publications and Presentations
 -   **Xingfeng Si**, Guochun Shen & Ping Ding. (2009) Basic results of monitoring of bird community in Gutianshan 24-ha plot. The 3rd Cross-strait Symposium on Forest Dynamic Plots, Guangzhou, China.
 -   **Xingfeng Si** & Ping Ding. (2009) Bird community structures in Gutianshan dynamic monitoring plot. The 5th Kingfisher Forum of Chinese Young Ornithologists Workshop, Harbin, China.
 
-## Posters
+### Posters
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson’s theory. The 26th International Ornithological Conference, Tokyo, Japan.
 -   **Xingfeng Si** & Ping Ding. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. The 1st Student Forum on Sci-Tech Innovation of College of Life Sciences at Zhejiang University, Hangzhou, China.
