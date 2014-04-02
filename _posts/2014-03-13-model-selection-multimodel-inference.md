@@ -7,7 +7,7 @@ comments: yes
 ---
 
 
-### A Case Study of Bird Richness and Tomb Occupancy at the Thousand Island Lake
+#### A Case Study of Bird Richness and Tomb Occupancy at the Thousand Island Lake
 
 [**Xingfeng Si**](http://sixf.org/en)
 
@@ -32,13 +32,13 @@ Here, I employed the method of model selection and multimodel inference to analy
 
 ## Materials and Methods 
 
-## Study area and island attributes
+### Study area and island attributes
 
 We sampled 40 islands randomly stratified across the area and isolation gradients at the Lake.Since 2002, many islands attributes were measured which are related to bird richness, including area, isolation, plant richness, habitat types, perimeter, perimeter to area ratio (PAR), shape index (SI), and elevation. I also imagined several island attributed that may relate to discover the tombs on the islands, such as convex, slope, aspect, Al, Si, and sand index.
 
 The elements of Al and Si are the main substances of Kaolin clay which is a good kind of soil for waterproof. The index of sand means the possibility of building a tomb on the island, because it is impossible to find a tomb in the sand. pH value is an indicator of the organic meterials in the tomb. Other factors, e.g. SI, convex, slope and aspect are the key indicators for fengshui. For example, a mountain with a perfect circle, thick soil and high plant richness is the priority place to set a tomb.
 
-## AIC
+### AIC
 
 AIC(Akaika Information Criterion) is a measure of the relative quality of a statistical model, for a given set of data. AIC is founded on information entropy, so it does not provide a test of a model in the sense of testing a null hypothesis, i.e. AIC can tell nothing about the quality of the model in an absolute sense. If all the candidate models fit poorly, AIC will not give any warning of that.
 
@@ -64,7 +64,7 @@ If the overdispersion exists in the data, the QAIC would be a better choice, whi
 
 $\hat{c}$ is the variance inflation factors, or the overdispersion coefficient. If $\hat{c}$ > 1, the QAIC should be used. 
 
-## Calculating the model weights
+### Calculating the model weights
 
 Once get all the AIC values for each model, then these models were sorted in the decreasing order of AIC. ∆AIC means the AIC of each model minus the smallest one. The model weight, also called Akaika weight(*w<sub>i</sub>*), is calculated as
 
@@ -74,7 +74,7 @@ where *w<sub>i</sub>* the weight of the *i*th model. *w<sub>i</sub>* ranges betw
 
 The importance of each parameter can be calculated by the model weights, which add the weights of the model containing the parameter. After ranking the importance in the decreasing order, it is clear which parameter is the most important one.
 
-## Model selection uncertainity and multimodel inference
+### Model selection uncertainity and multimodel inference
 
 In practice, the result will be not so perfect as assumed. All the previous results were based on the assumption of ∆AIC > 2, meaning the AIC of second best model is larger 2 points than the smallest. If ∆AIC > 2, it is safe to use the first model as the best model. If not, it means the first several competing models have substantially supports. So, how to deal with under this circumstance? The terminal weapon: model averaging.
 
@@ -102,7 +102,7 @@ where $\hat{\bar{θ}}$ is the model-averaged estimate, *w<sub>i</sub>* is model 
 
 ![](http://sixf.org/files/images/2014/03/eq11.png)
 
-## Case study
+### Case study
 
 Before running the code below, to be sure these package were installed: `glmulti`, `MuMIn`, `bbmle`. If not, simply entry the following code into the R console, and the installation will start automatically.
 
@@ -113,7 +113,7 @@ install.packages("glmulti")
 Or else, download these packages from any [CRAN of R project](http://www.r-project.org), and install them locally.
 
 
-### Case One: the determinant of bird richness at the Lake
+#### Case One: the determinant of bird richness at the Lake
 
 Load `glmulti` package
 
@@ -463,7 +463,7 @@ t(bird.pred)  #transfer the matrix to save the space of the page. Nothing relate
 
 The final point is the unconditional variance estimator, which is a bitter complex. The calculation method is similar as $\hat{\bar{Y}}$ , and will run this estimation in the near future.
 
-### Case Two: determinants of the occurancy of tombs at the Lake
+#### Case Two: determinants of the occurancy of tombs at the Lake
 
 The procedure is exactly the same as before, so make it in the same way,
 
