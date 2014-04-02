@@ -118,7 +118,7 @@ can detect the wildlife of interest effectively with limited time.
 # Participation in Scientific Conferences & Symposiums
 
 
--   2014     The 26th International Ornithological Conference, Tokyo, Japan.
+-   2014     The 26th International Ornithological Congress, Tokyo, Japan.
 -   2014     The 6th EAFES International Congress, Haikou, China.
 -   2013     The 12th China Ornithological Conference and the 10th Cross-strait Ornithological Conference, Hangzhou, China.
 -   2013     The 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China.
