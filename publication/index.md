@@ -25,7 +25,7 @@ title: Publications and Presentations
 -   **Xingfeng Si** & Ping Ding. (2010) Monitoring ground activity birds using camera trapping in Gutianshan 24-ha plot. *Proceedings of the 9th National Symposium on the Conservation and Sustainable Use of Biodiversity in China*, 2010.10.04-06, pp. 99-100, Xiamen, China.
 -   **Xingfeng Si** & Ping Ding. (2010) Bird monitoring in Gutianshan 24-ha plot: using spot mapping and infrared cameras. *Proceedings of the 2010 International Forum on Biodiversity Monitoring*, 2010.06.20-22, pp. 96, Nanjing, China. <small>(in Chinese)</small>
 -   Meng Zhang, Ping Ding, Yanping Wang, **Xingfeng Si**, Zhifeng Ding & Jiji Sun. (2009) Effects of habitat fragmentation on the use of nest site resources by great tits in Thousand Island Lake, hejiang Province. *Proceedings of the 11th Congress of Zhejiang Zoological Society*, 2009.10.30-11.01, pp. 513, Jinhua, China. <small>(in Chinese)</small>
--   Longlong Zhang, Yixin Bao, Huanhuan Li, **Xingfeng Si** & Shouying Hu. (2008) The functional groups and trophic levels of soil macro-fauna in different vegetation type, Beishan Moutain, Jinhua. *Proceedings of the 8th National Symposium on the Conservation and Sustainable Use of Biodiversity in China*, 2008.10.17-19, pp. 257-267, Jinhua, China. <small>(in Chinese with English abstract)</small>
+-   Longlong Zhang, Yixin Bao, Huanhuan Li, **Xingfeng Si** & Shuoying Hu. (2008) The functional groups and trophic levels of soil macro-fauna in different vegetation type, Beishan Moutain, Jinhua. *Proceedings of the 8th National Symposium on the Conservation and Sustainable Use of Biodiversity in China*, 2008.10.17-19, pp. 257-267, Jinhua, China. <small>(in Chinese with English abstract)</small>
 
 
 ---
