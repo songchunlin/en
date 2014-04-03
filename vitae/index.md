@@ -8,14 +8,14 @@ title: Curriculum Vitae (Xingfeng Si)
 - Phone: 0086(571)88206467 
 - Email: [xingfengsi\[at\]gmail.com](mailto:xingfengsi@gmail.com)
 - Website: [www.sixf.org](http://sixf.org) 
-- Address: 441A College of Life Sciences, Zhejiang Univ., Hangzhou, ZJ 310058, China
+- Address: 441A College of Life Sciences, Zhejiang University, Hangzhou, ZJ 310058, China
 - [CV(78KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
 ---
 
 ## Education
 
--   2008-           **PhD Student**, Ecology, **Zhejiang
+-   2008-         **PhD Student**, Ecology, **Zhejiang
     University**, China. Adviser: [Prof. Ping Ding](http://mypage.zju.edu.cn/personnelCard/pingding)
 -   2012-2013  **Visiting Student**, Ecology, **Duke University**,
     USA. Adviser: [Prof. Stuart  Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
