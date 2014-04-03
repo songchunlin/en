@@ -34,16 +34,16 @@ title: Publications and Presentations
 
 ### Oral Talks
 
--   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. The 6th EAFES International Congress, Haikou, China.
--   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2013) Determinants of colonization-extinction dynamics of breeding bird communities on land-bridge islands. The 12th China Ornithological Conference and the 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China.
--   **Xingfeng Si** & Ping Ding. (2011) Minimum trapping effort of monitoring ground-activity animals using camera traps: a case study in Gutianshan National Nature Reserve. The 7th Kingfisher Forum of Chinese Young Ornithologists Workshop, Lanzhou, China.
--   **Xingfeng Si** & Ping Ding. (2010) Monitoring ground activity birds using camera trapping in Gutianshan 24-ha plot. The 9th National Symposium on the Conservation and Sustainable Use of Biodiversity in China, Xiamen, China.
--   **Xingfeng Si** & Ping Ding. (2010) Bird monitoring in Gutianshan 24-ha plot: using spot mapping and infrared cameras. The 2010 International Symposium on Biodiversity Monitoring, Nanjing, China.
--   **Xingfeng Si**, Guochun Shen & Ping Ding. (2009) Basic results of monitoring of bird community in Gutianshan 24-ha plot. The 3rd Cross-strait Symposium on Forest Dynamic Plots, Guangzhou, China.
--   **Xingfeng Si** & Ping Ding. (2009) Bird community structures in Gutianshan dynamic monitoring plot. The 5th Kingfisher Forum of Chinese Young Ornithologists Workshop, Harbin, China.
+-   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. *The 6th EAFES International Congress*, Haikou, China.
+-   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2013) Determinants of colonization-extinction dynamics of breeding bird communities on land-bridge islands. *The 12th China Ornithological Conference and the 9th Kingfisher Forum of Chinese Young Ornithologists Workshop*, Hangzhou, China.
+-   **Xingfeng Si** & Ping Ding. (2011) Minimum trapping effort of monitoring ground-activity animals using camera traps: a case study in Gutianshan National Nature Reserve. *The 7th Kingfisher Forum of Chinese Young Ornithologists Workshop*, Lanzhou, China.
+-   **Xingfeng Si** & Ping Ding. (2010) Monitoring ground activity birds using camera trapping in Gutianshan 24-ha plot. *The 9th National Symposium on the Conservation and Sustainable Use of Biodiversity in China*, Xiamen, China.
+-   **Xingfeng Si** & Ping Ding. (2010) Bird monitoring in Gutianshan 24-ha plot: using spot mapping and infrared cameras. *The 2010 International Symposium on Biodiversity Monitoring*, Nanjing, China.
+-   **Xingfeng Si**, Guochun Shen & Ping Ding. (2009) Basic results of monitoring of bird community in Gutianshan 24-ha plot. *The 3rd Cross-strait Symposium on Forest Dynamic Plots*, Guangzhou, China.
+-   **Xingfeng Si** & Ping Ding. (2009) Bird community structures in Gutianshan dynamic monitoring plot. *The 5th Kingfisher Forum of Chinese Young Ornithologists Workshop*, Harbin, China.
 
 ### Posters
 
--   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson’s theory. The 26th International Ornithological Conference, Tokyo, Japan.
--   **Xingfeng Si** & Ping Ding. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. The 1st Student Forum on Sci-Tech Innovation of College of Life Sciences at Zhejiang University, Hangzhou, China.
--   **Xingfeng Si** & Ping Ding. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. The 13th Student Conference on Conservation Science, Cambridge, UK.
+-   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson’s theory. *The 26th International Ornithological Congress*, Tokyo, Japan.
+-   **Xingfeng Si** & Ping Ding. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. *The 1st Student Forum on Sci-Tech Innovation of College of Life Sciences at Zhejiang University*, Hangzhou, China.
+-   **Xingfeng Si** & Ping Ding. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. *The 13th Student Conference on Conservation Science*, Cambridge, UK.
