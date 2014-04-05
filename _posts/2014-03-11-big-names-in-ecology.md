@@ -49,7 +49,7 @@ As so many ecologists activating on ecological studies, I am sure it is impossib
 
 [José L. Tella](https://www.researchgate.net/profile/Jose_Tella/) | [John W. Terborgh](http://fds.duke.edu/db/Nicholas/esp/faculty/manu) | [Chris D. Thomas](http://www.york.ac.uk/biology/research/ecology-evolution/chris-d-thomas/) | [Wilfried Thuiller](http://www.will.chez-alice.fr/) | [G. David Tilman](https://www.cbs.umn.edu/explore/departments/eeb/faculty-research/directory/g-david-tilman) | [Even Tjørve](http://ansatt.hil.no/event/?page_id=19) | [Hanna Tuomisto](http://oxford.academia.edu/HannaTuomisto) | [Teja Tscharntke](http://www.uni-goettingen.de/en/92552.html)
 
-[Leslie G. Underhill](http://www.adu.org.za/staff_page.php?staff_id=1) | [Dean L. Urban](http://fds.duke.edu/db/Nicholas/esp/faculty/deanu)
+[Leslie G. Underhill](http://www.adu.org.za/staff_page.php?staff_id=1) | [Dean L. Urban](http://fds.duke.edu/db/Nicholas/esp/faculty/deanu) | [Werner Ulrich](http://www.keib.umk.pl/werner-ulrich/?lang=en)
 
 [Steven M. Vamosi](http://www.ucalgary.ca/%7Esmvamosi/publications.htm) | [Kyle S. Van Houtan](http://www.duke.edu/~ksv2) | [Mark Vellend](http://www3.botany.ubc.ca/vellend/index.htm) | [Joseph A. Veech](http://www.bio.txstate.edu/contacts/faculty/joseph-veech.html) | [Sébastien Villéger](http://villeger.sebastien.free.fr)
 
