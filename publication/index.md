@@ -18,7 +18,7 @@ title: Publications and Presentations
 ### Non-peer Reviewed
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson’s theory. *Proceedings of the 26th International Ornithological Congress*, 2014.08.18-24, pp. ××-××, Tokyo, Japan.
--   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. *Proceedings of the 6th EAFES International Congress*, 2014.04.09-11, pp. ××-××, Haikou, China.
+-   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. *Proceedings of the 6th EAFES International Congress*, 2014.04.09-11, pp. 187, Haikou, China.
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2013) Turnover of breeding communities on land-bridge islands. *Proceedings of the 12th China Ornithological Conference and the 10th Cross-strait Ornithological Conference*, 2013.11.23-24, pp. 13, Hangzhou, China. <small>(in Chinese)</small>
 -   **Xingfeng Si**. (2012) A case study of minimum trapping effort using camera traps in eastern China. *Talks and Posters of the 13th Student Conference on Conservation Science*, 2012.03.20-22, pp. 49, Cambridge, UK.
 -   **Xingfeng Si** & Ping Ding. (2011) Minimum trapping effort of monitoring ground-activity animals using camera traps: a case study in Gutianshan National Nature Reserve, eastern China. *Proceedings of the 7th National Conference on Wildlife Ecology and Resource Conservation*, 2011.10.28-31, pp. 132, Jinhua, China. <small>(in Chinese)</small>

@@ -160,8 +160,8 @@ can detect the wildlife of interest effectively with limited time.
 
 
 -   Good at R, MS Office, Photoshop
--   Intermediated in LaTeX, OS iWork, WordPress, EndNote, Google Earth   
--   Beginner in Mathematica, PHP, MarkDown, CANOCO, WinBUGS
+-   Intermediated in LaTeX, OS iWork, MarkDown, EndNote, Google Earth   
+-   Beginner in Mathematica, PHP, WordPress, CANOCO, WinBUGS
 
 
 ---
