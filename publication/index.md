@@ -12,7 +12,7 @@ title: Publications and Presentations
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. Turnover of breeding bird communities on islands of an inundated lake. *under revision*.
 -   Guozhen Shen, Stuart L. Pimm, Chaoyang Feng, Guofang Ren, Yangping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Hongxin Su & Zongqiang Xie. Climate change challenges the static conservation strategy for the giant panda. *under review*.
 -   **Xingfeng Si** *et al.* Partitioning beta diversity of bird communities on islands of an inundated lake. *preparing*.
--   **Xingfeng Si**, Roland Kays & Ping Ding. How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. *under revision*.
+-   **Xingfeng Si**, Roland Kays & Ping Ding. (2014) How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. ***PeerJ***, *accepted*.
 -   **Xingfeng Si** & Ping Ding. (2011) History, status of monitoring land birds in Europe and American and countermeasures of China. ***Biodiversity Science***, 19: 303-310. <small>(in Chinese with English abstract)</small>  [pdf(241KB)](http://sixf.org/files/articles/Si-Ding-2011.pdf)
 
 ### Non-peer Reviewed
