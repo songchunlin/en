@@ -47,6 +47,16 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ---
 
+## Memberships of Organizations
+
+-   2014-     Member, International Biogeography Society
+-   2013-     Member, Society for Conservation Biology
+-   2013-     Member, Ecological Society of Zhejiang Province
+-   2009-     Member, China Ornithological Society
+-   2008-     Member, Zhejiang Zoological Society
+
+---
+
 ## Postgraduate Training
 
 -   2013     Metapopulation capacity (Mathematica *version 9*). Gareth Russell (New Jersey Institute of Technology), 2013.01.28-30, Durham, NC USA.
@@ -74,6 +84,15 @@ I examined the factors that determine the colonization and extinction of breedin
 Camera trapping of wildlife, especially for some elusive and cryptic animals, had been practiced and become an available method to estimate the abundance of animals. I investigate the relationship between the population estimation and trapping rate that can be influenced by a variety of factors, such as species-specific behavior, species size and patterns of
 habitat use. Then I proposed a minimum trapping effort to ensure that we
 can detect the wildlife of interest effectively with limited time.
+
+
+---
+
+# Teaching Experience
+
+-   2012     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve and Thousand Island Lake, Zhejiang Province, China
+-   2010     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
+-   2009     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
 
 ---
 
@@ -105,16 +124,6 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-## Memberships of Organizations
-
--   2014-     Member, International Biogeography Society
--   2013-     Member, Society for Conservation Biology
--   2013-     Member, Ecological Society of Zhejiang Province
--   2009-     Member, China Ornithological Society
--   2008-     Member, Zhejiang Zoological Society
-
----
-
 ## Participation in Scientific Conferences & Symposiums
 
 
@@ -141,11 +150,8 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-## Teaching Assistance Experience & Social Activities
+## Miscellaneous Activities
 
--   2012     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve and Thousand Island Lake, Zhejiang Province, China
--   2010     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
--   2009     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
 -   2013     Local Conference Organizer. The 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China
 -   2011     Invited Guest. Chuyang Forum of Zhejiang Normal University, Jinhua, China
 -   2011     Invited Report. Swearing Conference for College Entrance Exam of Yiting High School, Yiwu, China
