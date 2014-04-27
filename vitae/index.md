@@ -5,21 +5,22 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ## Contacts
 
-- Phone: 0086(571)88206467 
 - Email: [xingfengsi\[at\]gmail.com](mailto:xingfengsi@gmail.com)
 - Website: [www.sixf.org](http://sixf.org) 
+- Phone: +86(571)8820-6467 
+- Fax: +86(571)8820-6467 
 - Address: 441A College of Life Sciences, Zhejiang University, Hangzhou, ZJ 310058, China
-- [CV(126KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+- [CV(54KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
 ---
 
 ## Education
 
 -   2008-         **PhD Student**, Ecology, **Zhejiang
-    University**, China. Adviser: [Prof. Ping Ding](http://mypage.zju.edu.cn/personnelCard/pingding)
+    University**, China. Adviser: [Ping Ding](http://mypage.zju.edu.cn/personnelCard/pingding)
 -   2012-2013  **Visiting Student**, Ecology, **Duke University**,
-    USA. Adviser: [Prof. Stuart  Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
--   2004-2008  **B. S.**, Biology, **Zhejiang Normal University**, China. Adviser: [Prof. Yixin Bao](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
+    USA. Adviser: [Stuart L. Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
+-   2004-2008  **B. S.**, Biology, **Zhejiang Normal University**, China. Adviser: [Yixin Bao](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
 
 ---
 
@@ -49,19 +50,7 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ## Research Interests
 
-### Breeding bird turnover in Thousand Island Lake, China
-
-The Island Biogeography Theory of MacArthur & Wilson provides important insights into fragmentation because of the proposed similarity of island surrounded by water and habitat "islands" surrounded by other habitats inhospitable to the species involved. This theory proposes that the species' colonization rates to islands depend on their isolation, while
-local extinction rates depend on their area. The Thousand Island Lake in
-eastern China exactly has the landscape to test this theory. 
-
-I examined the factors that determine the colonization and extinction of breeding birds on island using long-term counts of bird communities.
-
-### Camera traps in Gutianshan Reserve, China
-	
-Camera trapping of wildlife, especially for some elusive and cryptic animals, had been practiced and become an available method to estimate the abundance of animals. I investigate the relationship between the population estimation and trapping rate that can be influenced by a variety of factors, such as species-specific behavior, species size and patterns of
-habitat use. Then I proposed a minimum trapping effort to ensure that we
-can detect the wildlife of interest effectively with limited time.
+Animal ecology, biodiversity, camera traps, conservation biology, habitat fragmentation, island biogeography, landscape ecology, ornithology, wildlife management
 
 ---
 
@@ -184,5 +173,5 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-### [CV(126KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+### [CV(54KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
