@@ -9,7 +9,7 @@ title: Curriculum Vitae (Xingfeng Si)
 - Email: [xingfengsi\[at\]gmail.com](mailto:xingfengsi@gmail.com)
 - Website: [www.sixf.org](http://sixf.org) 
 - Address: 441A College of Life Sciences, Zhejiang University, Hangzhou, ZJ 310058, China
-- [CV(78KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+- [CV(126KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
 ---
 
@@ -47,28 +47,6 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ---
 
-## Memberships of Organizations
-
--   2014-     Member, International Biogeography Society
--   2013-     Member, Society for Conservation Biology
--   2013-     Member, Ecological Society of Zhejiang Province
--   2009-     Member, China Ornithological Society
--   2008-     Member, Zhejiang Zoological Society
-
----
-
-## Postgraduate Training
-
--   2013     Metapopulation capacity (Mathematica *version 9*). Gareth Russell (New Jersey Institute of Technology), 2013.01.28-30, Durham, NC USA.
--   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus*. Stuart Pimm (Duke University), 2013.3.11-14, Dry Tortugas, FL USA.
--   2010      Wildness First Aid. Lloyd Figgins (EarthWatch Institute), 2010.10.07-10, Kaihua, China. 
--   2009     Spatial analysis biostatistics. Pierre Legendre (Université de
-    Montréal), 2009.10.01-05, Beijing, China. 
--   2009     Linear regression. Pierre Legendre (Université de Montréal), 2009.09.10-15, Beijing, China. 
--   2009     Mathematical statistics, R programming language and multivariate statistical analyses. Jiangshan Lai (Institute of Botany, Chinese Academic of Science), Jinlong Zhang (Institute of Botany, Chinese Academic of Science), Yanping Chen (Renmin University of China), 2009.09.05-09, Beijing, China. 
-
----
-
 ## Research Interests
 
 ### Breeding bird turnover in Thousand Island Lake, China
@@ -84,15 +62,6 @@ I examined the factors that determine the colonization and extinction of breedin
 Camera trapping of wildlife, especially for some elusive and cryptic animals, had been practiced and become an available method to estimate the abundance of animals. I investigate the relationship between the population estimation and trapping rate that can be influenced by a variety of factors, such as species-specific behavior, species size and patterns of
 habitat use. Then I proposed a minimum trapping effort to ensure that we
 can detect the wildlife of interest effectively with limited time.
-
-
----
-
-# Teaching Experience
-
--   2012     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve and Thousand Island Lake, Zhejiang Province, China
--   2010     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
--   2009     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
 
 ---
 
@@ -121,6 +90,40 @@ can detect the wildlife of interest effectively with limited time.
 ----
 
 ## [Publications and Presentations](/en/publication/ "click here to see my publications")
+
+
+---
+
+# Teaching Experience
+
+-   2012     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve and Thousand Island Lake, Zhejiang Province, China
+-   2010     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
+-   2009     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
+
+
+---
+
+## Postgraduate Training
+
+-   2013     Metapopulation capacity (Mathematica *version 9*). Gareth Russell (New Jersey Institute of Technology), 2013.01.28-30, Durham, NC USA.
+-   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus*. Stuart Pimm (Duke University), 2013.3.11-14, Dry Tortugas, FL USA.
+-   2010      Wildness First Aid. Lloyd Figgins (EarthWatch Institute), 2010.10.07-10, Kaihua, China. 
+-   2009     Spatial analysis biostatistics. Pierre Legendre (Université de
+    Montréal), 2009.10.01-05, Beijing, China. 
+-   2009     Linear regression. Pierre Legendre (Université de Montréal), 2009.09.10-15, Beijing, China. 
+-   2009     Mathematical statistics, R programming language and multivariate statistical analyses. Jiangshan Lai (Institute of Botany, Chinese Academic of Science), Jinlong Zhang (Institute of Botany, Chinese Academic of Science), Yanping Chen (Renmin University of China), 2009.09.05-09, Beijing, China. 
+
+
+---
+
+## Professional Affiliations
+
+-   2014-     Member, International Biogeography Society
+-   2013-     Member, Society for Conservation Biology
+-   2013-     Member, Ecological Society of Zhejiang Province
+-   2009-     Member, China Ornithological Society
+-   2008-     Member, Zhejiang Zoological Society
+
 
 ---
 
@@ -181,5 +184,5 @@ can detect the wildlife of interest effectively with limited time.
 
 ---
 
-### [CV(78KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+### [CV(126KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
