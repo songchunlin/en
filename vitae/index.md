@@ -8,9 +8,9 @@ title: Curriculum Vitae (Xingfeng Si)
 - Email: [xingfengsi\[at\]gmail.com](mailto:xingfengsi@gmail.com)
 - Website: [www.sixf.org](http://sixf.org) 
 - Phone: +86(571)8820-6467 
-- Fax: +86(571)8820-6467 
+- Fax: +86(571)8820-6468 
 - Address: 441A College of Life Sciences, Zhejiang University, Hangzhou, ZJ 310058, China
-- [CV(54KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+- [CV(50KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
 ---
 
@@ -107,11 +107,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ## Professional Affiliations
 
--   2014-     Member, International Biogeography Society
--   2013-     Member, Society for Conservation Biology
--   2013-     Member, Ecological Society of Zhejiang Province
--   2009-     Member, China Ornithological Society
--   2008-     Member, Zhejiang Zoological Society
+-   Member     International Biogeography Society, Society for Conservation Biology, China Ornithological Society, Ecological Society of Zhejiang Province, Zhejiang Zoological Society
 
 
 ---
@@ -158,8 +154,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 
 -   Good at R, MS Office, Photoshop
--   Intermediated in LaTeX, OS iWork, MarkDown, EndNote, Google Earth   
--   Beginner in Mathematica, PHP, WordPress, CANOCO, WinBUGS
+-   Intermediated in LaTeX, OS iWork, Mathematica, WordPress
 
 
 ---
@@ -173,5 +168,5 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ---
 
-### [CV(54KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+### [CV(50KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
