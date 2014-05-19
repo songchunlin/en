@@ -94,8 +94,8 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ## Postgraduate Training
 
--   2013     Metapopulation capacity (Mathematica *version 9*). Gareth Russell (New Jersey Institute of Technology), 2013.01.28-30, Durham, NC USA.
--   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus*. Stuart Pimm (Duke University), 2013.3.11-14, Dry Tortugas, FL USA.
+-   2013     Metapopulation capacity (Mathematica *version 9*). Gareth Russell (New Jersey Institute of Technology), 2013.01.28-30, Durham, North Carolina, USA.
+-   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus*. Stuart Pimm (Duke University), 2013.3.11-14, Dry Tortugas, Florida, USA.
 -   2010      Wildness First Aid. Lloyd Figgins (EarthWatch Institute), 2010.10.07-10, Kaihua, China. 
 -   2009     Spatial analysis biostatistics. Pierre Legendre (Université de
     Montréal), 2009.10.01-05, Beijing, China. 
@@ -120,7 +120,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 -   2014     The 6th EAFES International Congress, Haikou, China.
 -   2013     The 12th China Ornithological Conference and the 10th Cross-strait Ornithological Conference, Hangzhou, China.
 -   2013     The 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China.
--   2013     The 26th International Conference on Conservation Biology, Baltimore, MD USA.
+-   2013     The 26th International Conference on Conservation Biology, Baltimore, Maryland, USA.
 -   2012     The 1st Student Forum on Sci-Tech Innovation of College of Life Sciences at Zhejiang University, Hangzhou, China.
 -   2012     The 13th Student Conference on Conservation Science, Cambridge, UK.
 -   2011     The 7th National Conference on Wildlife Ecology and Resource Conservation, Jinhua, China.
