@@ -39,6 +39,7 @@ title: Publications and Presentations
 -    **Xingfeng Si** & Ping Ding. (2014) Turnover of breeding communities on land-bridge islands. *The 3rd Forum of Zhejiang Scholars on Zoology*, Lishui, China.
 -   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. *The 6th EAFES International Congress*, Haikou, China.
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2013) Determinants of colonization-extinction dynamics of breeding bird communities on land-bridge islands. *The 12th China Ornithological Conference and the 9th Kingfisher Forum of Chinese Young Ornithologists Workshop*, Hangzhou, China.
+-   **Xingfeng Si** (2012) Biodiversity research in the Thousand Island Lake region. *The Pimm Group at Duke University*, Durham, North Carolina, USA.
 -   **Xingfeng Si** & Ping Ding. (2011) Minimum trapping effort of monitoring ground-activity animals using camera traps: a case study in Gutianshan National Nature Reserve. *The 7th Kingfisher Forum of Chinese Young Ornithologists Workshop*, Lanzhou, China.
 -   **Xingfeng Si** & Ping Ding. (2010) Monitoring ground activity birds using camera trapping in Gutianshan 24-ha plot. *The 9th National Symposium on the Conservation and Sustainable Use of Biodiversity in China*, Xiamen, China.
 -   **Xingfeng Si** & Ping Ding. (2010) Bird monitoring in Gutianshan 24-ha plot: using spot mapping and infrared cameras. *The 2010 International Symposium on Biodiversity Monitoring*, Nanjing, China.
