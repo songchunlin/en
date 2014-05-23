@@ -144,7 +144,6 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 -   2013     Local Conference Organizer. The 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China
 -   2011     Invited Guest. Chuyang Forum of Zhejiang Normal University, Jinhua, China
 -   2011     Invited Report. Swearing Conference for College Entrance Exam of Yiting High School, Yiwu, China
--   2008     Laureate. Ten Outstanding Research & Training Students of Zhejiang Normal University, Jinhua, China
 -   2008     Beijing Olympic Torch Escort. Beijing Olympic Torch Relay Center, Shaoxing, China
 -   2006     Deputy Director. The Secretariat of Student Council, Chuyang Honors College of Zhejiang Normal University, Jinhua, China
 -   2004     Student Representative. Special talk in the 2004 Graduation Ceremony of Yiting High School, Yiwu, China
