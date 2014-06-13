@@ -19,7 +19,7 @@ title: Publications and Presentations
 -   **Xingfeng Si** *et al.* Partitioning beta diversity of bird communities on land-bridge islands challenges the conservation strategies in an inundated lake. *in preparation*.
 -   **Xingfeng Si** *et al.* Distributions of bird and lizard communities on land-bridge islands: decomposing taxonomic and functional beta diversity into their turnover and nestedness components. *in preparation*.
 
-### Conference abstracts or articles
+### Conference articles (non peer-reviewed)
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson’s theory. *Proceedings of the 26th International Ornithological Congress*, 2014.08.18-24, pp. ××, Tokyo, Japan.
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding communities on land-bridge islands. *Abstracts of the 3rd Forum of Zhejiang Scholars on Zoology*, 2014.05.10-11, pp.34, Lishui, China.  <small>(in Chinese)</small>
