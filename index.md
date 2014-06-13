@@ -1,5 +1,5 @@
 ---
-title: Hang in There!
+title: Hanging in There!
 layout: page
 ---
 
