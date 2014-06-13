@@ -7,15 +7,19 @@ title: Publications and Presentations
 
 ## Publications <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en)</small> 
 
-### Peer Reviewed
+### Peer-reviewed articles
 
+-   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. Turnover of breeding bird communities on islands of an inundated lake. ***Journal of Biogeography***, *in press*.
 -   **Xingfeng Si**, Roland Kays & Ping Ding. (2014) How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. ***PeerJ***, 2: e374. [pdf(1.8MB)](http://peerj.com/articles/374.pdf)
 -   **Xingfeng Si** & Ping Ding. (2011) History, status of monitoring land birds in Europe and American and countermeasures of China. ***Biodiversity Science***, 19: 303-310. <small>(in Chinese with English abstract)</small>  [pdf(241KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9518)
--   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. Turnover of breeding bird communities on islands of an inundated lake. *under revision*.
--   Guozhen Shen, Stuart L. Pimm, Chaoyang Feng, Guofang Ren, Yangping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Hongxin Su & Zongqiang Xie. Climate change challenges the static conservation strategy for the giant panda. *under revision*.
--   **Xingfeng Si** *et al.* Partitioning beta diversity of bird communities on islands of an inundated lake. *in preparation*.
 
-### Non-peer Reviewed
+### Submitted, under revision or in preparation
+
+-   Guozhen Shen, Stuart L. Pimm, Chaoyang Feng, Guofang Ren, Yangping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Hongxin Su & Zongqiang Xie. Climate change challenges the static conservation strategy for the giant panda. *under revision*.
+-   **Xingfeng Si** *et al.* Partitioning beta diversity of bird communities on land-bridge islands challenges the conservation strategies in an inundated lake. *in preparation*.
+-   **Xingfeng Si** *et al.* Distributions of bird and lizard communities on land-bridge islands: decomposing taxonomic and functional beta diversity into their turnover and nestedness components. *in preparation*.
+
+### Conference abstracts or articles
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson’s theory. *Proceedings of the 26th International Ornithological Congress*, 2014.08.18-24, pp. ××, Tokyo, Japan.
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding communities on land-bridge islands. *Abstracts of the 3rd Forum of Zhejiang Scholars on Zoology*, 2014.05.10-11, pp.34, Lishui, China.  <small>(in Chinese)</small>
@@ -29,6 +33,9 @@ title: Publications and Presentations
 -   Meng Zhang, Ping Ding, Yanping Wang, **Xingfeng Si**, Zhifeng Ding & Jiji Sun. (2009) Effects of habitat fragmentation on the use of nest site resources by great tits in Thousand Island Lake, hejiang Province. *Proceedings of the 11th Conference of Zhejiang Zoological Society*, 2009.10.30-11.01, pp. 513, Jinhua, China. <small>(in Chinese)</small>
 -   Longlong Zhang, Yixin Bao, Huanhuan Li, **Xingfeng Si** & Shuoying Hu. (2008) The functional groups and trophic levels of soil macro-fauna in different vegetation type, Beishan Moutain, Jinhua. *Proceedings of the 8th National Symposium on the Conservation and Sustainable Use of Biodiversity in China*, 2008.10.17-19, pp. 257-267, Jinhua, China. <small>(in Chinese with English abstract)</small> [Link](http://d.wanfangdata.com.cn/Conference_7820627.aspx)
 
+### Popular articles and other publications
+
+-   **Xingfeng Si** (2014) How to track the latest references? *China Postgraduates*, 2014(6): ×-×. <small>(in Chinese)</small>
 
 ---
 

@@ -10,7 +10,7 @@ title: Curriculum Vitae (Xingfeng Si)
 - Phone: +86(571)8820-6467 
 - Fax: +86(571)8820-6468 
 - Address: 441A College of Life Sciences, Zhejiang University, Hangzhou, ZJ 310058, China
-- [CV(50KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+- [CV(113KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
 ---
 
@@ -54,24 +54,24 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ---
 
-## Research Projects
+## Grants
 
-### Directed Projects
+### Principal Investigator
 
--   2006-2007     Observation and Study of Reproductive Behavior of Rodents. Laboratory Open Program of Zhejiang Normal University. (Project Director, 1/3)
+-   2006-2007     Observation and Study of Reproductive Behavior of Rodents. Laboratory Open Program of Zhejiang Normal University. (PI: 1/3)
     
-### Participated Projects
+### Participant
 
 
--   2013-2017     Effects of food web and its composition on bird and plant communities in subtropical fragmented habitats - a case study of land-bridge islands in Thousand Island Lake. National Science Foundation of China. (Core Participant, 4/8)
--   2012-2015     Dynamic and Stability of forest bird community in fragmented habitats of Thousand Island Lake. National Science Foundation of China. (Participant, 6/10)
--   2012-2014     Sensitivity research on habitat fragmentation of birds and reptiles in Thousand Island Lake. National Science Foundation of China. (Participant, 5/8)
--   2012-2014     Body size evolution of island population of *Takydromus septentrionalis* and its responses on life history. National Science Foundation of China. (Participant, 3/7)
--   2012-2012     Conservation project of *Leucopsar rothschildi* in Indonisia. Ministry of Science and Technology of China. (Participant, 14/23)
+-   2013-2017     Effects of food web and its composition on bird and plant communities in subtropical fragmented habitats - a case study of land-bridge islands in Thousand Island Lake. National Science Foundation of China. (Core Participant: 4/8)
+-   2012-2015     Dynamic and Stability of forest bird community in fragmented habitats of Thousand Island Lake. National Science Foundation of China. (Participant: 6/10)
+-   2012-2014     Sensitivity research on habitat fragmentation of birds and reptiles in Thousand Island Lake. National Science Foundation of China. (Participant: 5/8)
+-   2012-2014     Body size evolution of island population of *Takydromus septentrionalis* and its responses on life history. National Science Foundation of China. (Participant: 3/7)
+-   2012-2012     Conservation project of *Leucopsar rothschildi* in Indonisia. Ministry of Science and Technology of China. (Participant: 14/23)
 -   2010-2012     Biodiversity census in Baishanzu National Nature Reserve (Plants, Mammals and Birds). Baishanzu National Nature Reserve. (Core Participant)
 -   2009-2011     The effects of habitat fragmentation on life history traits of birds in Thousand Island Lake. National Science Foundation of China. (Participant)
 -   2009-2010     Wild Animal Resource Census in Wuxijiang Wetland Park, Zhejiang. Forestry Administration of Qujiang District. (Core Participant)
--   2008-2011     Resource Monitoring Technology and Demonstration of Forest Bird Species. Special Topic of National Key Technology R&D Program of China.  (First Participant, 3/5)
+-   2008-2011     Resource Monitoring Technology and Demonstration of Forest Bird Species. Special Topic of National Key Technology R&D Program of China.  (First Participant: 3/5)
 -   2008-2008     Wildlife Resource Census in Hongshuang Nature Reserve, Rui'an. Forestry Administration of Rui'an City. (Core Participant)
 -   2007-2009     The effects of habitat fragmentation on diversity and community composition of birds in Thousand Island Lake. National Science Foundation of China. (Participant)
 
@@ -168,5 +168,5 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ---
 
-### [CV(50KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+### [CV(113KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
