@@ -1,5 +1,5 @@
 ---
-title: Minimum trapping effort on camera traps
+title: Minimum Trapping Effort on Camera Traps
 tags: [Biodiversity, Conservation Biology, Ecology, Zoology, Gutianshan]
 categories: [academic]
 layout: post
