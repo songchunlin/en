@@ -21,7 +21,7 @@ Here is the screenshot of the decisions of our manuscript from the author center
 ---
 ---
 
-Begin the abstract of our accepted manuscript *Turnover of breeding bird communities on islands of an inundated lake* (**pdf is available upon request**):
+Begin the abstract of our accepted manuscript *Turnover of breeding bird communities on islands of an inundated lake* (**full manuscript in pdf is available upon request**):
 
 <br/>
 <div style="font-family: Palatino, serif;">
