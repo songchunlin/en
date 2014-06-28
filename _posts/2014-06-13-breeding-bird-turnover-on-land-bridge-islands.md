@@ -16,7 +16,7 @@ Looking back for the process of producing this paper, I completely understand it
 
 Here is the screenshot of the decisions of our manuscript from the author center of *Journal of Biogeography* that I posted it on my website to serve as a record:
 
-![](http://sixf.org/files/images/2014/06/JBiDecisions.png)
+![](http://sixf.org/files/images/2014/06/JBiDecisions.jpg)
 
 ---
 ---
