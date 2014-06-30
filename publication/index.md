@@ -35,7 +35,7 @@ title: Publications and Presentations
 
 ### Popular articles and other publications
 
--   **Xingfeng Si** (2014) How to track the latest references? ***China Postgraduates***, 2014(6): ×-×. <small>(in Chinese)</small>
+-   **Xingfeng Si** (2014) How to track the latest references? ***China Postgraduates***, 2014(6): 32-33. <small>(in Chinese)</small>
 
 ---
 
