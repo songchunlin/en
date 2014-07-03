@@ -114,28 +114,21 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ## Participation in Scientific Conferences & Symposiums
 
-
+-   2014     The 1st Workshop on Wildlife Monitoring Using Camera Traps, Beijing, China.
 -   2014     The 26th International Ornithological Congress, Tokyo, Japan.
 -   2014     The 3rd Forum of Zhejiang Scholars on Zoology, Lishui, China.
 -   2014     The 6th EAFES International Congress, Haikou, China.
--   2013     The 12th China Ornithological Conference and the 10th Cross-strait Ornithological Conference, Hangzhou, China.
--   2013     The 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China.
 -   2013     The 26th International Conference on Conservation Biology, Baltimore, Maryland, USA.
 -   2012     The 1st Student Forum on Sci-Tech Innovation of College of Life Sciences at Zhejiang University, Hangzhou, China.
 -   2012     The 13th Student Conference on Conservation Science, Cambridge, UK.
 -   2011     The 7th National Conference on Wildlife Ecology and Resource Conservation, Jinhua, China.
--   2011     The 11th China Ornithological Conference, Lanzhou, China}
--   2011     The 7th Kingfisher Forum of Chinese Young Ornithologists Workshop, Lanzhou, China.
--   2011     Symposium for Theoretical Ecology and Biodiversity, Guangzhou, China}
--   2010     The 9th National Symposium on the Conservation and Sustainable Use of Biodiversity in China, Xiamen, China.
--   2010     The 4th Cross-strait Symposium on Forest Dynamic Plots, Xiamen, China.
--   2010     The 2010 International Forum on Biodiversity Monitorin, Nanjing, China.
--   2009     The 3rd Cross-strait Symposium on Forest Dynamic Plots, Zhaoqing, China.
+-   2011     Symposium for Theoretical Ecology and Biodiversity, Guangzhou, China.
+-   2010     The 2010 International Forum on Biodiversity Monitoring, Nanjing, China.
 -   2009     The 11th Congress of Zhejiang Zoological Society, Jinhua, China.
--   2009     The 10th China Ornithological Conference and the 8th Cross-strait Ornithological Conference, Harbin, China.
--   2009     The 5th Kingfisher Forum of Chinese Young Ornithologists Workshop, Harbin, China.
--   2008     The 8th National Conference on Biodiversity Conservation and Sustainable Utilization, Jinhua, China.
--   2008     The 4th Kingfisher Forum of Chinese Young Ornithologists Workshop, Beijing, China.
+-   Cross-strait Symposium on Forest Dynamic Plots: Zhaoqing(2009), Xiamen(2010).
+-   China Ornithological Conference: Harbin(2009), Lanzhou(2011), Hangzhou(2013).
+-   National Symposium on the Conservation and Sustainable Use of Biodiversity in China: Jinhua(2008), Xiamen(2010).
+-   Kingfisher Forum of Chinese Young Ornithologists Workshop: Beijing(2008), Harbin(2009), Lanzhou(2011), Hangzhou(2013).
 
 ---
 
