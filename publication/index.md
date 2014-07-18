@@ -9,7 +9,7 @@ title: Publications and Presentations
 
 ### Peer-reviewed articles
 
--   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on islands of an inundated lake. ***Journal of Biogeography***, *in press*.
+-   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on islands of an inundated lake. ***Journal of Biogeography***, doi: 10.1111/jbi.12379.
 -   **Xingfeng Si**, Roland Kays & Ping Ding. (2014) How long is enough to detect terrestrial animals? Estimating the minimum trapping effort on camera traps. ***PeerJ***, 2: e374. [pdf(1.8MB)](http://peerj.com/articles/374.pdf)
 -   **Xingfeng Si** & Ping Ding. (2011) History, status of monitoring land birds in Europe and American and countermeasures of China. ***Biodiversity Science***, 19: 303-310. <small>(in Chinese with English abstract)</small>  [pdf(241KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9518)
 
@@ -43,6 +43,7 @@ title: Publications and Presentations
 
 ### Oral Talks
 
+-    **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on islands of an inundated lake. Institute of Botany, the Chinese Academy of Sciences, Beijing, China.
 -    **Xingfeng Si** & Ping Ding. (2014) Turnover of breeding communities on land-bridge islands. *The 3rd Forum of Zhejiang Scholars on Zoology*, Lishui, China.
 -   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. *The 6th EAFES International Congress*, Haikou, China.
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2013) Determinants of colonization-extinction dynamics of breeding bird communities on land-bridge islands. *The 12th China Ornithological Conference and the 9th Kingfisher Forum of Chinese Young Ornithologists Workshop*, Hangzhou, China.
@@ -56,5 +57,6 @@ title: Publications and Presentations
 ### Posters
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson’s theory. *The 26th International Ornithological Congress*, Tokyo, Japan.
+-   **Xingfeng Si** & Ping Ding. (2014) Wildlife Monitoring Using Camera Traps in Gutianshan National Nature Reserve, Zhejiang. *The 1st Symposium of Wildlife Biodiversity Monitoring on Camera Traps*, Beijing, China
 -   **Xingfeng Si** & Ping Ding. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. *The 1st Student Forum on Sci-Tech Innovation of College of Life Sciences at Zhejiang University*, Hangzhou, China.
 -   **Xingfeng Si** & Ping Ding. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. *The 13th Student Conference on Conservation Science*, Cambridge, UK.
