@@ -114,7 +114,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ## Participation in Scientific Conferences & Symposiums
 
--   2014     The 1st Workshop on Wildlife Monitoring Using Camera Traps, Beijing, China.
+-   2014     The 1st Symposium of Wildlife Biodiversity Monitoring on Camera Traps, Beijing, China.
 -   2014     The 26th International Ornithological Congress, Tokyo, Japan.
 -   2014     The 3rd Forum of Zhejiang Scholars on Zoology, Lishui, China.
 -   2014     The 6th EAFES International Congress, Haikou, China.
