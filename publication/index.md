@@ -9,14 +9,14 @@ title: Publications and Presentations
 
 ### Peer-reviewed articles
 
--   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on islands of an inundated lake. ***Journal of Biogeography***, doi: 10.1111/jbi.12379.
+-   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on islands in an inundated lake. ***Journal of Biogeography***, doi: 10.1111/jbi.12379. [pdf(371KB)](http://sixf.org/files/articles/Si-etal2014JB.pdf)
 -   **Xingfeng Si**, Roland Kays & Ping Ding. (2014) How long is enough to detect terrestrial animals? Estimating the minimum trapping effort on camera traps. ***PeerJ***, 2: e374. [pdf(1.8MB)](http://peerj.com/articles/374.pdf)
 -   **Xingfeng Si** & Ping Ding. (2011) History, status of monitoring land birds in Europe and American and countermeasures of China. ***Biodiversity Science***, 19: 303-310. <small>(in Chinese with English abstract)</small>  [pdf(241KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9518)
 
 ### Submitted, under revision or in preparation
 
 -   Guozhen Shen, Stuart L. Pimm, Chaoyang Feng, Guofang Ren, Yangping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Hongxin Su & Zongqiang Xie. Climate change challenges the static conservation strategy for the giant panda. *under revision*.
--   **Xingfeng Si** *et al.* Partitioning beta diversity of bird communities on land-bridge islands challenges the conservation strategies in an inundated lake. *in preparation*.
+-   **Xingfeng Si** *et al.* Theory meets practice: partitioning beta diversity of breeding bird communities on land-bridge islands challengs the conservation strategies. *in preparation*.
 -   **Xingfeng Si** *et al.* Distributions of bird and lizard communities on land-bridge islands: decomposing taxonomic and functional beta diversity into their turnover and nestedness components. *in preparation*.
 
 ### Conference articles (non peer-reviewed)
@@ -31,7 +31,7 @@ title: Publications and Presentations
 -   **Xingfeng Si** & Ping Ding. (2010) Monitoring ground activity birds using camera trapping in Gutianshan 24-ha plot. *Proceedings of the 9th National Symposium on the Conservation and Sustainable Use of Biodiversity in China*, 2010.10.04-06, pp. 99-100, Xiamen, China.
 -   **Xingfeng Si** & Ping Ding. (2010) Bird monitoring in Gutianshan 24-ha plot: using spot mapping and infrared cameras. *Proceedings of the 2010 International Forum on Biodiversity Monitoring*, 2010.06.20-22, pp. 96, Nanjing, China. <small>(in Chinese)</small>
 -   Meng Zhang, Ping Ding, Yanping Wang, **Xingfeng Si**, Zhifeng Ding & Jiji Sun. (2009) Effects of habitat fragmentation on the use of nest site resources by great tits in Thousand Island Lake, hejiang Province. *Proceedings of the 11th Conference of Zhejiang Zoological Society*, 2009.10.30-11.01, pp. 513, Jinhua, China. <small>(in Chinese)</small>
--   Longlong Zhang, Yixin Bao, Huanhuan Li, **Xingfeng Si** & Shuoying Hu. (2008) The functional groups and trophic levels of soil macro-fauna in different vegetation type, Beishan Moutain, Jinhua. *Proceedings of the 8th National Symposium on the Conservation and Sustainable Use of Biodiversity in China*, 2008.10.17-19, pp. 257-267, Jinhua, China. <small>(in Chinese with English abstract)</small> [Link](http://d.wanfangdata.com.cn/Conference_7820627.aspx)
+-   Longlong Zhang, Yixin Bao, Huanhuan Li, **Xingfeng Si** & Shuoying Hu. (2008) The functional groups and trophic levels of soil macro-fauna in different vegetation type, Beishan Moutain, Jinhua. *Proceedings of the 8th National Symposium on the Conservation and Sustainable Use of Biodiversity in China*, 2008.10.17-19, pp. 257-267, Jinhua, China. <small>(in Chinese with English abstract)</small> [pdf(662KB)](http://sixf.org/files/articles/Zhang-etal2008.pdf)
 
 ### Popular articles and other publications
 
