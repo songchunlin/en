@@ -85,9 +85,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 # Teaching Experience
 
--   2012     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve and Thousand Island Lake, Zhejiang Province, China
--   2010     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
--   2009     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
+-   2009,10,12,14     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
 
 
 ---
