@@ -9,8 +9,8 @@ title: Curriculum Vitae (Xingfeng Si)
 - Website: [www.sixf.org](http://sixf.org) 
 - Phone: +86(571)8820-6467 
 - Fax: +86(571)8820-6468 
-- Address: 441A College of Life Sciences, Zhejiang University, Hangzhou, ZJ 310058, China
-- [CV(113KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+- Address: College of Life Sciences, Zhejiang University, Hangzhou 310058, China
+- [Download CV (PDF)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
 ---
 
@@ -159,5 +159,5 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ---
 
-### [CV(113KB)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+### [Download CV (PDF)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
