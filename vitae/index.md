@@ -14,6 +14,12 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ---
 
+## Research Interests
+
+Animal ecology, biodiversity, camera traps, conservation biology, habitat fragmentation, island biogeography, landscape ecology, ornithology, wildlife management
+
+---
+
 ## Education
 
 -   2008-         **Ph.D. Student**, Ecology, **Zhejiang
@@ -26,16 +32,16 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ## Awards & Honors
 
--   2013     Gold Awards of the 9th Kingfisher Forum, China
+-   2013     Gold Award of the 9th Kingfisher Forum, China
     Ornithological Society
--   2012     State Scholarship Fund, China Scholarship Council
--   2011     Merit Graduated Student in 2010-2011, Zhejiang
+-   2012     Award of Honor of the 1st Student Forum, CLS Zhejiang University
+-   2011     Graduate of Merit in 2010-2011, Zhejiang
     University
--   2011     Honors of First-class Scholarship in 2010-2011,
+-   2011     First-class Award of Honor for Graduate in 2010-2011,
     Zhejiang University
--   2011     Gold Awards of the 7th Kingfisher Forum, China
+-   2011     Gold Award of the 7th Kingfisher Forum, China
     Ornithological Society
--   2009     Silver Awards of the 5th Kingfisher Forum, China
+-   2009     Silver Award of the 5th Kingfisher Forum, China
     Ornithological Society
 -   2008     Ten Outstanding Research and Training Students,
     Zhejiang Normal University
@@ -43,14 +49,11 @@ title: Curriculum Vitae (Xingfeng Si)
     University
 -   2005     Second-class Scholarship in 2004-2005, Zhejiang Normal
     University
--   2005     Excellent League Member in 2004, Zhejiang Normal
-    University
+-   2005     Excellent League Member in 2004, Zhejiang Normal University
 
----
-
-## Research Interests
-
-Animal ecology, biodiversity, camera traps, conservation biology, habitat fragmentation, island biogeography, landscape ecology, ornithology, wildlife management
+-   2012–2013     Joint-training Ph.D. Program, China Scholarship Council
+-   2008–2013     Full Scholarship for Graduate, Zhejiang University
+    
 
 ---
 
@@ -133,10 +136,11 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 ## Miscellaneous Activities
 
 -   2013     Local Conference Organizer. The 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China
+-   2013     Volunteer. Sooty Tern (*Onychoprion fuscatus*) Project, Dry Tortugas, Florida, USA
 -   2011     Invited Guest. Chuyang Forum of Zhejiang Normal University, Jinhua, China
 -   2011     Invited Report. Swearing Conference for College Entrance Exam of Yiting High School, Yiwu, China
 -   2008     Beijing Olympic Torch Escort. Beijing Olympic Torch Relay Center, Shaoxing, China
--   2006     Deputy Director. The Secretariat of Student Council, Chuyang Honors College of Zhejiang Normal University, Jinhua, China
+-   2006–2007     Deputy Director. The Secretariat of Student Council, Chuyang Honors College of Zhejiang Normal University, Jinhua, China
 -   2004     Student Representative. Special talk in the 2004 Graduation Ceremony of Yiting High School, Yiwu, China
 
 ---
@@ -144,16 +148,15 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 ## Computer Skills
 
 
--   Good at R, MS Office, Photoshop
--   Intermediated in LaTeX, OS iWork, Mathematica, WordPress
+-   Statistical Programs     R, Mathematica, WinBUGS
+-   Others     LaTeX, Adobe Photoshop, MS Office Suite, EndNote, OS X iWork
 
 
 ---
 
 ## Language & Other Skills
 
--   Chinese (native fluent)
--   English (fluent reading, competent in conversation)
+-   English (Fluent), Mandarin (Excellent), Wu Chinese (Native)
 -   Wildness First Aid: Level 2
 -   Full Marathon: 4h51min
 
