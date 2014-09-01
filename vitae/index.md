@@ -162,5 +162,5 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ---
 
-### [Download CV (PDF)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
+## [Download CV (PDF)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
