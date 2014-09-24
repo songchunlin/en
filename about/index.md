@@ -6,7 +6,7 @@ title: About
 
 ## Who I Am? 
 
-I am Xingfeng Si, a fourth-year PhD student at the [College of Life Sciences](http://www.cls.zju.edu.cn/en/) at [Zhejiang University](http://www.zju.edu.cn "Zhejiang University"), China. Difficult to pronunce the Chinese names? Well,  my name *Xingfeng Si* sounds like *Sheeng-ferng Szzz*, and the name of my university *Zhejiang* sounds like *Dr-er Ji-ah-ng*.
+I am Xingfeng Si, a Postdoctoral Research Associate at the [College of Life Sciences](http://www.cls.zju.edu.cn/en/) at [Zhejiang University](http://www.zju.edu.cn "Zhejiang University"), China. Difficult to pronunce the Chinese names? Well,  my name *Xingfeng Si* sounds like *Sheeng-ferng Szzz*, and the name of my university *Zhejiang* sounds like *Dr-er Ji-ah-ng*.
 
 ---
 
@@ -16,7 +16,7 @@ I am Xingfeng Si, a fourth-year PhD student at the [College of Life Sciences](ht
 My research interest generally lies in biogeography, community ecology, conservation biology and ornithology, and could be divided into two topics: island biogeography and wildlife management.
 
 What are the underlying mechanisms shaping the animal distribution on fragmented islands? Do the animal in land-bridge system have similar pattern as expected by the theory of island biogeography? To ask these questions, I started my research of bird communities since 2008 in the [Thousand Island Lake](/en/pages/thousand-island-lake/ "Thousand Island Lake") (TIL), China. TIL is a large inundated reservoir with 1078 islands which was created in 1959 by the construction of Xin'anjiang Dam. This lake is a good land-bridge research system to explore species
-distribution and test the traditional theory of island biogeography proposed by MacArthur & Wilson. I used the long-term counts of breeding bird communities to quantify the colonization-extinction dynamics on a set of islands, so as to test the theory. In additions to the bird studies, I used the occupancy data of lizards and small mammals to unveil the biogeographical pattern of beta diversity, which will provide more detail into the biodiversity conservation on fragmented islands. 
+distribution and test the traditional theory of island biogeography proposed by MacArthur & Wilson. I used the long-term counts of breeding bird communities to quantify the colonization-extinction dynamics on a set of islands, so as to test the theory. In additions to the bird studies, I used the occupancy data of lizards and small mammals to unveil the biogeographical pattern of beta diversity, which will provide more detail into the biodiversity conservation on fragmented islands. See detailed introduction [here](http://sixf.org/en/2014/06/breeding-bird-turnover-on-land-bridge-islands).
 
 Camera trapping of wildlife, especially for some elusive and cryptic animals, had been practiced and become an available method to
 estimate the abundance of animals. I collected occupancy data of birds and mammals using camera traps during 2009 - 2012 in [Gutianshan Reserve](/en/pages/gutianshan-reserve/ "Gutianshan Reserve"),

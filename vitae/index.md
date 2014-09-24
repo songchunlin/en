@@ -16,17 +16,22 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ## Research Interests
 
-Animal ecology, biodiversity, camera traps, conservation biology, habitat fragmentation, island biogeography, landscape ecology, ornithology, wildlife management
+Animal ecology, biodiversity, camera traps, conservation biology, habitat fragmentation, island biogeography, land reclamation, ornithology, wildlife management
+
+---
+
+## Position
+
+-   2014-         **Postdoctoral Research Associate**. College of Life Sciences, Zhejiang University
 
 ---
 
 ## Education
 
--   2008-         **Ph.D. Student**, Ecology, **Zhejiang
-    University**, China
--   2012-2013  **Visiting Student**, Ecology, **Duke University**,
-    USA
--   2004-2008  **B.S.**, Biology, **Zhejiang Normal University**, China
+-   2008-2014  **Ph.D.** in Ecology, **Zhejiang
+    University**
+-   2012-2013  **Visiting Student** in Ecology, **Duke University**
+-   2004-2008  **B.S.** in Biology, **Zhejiang Normal University**
 
 ---
 
@@ -50,27 +55,24 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 -   2005     Second-class Scholarship in 2004-2005, Zhejiang Normal
     University
 -   2005     Excellent League Member in 2004, Zhejiang Normal University
-
--   2012–2013     Joint-training Ph.D. Program, China Scholarship Council
--   2008–2013     Full Scholarship for Graduate, Zhejiang University
     
 
 ---
 
-## Grants
+## Grants and Scholarships
 
-### Principal Investigator
-
+-   2012–2013     Joint-training Ph.D. Program, China Scholarship Council. (Scholarship: ~21,000 USD) 
+-   2008–2013     Full Scholarship for Graduate, Zhejiang University. (Scholarship: ~12,000 USD)
 -   2006-2007     Observation and Study of Reproductive Behavior of Rodents. Laboratory Open Program of Zhejiang Normal University. (PI: 1/3)
     
-### Participant
+
+### Participated Projects (Selected)
 
 
 -   2013-2017     Effects of food web and its composition on bird and plant communities in subtropical fragmented habitats - a case study of land-bridge islands in Thousand Island Lake. National Science Foundation of China. (Core Participant: 4/8)
 -   2012-2015     Dynamic and Stability of forest bird community in fragmented habitats of Thousand Island Lake. National Science Foundation of China. (Participant: 6/10)
 -   2012-2014     Sensitivity research on habitat fragmentation of birds and reptiles in Thousand Island Lake. National Science Foundation of China. (Participant: 5/8)
 -   2012-2014     Body size evolution of island population of *Takydromus septentrionalis* and its responses on life history. National Science Foundation of China. (Participant: 3/7)
--   2012-2012     Conservation project of *Leucopsar rothschildi* in Indonisia. Ministry of Science and Technology of China. (Participant: 14/23)
 -   2010-2012     Biodiversity census in Baishanzu National Nature Reserve (Plants, Mammals and Birds). Baishanzu National Nature Reserve. (Core Participant)
 -   2009-2011     The effects of habitat fragmentation on life history traits of birds in Thousand Island Lake. National Science Foundation of China. (Participant)
 -   2009-2010     Wild Animal Resource Census in Wuxijiang Wetland Park, Zhejiang. Forestry Administration of Qujiang District. (Core Participant)
@@ -93,7 +95,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ---
 
-## Postgraduate Training
+## Professional Training
 
 -   2013     Metapopulation capacity (Mathematica *version 9*). Gareth Russell (New Jersey Institute of Technology), 2013.01.28-30, Durham, North Carolina, USA.
 -   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus*. Stuart Pimm (Duke University), 2013.3.11-14, Dry Tortugas, Florida, USA.
