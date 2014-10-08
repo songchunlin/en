@@ -28,10 +28,10 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ## Education
 
--   2008-2014  **Ph.D.** in Ecology, **Zhejiang
+-   2008-2014     **Ph.D.** in Ecology, **Zhejiang
     University**
--   2012-2013  **Visiting Student** in Ecology, **Duke University**
--   2004-2008  **B.S.** in Biology, **Zhejiang Normal University**
+-   2012-2013     **Visiting Student** in Ecology, **Duke University**
+-   2004-2008     **B.S.** in Biology, **Zhejiang Normal University**
 
 ---
 
