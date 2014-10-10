@@ -38,7 +38,7 @@ title: Publications and Presentations
 
 -   **Xingfeng Si**. (2014) *Species Turnover and Beta Diversity of Breeding Bird Communities in Fragmented Habitats*. Ph.D. thesis, Zhejiang University, Hangzhou. <small>(in Chinese with English abstract)</small> [PDF(2.5M)](http://sixf.org/files/articles/Si2014.pdf)
 -   **Xingfeng Si**. (2014) Dry Tortugas National Park — Home of the sooty tern. ***China Nature***, *in press*. <small>(in Chinese)</small>
--   **Xingfeng Si**. (2014) Apply for the China Scholarship Council fund. ***China Postgraduates***, *in press*. <small>(in Chinese)</small>
+-   **Xingfeng Si**. (2014) Apply for the China Scholarship Council fund. ***China Postgraduates***, 2014(9): 58-59. <small>(in Chinese)</small>
 -   **Xingfeng Si**. (2014) How to track the latest references? ***China Postgraduates***, 2014(6): 32-33. <small>(in Chinese)</small>
 
 ---
@@ -61,6 +61,6 @@ title: Publications and Presentations
 ### Posters
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Breeding bird turnover on land-bridge islands. *The 26th International Ornithological Congress*, Tokyo, Japan.
--   **Xingfeng Si** & Ping Ding. (2014) Wildlife Monitoring Using Camera Traps in Gutianshan National Nature Reserve, Zhejiang. *The 1st Symposium of Wildlife Biodiversity Monitoring on Camera Traps*, Beijing, China
+-   **Xingfeng Si** & Ping Ding. (2014) Wildlife monitoring using camera traps in Gutianshan National Nature Reserve, Zhejiang. *The 1st Symposium of Wildlife Biodiversity Monitoring on Camera Traps*, Beijing, China
 -   **Xingfeng Si** & Ping Ding. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. *The 1st Student Forum on Sci-Tech Innovation of College of Life Sciences at Zhejiang University*, Hangzhou, China.
 -   **Xingfeng Si** & Ping Ding. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. *The 13th Student Conference on Conservation Science*, Cambridge, UK.
