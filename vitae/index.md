@@ -16,7 +16,7 @@ title: Curriculum Vitae (Xingfeng Si)
 
 ## Research Interests
 
-Animal ecology, biodiversity, camera traps, conservation biology, habitat fragmentation, island biogeography, land reclamation, ornithology, wildlife management
+Animal ecology, biodiversity, camera traps, conservation biology, farmland abandonment, habitat fragmentation, island biogeography, land reclamation, ornithology, wildlife management
 
 ---
 
@@ -28,8 +28,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ## Education
 
--   2008-2014     **Ph.D.** in Ecology, **Zhejiang
-    University**
+-   2008-2014     **Ph.D.** in Ecology, **Zhejiang University**
 -   2012-2013     **Visiting Student** in Ecology, **Duke University**
 -   2004-2008     **B.S.** in Biology, **Zhejiang Normal University**
 
@@ -37,23 +36,16 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ## Awards & Honors
 
--   2013     Gold Award of the 9th Kingfisher Forum, China
-    Ornithological Society
+-   2014     Poster Award of WERC National Conference, Mammalogical Society of China
+-   2013     Gold Award of the 9th Kingfisher Forum, China Ornithological Society
 -   2012     Award of Honor of the 1st Student Forum, CLS Zhejiang University
--   2011     Graduate of Merit in 2010-2011, Zhejiang
-    University
--   2011     First-class Award of Honor for Graduate in 2010-2011,
-    Zhejiang University
--   2011     Gold Award of the 7th Kingfisher Forum, China
-    Ornithological Society
--   2009     Silver Award of the 5th Kingfisher Forum, China
-    Ornithological Society
--   2008     Ten Outstanding Research and Training Students,
-    Zhejiang Normal University
--   2005     Excellent Student Cadre in 2004-2005, Zhejiang Normal
-    University
--   2005     Second-class Scholarship in 2004-2005, Zhejiang Normal
-    University
+-   2011     Graduate of Merit in 2010-2011, Zhejiang University
+-   2011     First-class Award of Honor for Graduate in 2010-2011, Zhejiang University
+-   2011     Gold Award of the 7th Kingfisher Forum, China Ornithological Society
+-   2009     Silver Award of the 5th Kingfisher Forum, China Ornithological Society
+-   2008     Ten Outstanding Research and Training Students, Zhejiang Normal University
+-   2005     Excellent Student Cadre in 2004-2005, Zhejiang Normal  University
+-   2005     Second-class Scholarship in 2004-2005, Zhejiang Normal University
 -   2005     Excellent League Member in 2004, Zhejiang Normal University
     
 
@@ -83,7 +75,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ----
 
-## [Publications and Presentations](/en/publication/ "click here to see my publications")
+## [Publications](/en/publication/ "click here to see my publications")
 
 
 ---
@@ -97,41 +89,45 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 ## Professional Training
 
--   2013     Metapopulation capacity (Mathematica *version 9*). Gareth Russell (New Jersey Institute of Technology), 2013.01.28-30, Durham, North Carolina, USA.
--   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus*. Stuart Pimm (Duke University), 2013.3.11-14, Dry Tortugas, Florida, USA.
--   2010      Wildness First Aid. Lloyd Figgins (EarthWatch Institute), 2010.10.07-10, Kaihua, China. 
--   2009     Spatial analysis biostatistics. Pierre Legendre (Université de
-    Montréal), 2009.10.01-05, Beijing, China. 
--   2009     Linear regression. Pierre Legendre (Université de Montréal), 2009.09.10-15, Beijing, China. 
--   2009     Mathematical statistics, R programming language and multivariate statistical analyses. Jiangshan Lai (Institute of Botany, Chinese Academic of Science), Jinlong Zhang (Institute of Botany, Chinese Academic of Science), Yanping Chen (Renmin University of China), 2009.09.05-09, Beijing, China. 
-
-
----
-
-## Professional Affiliations
-
--   Member     International Biogeography Society, Society for Conservation Biology, China Ornithological Society, Ecological Society of Zhejiang Province, Zhejiang Zoological Society
+-   2014     The 2nd International Training Course on Frontier in Animal Ecology and Conservation Biology. Organized by SCB-China, ISZS and IOZ CAS, 2014.11.22–12.01, Beijing, China
+-   2014     Functional and Phylogenetic Diversity. NathanSwensson (Michigan State University), 2014.09.28–29, Beijing, China
+-   2013     Metapopulation capacity (Mathematica *version 9*). Gareth Russell (New Jersey Institute of Technology), 2013.01.28-30, Durham, North Carolina, USA
+-   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus*. Stuart Pimm (Duke University), 2013.3.11-14, Dry Tortugas, Florida, USA
+-   2010      Wildness First Aid. Lloyd Figgins (EarthWatch Institute), 2010.10.07-10, Kaihua, China
+-   2009     Spatial analysis biostatistics. Pierre Legendre (Université de Montréal), 2009.10.01-05, Beijing, China
+-   2009     Linear regression. Pierre Legendre (Université de Montréal), 2009.09.10-15, Beijing, China
+-   2009     Mathematical statistics, R programming language and multivariate statistical analyses. Jiangshan Lai (Institute of Botany, Chinese Academic of Science), Jinlong Zhang (Institute of Botany, Chinese Academic of Science), Yanping Chen (Renmin University of China), 2009.09.05-09, Beijing, China
 
 
 ---
 
 ## Participation in Scientific Conferences & Symposiums
 
--   2014     The 1st Symposium of Wildlife Biodiversity Monitoring on Camera Traps, Beijing, China.
--   2014     The 26th International Ornithological Congress, Tokyo, Japan.
--   2014     The 3rd Forum of Zhejiang Scholars on Zoology, Lishui, China.
--   2014     The 6th EAFES International Congress, Haikou, China.
--   2013     The 26th International Conference on Conservation Biology, Baltimore, Maryland, USA.
--   2012     The 1st Student Forum on Sci-Tech Innovation of College of Life Sciences at Zhejiang University, Hangzhou, China.
--   2012     The 13th Student Conference on Conservation Science, Cambridge, UK.
--   2011     The 7th National Conference on Wildlife Ecology and Resource Conservation, Jinhua, China.
--   2011     Symposium for Theoretical Ecology and Biodiversity, Guangzhou, China.
--   2010     The 2010 International Forum on Biodiversity Monitoring, Nanjing, China.
--   2009     The 11th Congress of Zhejiang Zoological Society, Jinhua, China.
+-   2015     Biennial Conference of the International Biogeography Society, Bayreuth, Germany
+-   2014     The 1st Symposium of Wildlife Biodiversity Monitoring on Camera Traps, Beijing, China
+-   2014     The 26th International Ornithological Congress, Tokyo, Japan
+-   2014     The 3rd Forum of Zhejiang Scholars on Zoology, Lishui, China
+-   2014     The 6th EAFES International Congress, Haikou, China
+-   2013     The 26th International Conference on Conservation Biology, Baltimore, Maryland, USA
+-   2012     The 1st Student Forum on Sci-Tech Innovation of College of Life Sciences at Zhejiang University, Hangzhou, China
+-   2012     The 13th Student Conference on Conservation Science, Cambridge, UK
+-   2011     Symposium for Theoretical Ecology and Biodiversity, Guangzhou, China
+-   2010     The 2010 International Forum on Biodiversity Monitoring, Nanjing, China
+-   2009     The 11th Congress of Zhejiang Zoological Society, Jinhua, China
+-   National Conference of the China Zoological Society: 2014(Guangzhou)
+-   National Conference on Wildlife Ecology and Resource Conservation: Jinhua(2011), Guilin(2014)
 -   Cross-strait Symposium on Forest Dynamic Plots: Zhaoqing(2009), Xiamen(2010).
 -   China Ornithological Conference: Harbin(2009), Lanzhou(2011), Hangzhou(2013).
 -   National Symposium on the Conservation and Sustainable Use of Biodiversity in China: Jinhua(2008), Xiamen(2010).
 -   Kingfisher Forum of Chinese Young Ornithologists Workshop: Beijing(2008), Harbin(2009), Lanzhou(2011), Hangzhou(2013).
+
+
+---
+
+## Professional Affiliations
+
+-   Member     International Biogeography Society, Society for Conservation Biology, International So- ciety of Zoological Sciences, China Ornithological Society, Ecological Society of Zhejiang Province, Zhejiang Zoological Society
+
 
 ---
 
@@ -160,7 +156,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, habitat fragme
 
 -   English (Fluent), Mandarin (Excellent), Wu Chinese (Native)
 -   Wildness First Aid: Level 2
--   Full Marathon: 4h51min
+-   Full Marathon: 4:51:44
 
 ---
 
