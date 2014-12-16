@@ -13,6 +13,9 @@ title: Publications
 -   Aichun Xu, **Xingfeng Si**, Yanping Wang, Ping Ding. (2014) Camera traps and its minimum trapping effort for ground- dwelling mammals in fragmented habitats in the Thousand Island Lake, Zhejiang Province. ***Biodiversity Science*** 22: 764-772. <small>(in Chinese with English abstract)</small>
 -   **Xingfeng Si**, Ping Ding. (2011) History, status of monitoring land birds in Europe and American and countermeasures of China. ***Biodiversity Science*** 19: 303-310. <small>(in Chinese with English abstract)</small>  [PDF(241KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9518)
 
+---
+
+
 ## Conference Articles (Non Peer-reviewed)
 
 -   **Xingfeng Si**, Andrés Baselga, Ping Ding. (2015) Partitioning beta diversity into turnover and nestedness components in assemblages of breeding birds and lizards on inundated land-bridge islands. *The 7th Biennial Conference of the International Biogeography Society*, 2015.01.08-13, Bayreuth, Germany. (with lightning talk)
@@ -30,6 +33,9 @@ title: Publications
 -   **Xingfeng Si**, Ping Ding. (2010) Bird monitoring in Gutianshan 24-ha plot: using spot mapping and infrared cameras. *Proceedings of the 2010 International Forum on Biodiversity Monitoring*, 2010.06.20-22, pp. 96, Nanjing, China. <small>(in Chinese)</small>
 -   Meng Zhang, Ping Ding, Yanping Wang, **Xingfeng Si**, Zhifeng Ding, Jiji Sun. (2009) Effects of habitat fragmentation on the use of nest site resources by great tits in Thousand Island Lake, hejiang Province. *Proceedings of the 11th Conference of Zhejiang Zoological Society*, 2009.10.30-11.01, pp. 513, Jinhua, China. <small>(in Chinese)</small>
 -   Longlong Zhang, Yixin Bao, Huanhuan Li, **Xingfeng Si**, Shuoying Hu. (2008) The functional groups and trophic levels of soil macro-fauna in different vegetation type, Beishan Moutain, Jinhua. *Proceedings of the 8th National Symposium on the Conservation and Sustainable Use of Biodiversity in China*, 2008.10.17-19, pp. 257-267, Jinhua, China. <small>(in Chinese with English abstract)</small> [PDF(662KB)](http://sixf.org/files/articles/Zhang-etal2008.pdf)
+
+---
+
 
 ## Popular Articles and Other Publications
 
