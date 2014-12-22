@@ -22,7 +22,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 
 ## Position
 
--   2014-         **Postdoctoral Research Associate**. College of Life Sciences, Zhejiang University
+-   2014-         **Postdoctoral Research Fellow**. College of Life Sciences, Zhejiang University
 
 ---
 
