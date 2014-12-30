@@ -40,6 +40,6 @@ title: Publications
 ## Popular Articles and Other Publications
 
 1. **Xingfeng Si**. (2014) *Species Turnover and Beta Diversity of Breeding Bird Communities in Fragmented Habitats*. PhD dissertation, Zhejiang University, Hangzhou. <small>(in Chinese with English abstract)</small> [PDF(2.5M)](http://sixf.org/files/articles/Si2014.pdf)
-1. **Xingfeng Si**. (2014) Dry Tortugas National Park — Home of the sooty tern. ***China Nature*** 180(6): 76–81. <small>(in Chinese)</small>
-1. **Xingfeng Si**. (2014) Apply for the China Scholarship Council fund. ***China Postgraduates*** 117(9): 58–59. <small>(in Chinese)</small>
-1. **Xingfeng Si**. (2014) How to track the latest references? ***China Postgraduates*** 114(6): 32–33. <small>(in Chinese)</small>
+1. **Xingfeng Si**. (2014) Dry Tortugas National Park — Home of the sooty tern. ***China Nature*** 180: 76–81. <small>(in Chinese)</small>
+1. **Xingfeng Si**. (2014) Apply for the China Scholarship Council fund. ***China Postgraduates*** 117: 58–59. <small>(in Chinese)</small>
+1. **Xingfeng Si**. (2014) How to track the latest references? ***China Postgraduates*** 114: 32–33. <small>(in Chinese)</small>
