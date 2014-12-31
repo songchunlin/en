@@ -12,6 +12,10 @@ Studies in this special issue covered a wide range of vegetation habitats, inclu
 
 Below is the list of articles published in this special issue, including four review articles, eight research articles and 16 catalogue reports. All 30 articles are open accessed for free download (click the link of each article).
 
+---
+---
+
+
 **Editorial**
 
 -	683 [Applications of camera trapping to wildlife surveys in China](http://www.biodiversity-science.net/fileup/PDF/w2014-244.pdf). Zhishu Xiao, Xinhai Li, Guangshun Jiang
