@@ -2,7 +2,7 @@
 title: Camera Trapping for Wildlife Surveys in China
 tags: [Biodiversity,CameraData,camera traps,conservation,ecological modelling,spatial distribution,species identify,wildlife monitoring]
 categories: [academic]
-layout:post
+layout: post
 comments: yes
 ---
 
