@@ -15,6 +15,8 @@ Below is the list of articles published in this special issue, including four re
 ---
 ---
 
+![](http://sixf.org/files/images/2015/001.jpg)
+
 
 **Editorial**
 
