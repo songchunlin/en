@@ -6,13 +6,13 @@ layout: post
 comments: yes
 ---
 
-When I am sitting in front of my Mac in this morning, and listening the fireworks exploding out of the window, I am sure it is the time to welcome the Chinese New Year of 2015. As I am deeply depend on R programme for statistical analyses, it will be the best way to deliver my new year's wishes created by R. 
+When I am sitting in front of my Mac this morning, and listening the fireworks exploding out of the window, I am sure it is the time to welcome the Chinese New Year of 2015. As I deeply depend on R programme for statistical analyses, it will be the best way to deliver my new year's wish created by R. 
 
-Last week, I found the *animation* package in R programme by [Yihui Xie](http://yihui.name) published in [*Journal of Statistical Software*](http://www.jstatsoft.org/v53/i01/paper) that provides many amazing ideas on [demonstrating animations of statistics](http://yihui.name/en/2011/01/happy-new-year-with-r-2011-fireworks/). Here, I used some simple code in *animation* package to show my wish. The animation show as below:
+Last week, I found the *animation* package in R programme by [Yihui Xie](http://yihui.name) published in [*Journal of Statistical Software*](http://www.jstatsoft.org/v53/i01/paper) that provides many amazing ideas on [demonstrating animations of statistics](http://yihui.name/en/2011/01/happy-new-year-with-r-2011-fireworks/). Here, I used some simple code in *animation* package to present my wish. The animation shows as below:
 
 ![](http://sixf.org/files/images/2015/fireworks.gif)
 
-To generate this animation, just follow the below three steps:
+To generate this animation, just run the code in the following three steps:
 
 -	Open the R console, and install the *animation* package: `install.packages('animation')`
 -	Load the *animation* package: `library(animation)`
@@ -20,7 +20,9 @@ To generate this animation, just follow the below three steps:
 
 You will receive three documents (named *image*, *css*, and *js*) and a webpage file (*fireworks.html*) in your working directory (show the working directory of your R programm by typing: `getwd()`). Open the webpage file by any web browser, such as Internet Explorer, Chrome, or Safari, and the animation will come out. 
 
-The detailed code for `demo('fireworks')` are as below:
+# Happy New Year for all!
+
+The detailed code for `demo('fireworks')` are as below.
 
 {% highlight r %}
 ## Fireworks demo by Weicheng Zhu
