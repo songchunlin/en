@@ -61,7 +61,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 ### Participated Projects (Selected)
 
 
--   2013-2017     Effects of food web and its composition on bird and plant communities in subtropical fragmented habitats - a case study of land-bridge islands in Thousand Island Lake. National Science Foundation of China. (Core Participant: 4/8)
+-   2013-2017     Food web structure and its effects on avian and plant communities in subtropical fragmented habitats — A case study in the Thousand Island Lake. National Science Foundation of China. (Core Participant: 4/8)
 -   2012-2015     Dynamic and Stability of forest bird community in fragmented habitats of Thousand Island Lake. National Science Foundation of China. (Participant: 6/10)
 -   2012-2014     Sensitivity research on habitat fragmentation of birds and reptiles in Thousand Island Lake. National Science Foundation of China. (Participant: 5/8)
 -   2012-2014     Body size evolution of island population of *Takydromus septentrionalis* and its responses on life history. National Science Foundation of China. (Participant: 3/7)
