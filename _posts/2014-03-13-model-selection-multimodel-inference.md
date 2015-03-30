@@ -742,4 +742,4 @@ Thanks for your reading this long boring blog. Thanks for the supports for our g
 APA  
 3.	Whittingham, Mark J., et al. (2006) Why do we still use stepwise modelling in ecology and behaviour?. *Journal of animal ecology*, **75**: 1182-1189.
 
-**How to cite:** Si X., Pimm S.L., Russell G.J. & P. Ding. (2014) [Turnover of breeding bird communities on islands in an inundated lake](http://sixf.org/en/publication/). ***Journal of Biogeography***, doi: 10.1111/jbi.12379.
+**How to cite:** Si X., Pimm S.L., Russell G.J. & P. Ding. (2014) [Turnover of breeding bird communities on islands in an inundated lake](http://sixf.org/en/publication/). ***Journal of Biogeography***, 41, 2283–2292.
