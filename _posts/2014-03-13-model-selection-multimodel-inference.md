@@ -131,7 +131,7 @@ Load the bird and island data (this is the real data, but I shuffled them random
 
 
 {% highlight r %}
-tilbird <- read.table("tilbird.txt", h = T)  #find 'tilbird.txt' and open it
+tilbird <- read.table("http://sixf.org/files/code/2014/tilbird.txt", h = T)  #find 'tilbird.txt' and open it
 str(tilbird)  # check the data structure of `til.bird`
 {% endhighlight %}
 
@@ -422,6 +422,12 @@ The fourth part of the result is 'Full model-averaged coefficients'.
 
 The fifth is 'Relative variable importance'. The largest one equals 1. In this case, area is the most important attributes as it equals 1. The next is the habitat types, and the isolation and plants looks no importance in the models.
 
+Here, we have a shortcut to get above results and sort them out.
+
+{% highlight r %}
+dredge(global.model)
+{% endhighlight %}
+
 Now we can predict the bird species on island 1using the averaged predictions,
 
 
@@ -469,7 +475,7 @@ The procedure is exactly the same as before, so make it in the same way,
 
 
 {% highlight r %}
-tiltomb <- read.table("tiltomb.txt", h = T)  #read the database 'tiltomb.txt'
+tiltomb <- read.table("http://sixf.org/files/code/2014/tiltomb.txt", h = T)  #read the database 'tiltomb.txt'
 cor.sig(tiltomb[, -1])
 {% endhighlight %}
 
@@ -641,7 +647,51 @@ summary(tomb.model)
 ## [1] TRUE
 ```
 
-The results shows the best model only had habitat parameter, which is also looks good. although the troublesome ∆AICc is still < 2. I will not run the model averaging here, so there are 2^7=128 candidate models.
+The results shows the best model only had habitat parameter, which is also looks good, although the troublesome ∆AICc is still < 2. We will then run the model averaging for 2^7=128 candidate models.
+
+{% highlight r %}
+tomb7=tiltomb[, c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand","tomb")]
+npar=7
+modPar=c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand","tomb")
+
+unit=c(1,0)
+parEst=rep(unit,each=2^(npar-1))
+for (i in 2:npar){
+  unit=c(i,0)
+  parEst.tmp=rep(rep(unit,each=2^(npar-i)),2^(i-1))
+  parEst=cbind(parEst,parEst.tmp)
+}
+parMat=cbind(parEst[,1:npar],1)
+dimnames(parMat)=list(1:(2^npar),modPar)
+
+allModel=list()
+for (i in 1:(dim(parMat)[1]-1)) {
+    tomb7.tmp=tomb7[,parMat[i,]!=0]
+    allModel[[i]]=glm(tomb~.,family = binomial("logit"),data=tomb7.tmp)
+}
+
+modelC=glm(tomb~1,family = binomial("logit"),data=tomb7)
+lm.ave <- model.avg(allModel,modelC)
+summary(lm.ave)
+{% endhighlight %}
+
+Here are the selected results for these 128 models:
+
+```
+### Full model-averaged coefficients (with shrinkage): 
+### (Intercept)          SI          Al        sand      aspect    habitats      convex      plants
+### -2.96791424  0.01986124 -0.09423029 -0.08413135  0.00217080 -0.04294219  0.00446755  0.00043138
+###
+###Relative variable importance:
+###      SI   aspect       Al     sand habitats   convex   plants 
+###   0.98     0.27     0.27     0.26     0.24     0.23     0.22 
+```
+
+Okay, we can get these results in ONE-STEP using the function `dredge`:
+
+{% highlight r %}
+dredge(global.model.tomb)
+{% endhighlight %}
 
 
 ## Results
@@ -682,7 +732,7 @@ The result showed they have significant correlation (t = 3.2562, df = 38, p-valu
 
 ## Acknowlegements
 
-Thanks for your reading this long boring blog. Thanks for the supports for our group as I have a little time to imagine something having no connection with my academic stuffs. I also thanks the Lake data from our group and the data of island attributes which comes from the [Gutianshan plot](http://blog.sciencenet.cn/blog-267448-463699.html). I just run the anaysis anyway as they have no relations. I thanks for <a href="https://gist.github.com/sixf/9488518">this tutorial</a> providing the original code of this analyses. The code of this blog could be downloaded from [here](https://github.com/sixf/TIL-model-selection/archive/master.zip). Feel free to leave any reviews below as you are exactly the referee. Thanks!
+Thanks for your reading this long boring blog. Thanks for the supports for our group as I have a little time to imagine something having no connection with my academic stuffs. I also thanks the Lake data from our group and the data of island attributes which comes from the [Gutianshan plot](http://blog.sciencenet.cn/blog-267448-463699.html). I just run the anaysis anyway as they have no relations. I thanks for <a href="https://gist.github.com/sixf/9488518">this tutorial</a> providing the original code of this analyses. The code of this blog could be downloaded from [here](http://sixf.org/files/code/2014/mumin.txt)(updated) or [here](https://github.com/sixf/TIL-model-selection/archive/master.zip)(expired). Feel free to leave any reviews below as you are exactly the referee. Thanks!
 
 ## References
 
