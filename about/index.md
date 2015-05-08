@@ -27,12 +27,7 @@ China to estimate the population density adjusted with detectability of each spe
 ## My Hobby 
 
 I like reading, traveling and
-cycling. One of my important dreams is the long travel from [Chengdu to
-Lhasa](http://en.wikipedia.org/wiki/China_National_Highway_318) (the capital of Tibet) by bike. I would plan to spend one month to
-complete this 2200-km journey. I initiated this dream eight years
-ago when I was an undergraduate, while I am always waiting for the right
-time to make my dream come true, because it is a great chance to enjoy
-the unique landscape and biodiversity of [Qinghai-Tibet Plateau](http://en.wikipedia.org/wiki/Qinghai-Tibet_Plateau). I am
+cycling. One of my important dreams is to travel all over the world and see many many interesting birds. I am
 also a [postcrossser](http://www.postcrossing.com/user/Xingfeng "Postcrossing"), please [contact me](/en/vitae "CV") if you have an interest to swap postcards with me. 
 
 ---
