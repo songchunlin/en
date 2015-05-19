@@ -77,28 +77,6 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 
 ## [Publications](/en/publication/ "click here to see my publications")
 
-
----
-
-# Teaching Experience
-
--   2009,10,12,14     Teaching assistant. Undergraduate Summer Zoology Field Practice in Tianmushan Biosphere Reserve, Zhejiang Province, China
-
-
----
-
-## Professional Training
-
--   2014     The 2nd International Training Course on Frontier in Animal Ecology and Conservation Biology. Organized by SCB-China, ISZS and IOZ CAS, 2014.11.22–12.01, Beijing, China
--   2014     Functional and Phylogenetic Diversity. NathanSwensson (Michigan State University), 2014.09.28–29, Beijing, China
--   2013     Metapopulation capacity (Mathematica *version 9*). Gareth Russell (New Jersey Institute of Technology), 2013.01.28-30, Durham, North Carolina, USA
--   2013     Survival rate analyses of sooty tern *Onychoprion fuscatus*. Stuart Pimm (Duke University), 2013.3.11-14, Dry Tortugas, Florida, USA
--   2010      Wildness First Aid. Lloyd Figgins (EarthWatch Institute), 2010.10.07-10, Kaihua, China
--   2009     Spatial analysis biostatistics. Pierre Legendre (Université de Montréal), 2009.10.01-05, Beijing, China
--   2009     Linear regression. Pierre Legendre (Université de Montréal), 2009.09.10-15, Beijing, China
--   2009     Mathematical statistics, R programming language and multivariate statistical analyses. Jiangshan Lai (Institute of Botany, Chinese Academic of Science), Jinlong Zhang (Institute of Botany, Chinese Academic of Science), Yanping Chen (Renmin University of China), 2009.09.05-09, Beijing, China
-
-
 ---
 
 ## Participation in Scientific Conferences & Symposiums
@@ -120,43 +98,6 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 -   China Ornithological Conference: Harbin(2009), Lanzhou(2011), Hangzhou(2013).
 -   National Symposium on the Conservation and Sustainable Use of Biodiversity in China: Jinhua(2008), Xiamen(2010).
 -   Kingfisher Forum of Chinese Young Ornithologists Workshop: Beijing(2008), Harbin(2009), Lanzhou(2011), Hangzhou(2013).
-
-
----
-
-## Professional Affiliations
-
--   Member     International Biogeography Society, Society for Conservation Biology, International So- ciety of Zoological Sciences, China Ornithological Society, Ecological Society of Zhejiang Province, Zhejiang Zoological Society
-
-
----
-
-## Miscellaneous Activities
-
--   2013     Local Conference Organizer. The 9th Kingfisher Forum of Chinese Young Ornithologists Workshop, Hangzhou, China
--   2013     Volunteer. Sooty Tern (*Onychoprion fuscatus*) Project, Dry Tortugas, Florida, USA
--   2011     Invited Guest. Chuyang Forum of Zhejiang Normal University, Jinhua, China
--   2011     Invited Report. Swearing Conference for College Entrance Exam of Yiting High School, Yiwu, China
--   2008     Beijing Olympic Torch Escort. Beijing Olympic Torch Relay Center, Shaoxing, China
--   2006–2007     Deputy Director. The Secretariat of Student Council, Chuyang Honors College of Zhejiang Normal University, Jinhua, China
--   2004     Student Representative. Special talk in the 2004 Graduation Ceremony of Yiting High School, Yiwu, China
-
----
-
-## Computer Skills
-
-
--   Statistical Programs     R, Mathematica, WinBUGS
--   Others     LaTeX, Adobe Photoshop, MS Office Suite, EndNote, OS X iWork
-
-
----
-
-## Language & Other Skills
-
--   English (Fluent), Mandarin (Excellent), Wu Chinese (Native)
--   Wildness First Aid: Level 2
--   Full Marathon: 4:51:44
 
 ---
 
