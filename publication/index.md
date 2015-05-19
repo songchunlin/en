@@ -7,11 +7,12 @@ title: Publications
 
 ## Peer-reviewed Journal Articles <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en)</small>
 
+1. **Xingfeng Si**, Andrés Baselga, Ping Ding (2015) Revealing beta-diversity patterns of breeding bird and lizard communities on inundated land-bridge islands by separating the turnover and nestedness components. ***PLoS ONE*** 10: e0127692. [PDF(2.3MB)](http://sixf.org/files/articles/Si-etal2015.pdf)
 1. **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell, Ping Ding (2014) Turnover of breeding bird communities on islands in an inundated lake. ***Journal of Biogeography*** 41:2283-2292. [PDF(371KB)](http://sixf.org/files/articles/Si-etal2014JB.pdf) ｜ [SI(913KB)](http://sixf.org/files/articles/Si-etal2014JB-SI.pdf)
-1. **Xingfeng Si**, Roland Kays, Ping Ding (2014) How long is enough to detect terrestrial animals? Estimating the minimum trapping effort on camera traps. ***PeerJ*** 2: e374. [PDF(1.8MB)](http://peerj.com/articles/374.pdf) | [Data(23KB)](http://sixf.org/files/articles/Si-etal2014-data.txt)
-1. **Xingfeng Si**, Ping Ding (2014) Camera trap survey of population dynamics of mammals and birds in Gutianshan Forest Dynamics Plot, eastern China. ***Biodiversity Science*** 22: 819-822. <small>(in Chinese)</small>  [PDF(869KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9937)
-1. Aichun Xu, **Xingfeng Si**, Yanping Wang, Ping Ding (2014) Camera traps and its minimum trapping effort for ground- dwelling mammals in fragmented habitats in the Thousand Island Lake, Zhejiang Province. ***Biodiversity Science*** 22: 764-772. <small>(in Chinese with English abstract)</small>  [PDF(533KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9955)
-1. **Xingfeng Si**, Ping Ding (2011) History, status of monitoring land birds in Europe and American and countermeasures of China. ***Biodiversity Science*** 19: 303-310. <small>(in Chinese with English abstract)</small>  [PDF(241KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9518)
+1. **Xingfeng Si**, Roland Kays, Ping Ding (2014) How long is enough to detect terrestrial animals? Estimating the minimum trapping effort on camera traps. ***PeerJ*** 2: e374. [PDF(1.8MB)](http://sixf.org/files/articles/Si-etal2014.pdf)
+1. **Xingfeng Si**, Ping Ding (2014) Camera trap survey of population dynamics of mammals and birds in Gutianshan Forest Dynamics Plot, eastern China. ***Biodiversity Science*** 22: 819-822. <small>(in Chinese)</small>  [PDF(869KB)](http://sixf.org/files/articles/Si-Ding2014.pdf)
+1. Aichun Xu, **Xingfeng Si**, Yanping Wang, Ping Ding (2014) Camera traps and its minimum trapping effort for ground- dwelling mammals in fragmented habitats in the Thousand Island Lake, Zhejiang Province. ***Biodiversity Science*** 22: 764-772. <small>(in Chinese with English abstract)</small>  [PDF(533KB)](http://sixf.org/files/articles/Xu-etal2014.pdf)
+1. **Xingfeng Si**, Ping Ding (2011) History, status of monitoring land birds in Europe and American and countermeasures of China. ***Biodiversity Science*** 19: 303-310. <small>(in Chinese with English abstract)</small>  [PDF(241KB)](http://sixf.org/files/articles/Si-Ding2011.pdf)
 
 ---
 
