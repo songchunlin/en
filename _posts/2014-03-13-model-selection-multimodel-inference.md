@@ -705,7 +705,7 @@ I have heard there is a more powerful method, called [Random forest model](http:
 
 PS: the results below is just for fun.
 
-The priority indicator to find a tomb on the islands of the Lake is the habitat type. According to these results, if you sometime have a tourist in the Lake, please do not visit the so-called monkey islands or snake islands, you should land on some islands with high habitat types. Oh, if you do not know how to identify the habitat types, you may learn some basic knowledge of [community ecology](http://en.wikipedia.org/wiki/Community_(ecology))。
+The priority indicator to find a tomb on the islands of the Lake is the habitat type. According to these results, if you sometime have a tourist in the Lake, please do not visit the so-called monkey islands or snake islands, you should land on some islands with high habitat types. Oh, if you do not know how to identify the habitat types, you may learn some basic knowledge of [community ecology](http://en.wikipedia.org/wiki/Community_(ecology)).
 
 Finally, I ran the correlation test between bird richness and tomb occupancy.
 
