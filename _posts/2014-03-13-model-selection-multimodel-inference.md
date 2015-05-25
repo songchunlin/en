@@ -15,7 +15,7 @@ Institute of Imagination Sciences, Zhejiang University, Hangzhou Zhejiang 310035
 
 ## Abstract
 
-Because of the biases and shortcomings of the stepwise multiple regression, the Information Theoretic is becoming a reliable method to infer the data, although there is a plethora of candidate models when using Information theoretic. Here, based on the Akaike Information Criterion, we analyzed the determinants of bird richness on islands in the Thousand Island Lake. We also discussed distribution patterns of tombs on study islands using the method of multimodel inference. The results showed bird communities on the islands were determined by island area and habitat richness, whereas the occupancy of tombs was determined by the shape of islands. This is the first evidence showing bird richness significantly related to tomb occupancy. This finding may have potential implications in tomb searchings in the region of the Thousand Island Lake.
+Because of the biases and shortcomings of the stepwise multiple regression, the Information Theoretic is becoming a reliable method to infer the data, although there is a plethora of candidate models when using Information Theoretic. Here, based on the Akaike Information Criterion, we analyzed the determinants of bird richness on islands in the Thousand Island Lake. We also discussed distribution patterns of tombs on study islands using the method of multimodel inference. The results showed bird communities on the islands were determined by island area and habitat richness, whereas the occupancy of tombs was determined by the shape of islands. This is the first evidence showing bird richness significantly related to tomb occupancy. This finding may have potential implications in tomb searchings in the region of the Thousand Island Lake.
 
 ## Keywords
 
@@ -469,7 +469,7 @@ t(bird.pred)  #transfer the matrix to save the space of the page. Nothing relate
 
 The final task in model selection and multimodel inference is calculating the unconditional variance estimator, which is much more  complex but its method is similar as $\hat{\bar{Y}}$.
 
-#### Case Two: determinants of the occupancy of tombs in the Lake
+#### Case Two: determinants of tomb occupancy in the Lake
 
 This analyses are mostly as similar as above calculations, so we can make them in the same way,
 
@@ -732,7 +732,7 @@ The result showed they have significant correlation (t = 3.2562, df = 38, p-valu
 
 ## Acknowledgements
 
-Thank you for reading this long boring blog. Thanks very much for the supports from our group as I do not have much time to imagine something that is not related to my academic stuffs. I also thanks our group members to collect the long-term data in the Lake. The bird data in this post are from our group and the data of island attributes come from the [Gutianshan plot](http://blog.sciencenet.cn/blog-267448-463699.html). I just ran the analyses anyway as these data have no biological senses. I thanks <a href="https://gist.github.com/sixf/9488518">this tutorial</a> for providing the original code of this analyses. The code of this blog could be downloaded from [here](http://sixf.org/files/code/2014/mumin.txt)(updated) or [here](https://github.com/sixf/TIL-model-selection/archive/master.zip)(expired). Feel free to leave any reviews in the end of this post because you are the referee! Thank you!
+Thank you for reading this long boring blog. Thanks very much for the supports from our group as I do not have much time to imagine something that is not related to my academic stuffs. I also thanks our group members to collect the long-term data in the Lake. The bird data in this post are from our group and the data of island attributes come from the [Gutianshan plot](http://blog.sciencenet.cn/blog-267448-463699.html). I just ran the analyses anyway as these data have no biological senses. I thanks <a href="https://gist.github.com/sixf/9488518">this tutorial</a> for providing the original code of this analyses. The code of this blog could be downloaded from [here](http://sixf.org/files/code/2014/mumin.txt) (updated) or [here](https://github.com/sixf/TIL-model-selection/archive/master.zip) (expired). Feel free to leave any reviews in the end of this post because you are the referee! Thank you!
 
 ## References
 
