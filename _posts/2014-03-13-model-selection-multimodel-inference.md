@@ -7,7 +7,7 @@ comments: yes
 ---
 
 
-#### A Case Study of Bird Richness and Tomb Occupancy at the Thousand Island Lake
+#### A Case Study of Bird Richness and Tomb Occupancy in the Thousand Island Lake
 
 [**Xingfeng Si**](http://sixf.org/en)
 
@@ -15,7 +15,7 @@ Institute of Imagination Sciences, Zhejiang University, Hangzhou Zhejiang 310035
 
 ## Abstract
 
-Because of the biases and shortcomings of the stepwise multiple regression, the Information Theoretic (IT) are becoming a reliable method to infer the data well, even there have a larger number of competing models. Here, based on the Akaike Information Criterion, we analysed the determinants of the bird richness at the Thousand Island Lake using the method of multimodel inference. Additionally, we discussed the distribution pattern of tombs on the islands. The results showed bird communities on the islands were determined by island area and habitat richness, while the occupancy of tombs was determined by shape of the islands. The results firstly showed bird richness significantly related with tomb occupancy, which may be a potential indicator to find the tombs in the region of the Thousand Island Lake.
+Because of the biases and shortcomings of the stepwise multiple regression, the Information Theoretic is becoming a reliable method to infer the data, although there is a plethora of candidate models when using Information theoretic. Here, based on the Akaike Information Criterion, we analyzed the determinants of bird richness on islands in the Thousand Island Lake. We also discussed distribution patterns of tombs on study islands using the method of multimodel inference. The results showed bird communities on the islands were determined by island area and habitat richness, whereas the occupancy of tombs was determined by the shape of islands. This is the first evidence showing bird richness significantly related to tomb occupancy. This finding may have potential implications in tomb searchings in the region of the Thousand Island Lake.
 
 ## Keywords
 
@@ -23,74 +23,74 @@ AIC, model selection, birds, multimodel inference,  stepwise regression,Thousand
 
 ## Introduction
 
-How to select the model as a larger number of competing models in your analyses? Using stepwise multiple regression, or the Information Theoretic Analysis? Whittingham *et al.* (2006) found 57% of 65 papers published in three leading ecological journals (*Ecology Letters*, *Journal of Applied Ecology*, and *Animal Behaviour*) used a stepwise approach. Although the stepwise regression includes several principal drawbacks, such as bias in parameter estimation, inconsistencies among model selection algorithms, an inherent problems of multiple hypothesis testing, and an inappropriate focus or reliance on a single best model, it is still widely used. For the detail mechanisms underlying these shortages of stepwise regression is not the scope of this paper. In this paper, I will introduce how to use the AIC for the model selection.
+How to choose the most parsimonious (best) model in a large set of competing models in your analyses? Using stepwise multiple regression, or the Information Theoretic Analysis? Whittingham *et al.* (2006) found 57% of 65 papers published in three leading ecological journals (*Ecology Letters*, *Journal of Applied Ecology*, and *Animal Behaviour*) used a stepwise approach. Although the stepwise regression has several principal drawbacks, such as bias in parameter estimation, inconsistencies among model selection algorithms, an inherent problems of multiple hypothesis testing and an inappropriate focus or reliance on a single best model, it is still widely used. It is out the scope of this paper to detail these shortages of stepwise regression. In this paper, I will introduce how to use the AIC for model selection.
 
-The [Thousand Island Lake](http://sixf.org/en/pages/thousand-island-lake/)(hereafter, the Lake) locates at the western Zhejiang Province, eastern China. It was created in 1959 by the construction of Xin'anjiang Dam. Flooding around 500 km^2, it formed 1078 islands with area > 0.25 ha at 108 m water-level, which is a natural experiment for the studying of island biogeography, and conservation biology. [Our group](http://mypage.zju.edu.cn/personnelCard/pingding) began to survey the bird communities since 2002, and now expanded to many biological categories, e.g. spiders, reptiles, amphibians, snakes, monkeys, insects, small mammals, butterflies and plants. It is a rapidly growing project and welcomes all the ecologists who have an interest to participate in. Just several months ago, I talked with the spider Dr. Wu in our group who has special interests in the spider researches, and discussed the possibility of analyzing the relationship between bird richness and fengshui. Yes, I know it is not easy to explain the word fengshui in English which is a special culture existing in Chinese history. Fengshui may be simply explained as good luck. For example, when someone was passed away, his/her family will try to find some place have good fengshui to build the tomb as hope he/she will have another good living place after died. 
+The [Thousand Island Lake](http://sixf.org/en/pages/thousand-island-lake/) (hereafter, the Lake) locates at the western Zhejiang Province, eastern China. It was created in 1959 by the construction of Xin'anjiang Dam. Flooding around 500 km^2, it formed 1078 islands with area > 0.25 ha at 108 m water-level, which is a natural experiment for the studying of island biogeography and conservation biology. [Our group](http://mypage.zju.edu.cn/personnelCard/pingding) began to survey the bird communities since 2002, and now expands to many biological taxa, e.g., spiders, reptiles, amphibians, snakes, monkeys, insects, small mammals, butterflies and plants. It is an ongoing and growing project and we warmly welcome all scientists to join and collaborate in this project. Just several months ago, I talked with the spiderman Dr. Wu in our group who are the local expert on spiders, and discussed the possibility to analyze the relationship between bird richness and fengshui on our study islands. Yes, I know it is not easy to explain the notion *fengshui* in English which is one of the traditional Chinese culture. For simplicity, fengshui is analogous to *good luck*. For example, when someone has passed away, his/her family will try to find some place that have good fengshui to build the tomb and hope he/she will have another good living place after death.
 
-Here, I employed the method of model selection and multimodel inference to analyze the determinants of the bird richness and tomb occupancy on the islands. This paper addressed these questions: 1) What is the AIC? Does it mean the American International College? 2) the key processes to run the multimodel inference. 3) the determinants of the bird and tomb distribution on the islands.
+Here, I used the method of model selection and multimodel inference to analyze the determinants of the bird richness and tomb occupancy on the islands in the Lake. This paper addressed following questions: 1) What is the AIC? Does it mean the American International College? 2) What are the key processes to run the multimodel inference? 3) What are the determinants of the bird and tomb distribution on the islands in the Lake.
 
 
 ## Materials and Methods 
 
 ### Study area and island attributes
 
-We sampled 40 islands randomly stratified across the area and isolation gradients at the Lake.Since 2002, many islands attributes were measured which are related to bird richness, including area, isolation, plant richness, habitat types, perimeter, perimeter to area ratio (PAR), shape index (SI), and elevation. I also imagined several island attributed that may relate to discover the tombs on the islands, such as convex, slope, aspect, Al, Si, and sand index.
+We sampled 40 islands randomly stratified across the area and isolation gradients in the Lake. We measured many island attributes that are related to bird richness in 2002, including area, isolation, plant richness, habitat types, perimeter, perimeter to area ratio (PAR), shape index (SI) and maximum elevation of each island. I also imagined several island attributes that may be related to robbing a grave on the islands, such as convex, slope, aspect, Al, Si, and sand index.
 
-The elements of Al and Si are the main substances of Kaolin clay which is a good kind of soil for waterproof. The index of sand means the possibility of building a tomb on the island, because it is impossible to find a tomb in the sand. pH value is an indicator of the organic meterials in the tomb. Other factors, e.g. SI, convex, slope and aspect are the key indicators for fengshui. For example, a mountain with a perfect circle, thick soil and high plant richness is the priority place to set a tomb.
+The elements of Al and Si are the main substances of Kaolin clay that is a good type of waterproof soil for tomb buildings. The sand index is an indicator of tomb occurrence on the island, because it is impossible to find a tomb in an area that is full of sand. The pH value is an indicator of organic materials in the tomb. Other factors, e.g. SI, convex, slope and aspect, are the useful indicators of fengshui. For example, a mountain with its shape in a perfect circle, with thick soil and high plant richness will be the priority place to set a tomb.
 
 ### AIC
 
-AIC(Akaika Information Criterion) is a measure of the relative quality of a statistical model, for a given set of data. AIC is founded on information entropy, so it does not provide a test of a model in the sense of testing a null hypothesis, i.e. AIC can tell nothing about the quality of the model in an absolute sense. If all the candidate models fit poorly, AIC will not give any warning of that.
+AIC (Akaika Information Criterion) measures the relative quality of a statistical model, for a given set of data. AIC is based on information entropy, so that it does not provide a test of a model, i.e. testing a null hypothesis. In this way, AIC can tell nothing about the quality of the model in an absolute sense. If all candidate models are fitted poorly, AIC will not give any warning of that.
 
 Basically, AIC is
 
 ![](http://sixf.org/files/images/2014/03/eq1.png)
 
-where *k* is the number of parameters in the statistical model, and *L* is the maximized value of the likelihood function for the estimated model. Several existing functions in R packages were already developed, such as `AIC` function in `stat` package, and `extractAIC` in `stats` package to calculate the AIC. If you would like to calculate AIC by yourself, it is also easy to make it. Suppose the variance of the model distributes is normal, and n is the number of sampling, RSS is the residual-sum-squares, so
+where *k* is the number of parameters in the model, *L* is the maximized value of the likelihood function of the model. Several existing functions in R packages were already developed, such as `AIC` function in `stat` package, and `extractAIC` in `stats` package to calculate the AIC values. If you would like to calculate the AIC values by yourself, it is also easy to make it. Suppose the variance of the model distributes is normal, and *n* is the number of sampling, *RSS* is the residual-sum-squares, so
 
 ![](http://sixf.org/files/images/2014/03/eq2.png)
 
-Given a set of candidate models for the data, the preferred model is the one with the minimum AIC value. Hence AIC not only rewards goodness of fit, but also includes a penalty that is an increasing function of the number of estimated parameters. This penalty discourages overfitting.
+Given a set of candidate models for the data, the preferred model is the one with the minimum AIC value. Hence, AIC not only rewards goodness of fit, but also includes a penalty that is an increasing function of the number of estimated parameters. This penalty discourages overfitting.
 
-For the sample sizes (n/k < 40), the AIC is corrected by AICc (corrected AIC)
+When the sample size (*n*/*k*) < 40, the AIC is corrected by AICc (corrected AIC)
 
 ![](http://sixf.org/files/images/2014/03/eq3.png)
 
-where *n* denotes the sample size. Burnham & Anderson (2002) strongly recommend using AICc, rather than AIC, if *n* is small or *k* is larger. Since AICc converges to AIC as *n* gets large, AICc generally should be employed regardless (note: most of the contents in this section was borrowed from [Wikipeadia](http://en.wikipedia.org/wiki/Akaike_information_criterion), whereas there is a mistake in the Chinese version of this page as it cited the Burnham & Anderson's book as in 2004)
+where *n* denotes the sample size. Burnham & Anderson (2002) strongly recommend using AICc, rather than AIC when *n* is small or *k* is larger. Because AICc converges to AIC as *n* is being larger, AICc generally should be the first choice for model selection (Note: most of the contents in this section was borrowed from [Wikipeadia](http://en.wikipedia.org/wiki/Akaike_information_criterion), whereas the year of the Burnham & Anderson's book should be 2002, not 2004 as showed in the Chinese version of this page).
 
-If the overdispersion exists in the data, the QAIC would be a better choice, which is
+If the overdispersion exists in the data, the QAIC would be the better choice, which is
 
 ![](http://sixf.org/files/images/2014/03/eq4.png)
 
-$\hat{c}$ is the variance inflation factors, or the overdispersion coefficient. If $\hat{c}$ > 1, the QAIC should be used. 
+$\hat{c}$ is the variance inflation factor, or the overdispersion coefficient. If $\hat{c}$ > 1, the QAIC should be used. 
 
 ### Calculating the model weights
 
-Once get all the AIC values for each model, then these models were sorted in the decreasing order of AIC. ∆AIC means the AIC of each model minus the smallest one. The model weight, also called Akaika weight(*w<sub>i</sub>*), is calculated as
+Once we calculated the AIC values for each model, these models were sorted in the decreasing order of AIC values. ∆AIC represents the AIC value of each model minus the smallest one in the set of models. The model weight, also called Akaika weight(*w<sub>i</sub>*), is calculated as
 
 ![](http://sixf.org/files/images/2014/03/eq5.png)
 
-where *w<sub>i</sub>* the weight of the *i*th model. *w<sub>i</sub>* ranges between 0 and 1, and the sum of them equals 1. The larger the model weights, the more possibilities to be the best "true" model. For example, if we get a model with the model weight *w<sub>2</sub>* of 0.31, indicating the probability of this model to be the best possible model is 31%.
+where *w<sub>i</sub>* the weight of the *i*th model. *w<sub>i</sub>* ranges between 0 and 1, and the sum of them equals 1. The larger the model weights, the more possibilities to be the best "true" model. For example, if we have a model with the model weight *w<sub>2</sub>* of 0.31, indicating the probability of this model to be the best "true" model is 31%.
 
-The importance of each parameter can be calculated by the model weights, which add the weights of the model containing the parameter. After ranking the importance in the decreasing order, it is clear which parameter is the most important one.
+The relative importance of each parameter can be calculated by the model weights, which added the weights of the model containing the parameter. After ranking the importance in the decreasing order, it is clear which parameter has the largest importance.
 
-### Model selection uncertainity and multimodel inference
+### Model selection uncertainty and multimodel inference
 
-In practice, the result will be not so perfect as assumed. All the previous results were based on the assumption of ∆AIC > 2, meaning the AIC of second best model is larger 2 points than the smallest. If ∆AIC > 2, it is safe to use the first model as the best model. If not, it means the first several competing models have substantially supports. So, how to deal with under this circumstance? The terminal weapon: model averaging.
+In practice, the result will be not so perfect as expected. All previous results were based on the assumption of ∆AIC > 2, meaning the difference of the AIC between the first and second best model is more than 2. If ∆AIC > 2, it is safe to use the first model as the best model. If not, it means the first several competing models have substantially supports. So, how to deal with this trick when ∆AIC of the first two best model < 2? The terminal weapon is model averaging.
 
-Once ∆AIC > 2 is a golden rule (Burnham & Anderson, 2002), whereas Anderson (2008) suggested it is better to conclude all the possible models UNLESS some models should be removed with confidence reasons. As the model with very small AIC values, which also have small model weights, so the model-averaged result will not be influenced a lot by such models. Suppose *Y<sup>^</sup>* is the observed dependent value, such as the bird richness or the occupancy of the tomb in my case, which is estimated as
+∆AIC > 2 is considered as a golden rule in model selection (Burnham & Anderson, 2002), however Anderson (2008) suggested it is better to include all candidate models into model selection UNLESS some models should be removed with confidence reasons. We know that models with low AIC values will also have low model weights, so the model-averaged result will not be influenced very much if these models were included. Suppose *Y<sup>^</sup>* is the observed dependent value, e.g. the bird richness or the occupancy of the tomb in this case, which is estimated as
 
 ![](http://sixf.org/files/images/2014/03/eq6.png)
 
-It means if you have nine candidate models, so there are nine model weights, and could calculate nine observes. The model-averaged prediction is calculated for each prediction multiply by its model weight,
+It means if you have nine candidate models, there are nine model weights, and could produce nine observes. The model-averaged prediction is the summed product of each prediction by its model weight,
 
 ![](http://sixf.org/files/images/2014/03/eq7.png)
 
-As similar as the model-averaged prediction, we can also get the model-averaged estimates of parameters. Suppose the estimate of the *i*th  parameter is *θ<sub>i</sub>*, it can be calculated directly from the model with the smallest AIC value if the ∆AIC > 2. Once ∆AIC < 2, the averaged estimate of parameter is given by
+Similar as the model-averaged prediction, we can also calculate the model-averaged estimates of parameters. Suppose the estimate of the *i*th  parameter is *θ<sub>i</sub>*, it can be calculated directly from the model with the smallest AIC value if the ∆AIC > 2. If ∆AIC < 2, the averaged estimate of parameter is given by
 
 ![](http://sixf.org/files/images/2014/03/eq8.png)
 
-Then with the model weight, we obtained the unconditional variance estimate (Burnham & Anderson, 2002, p.162)
+With the model weight, we obtained the unconditional variance estimate (Burnham & Anderson, 2002, p.162)
 
 ![](http://sixf.org/files/images/2014/03/eq9.png)
 
@@ -98,22 +98,22 @@ Dr. Anderson suggested we should use the alternative one (Anderson, 2008, p.111)
 
 ![](http://sixf.org/files/images/2014/03/eq10.png)
 
-where $\hat{\bar{θ}}$ is the model-averaged estimate, *w<sub>i</sub>* is model weight, and *g<sub>i</sub>* is the *i*th model. As described by Anderson (2008), an estimator of the variance of parameter estimator estimates that incorporates both sampling variance, given a model, and a variance component for model selection uncertainty. So the confidence intervals is 
+where $\hat{\bar{θ}}$ is the model-averaged estimate, *w<sub>i</sub>* is model weight, and *g<sub>i</sub>* is the *i*th model. As described by Anderson (2008), an estimator of the variance of parameter estimator estimates that incorporates both sampling variance, given a model, and a variance component for model selection uncertainty. As a result, the confidence interval is 
 
 ![](http://sixf.org/files/images/2014/03/eq11.png)
 
 ### Case study
 
-Before running the code below, to be sure these package were installed: `glmulti`, `MuMIn`, `bbmle`. If not, simply entry the following code into the R console, and the installation will start automatically.
+Before running the following code, it is essential to be sure that these package (`glmulti`, `MuMIn`, `bbmle`) were installed. If not, simply entering the line of the code below into the R console to start the installation automatically.
 
 {% highlight r %}
 install.packages("glmulti")
 {% endhighlight %}
 
-Or else, download these packages from any [CRAN of R project](http://www.r-project.org), and install them locally.
+The alternative method to install these packages is to download them from any [CRAN of R project](http://www.r-project.org) to your computer, and then install them locally.
 
 
-#### Case One: the determinant of bird richness at the Lake
+#### Case One: the determinant of bird richness in the Lake
 
 Load `glmulti` package
 
@@ -149,11 +149,11 @@ str(tilbird)  # check the data structure of `til.bird`
 ```
 
 
-The first column of the data is the bird species on each island, and thereby eight island attributes, which are area, isolation, plant richness, habitat types, perimeter, PAR, SI and elevation. Larger PAR indicates more edges comparing the interior area on an island, and SI will be 1 if the island is a perfect circle.
+The first column of the data is the bird species on each island, and thereby eight island attributes, which are area, isolation, plant richness, habitat types, perimeter, PAR, SI and elevation. Larger PAR indicates more edges comparing the interior area of an island. SI will be 1 if the island is a perfect circle.
 
-Before running the model, we should check the independence of each variables. There are several available methods, such as correlation test, VIF and PCA analyses. Here, we use the common method of correlation test.
+Before running the model, we should check the independence of each variables. There are several available methods, such as correlation test, VIF and PCA analyses. Here, we use the common method: the correlation test.
 
-The R function for correlation test is `cor.test`, which is a test for two factors. Function `cor` can run the correlation with more than two factors, but no p-values showed in the result. So, I wrote a simple function to run the test with p-value in the result, named `cor.sig`.
+The R function for correlation test is `cor.test`, which is a test for two vectors. Function `cor` can run the correlation with more than two vectors, but no *p*-values showed in the result. To overcome the shortage of these two functions, I wrote a simple function to run the test with a *p*-value in the result, named `cor.sig`.
 
 {% highlight r %}
 cor.sig = function(test) {
@@ -190,7 +190,7 @@ cor.sig = function(test) {
 }
 {% endhighlight %}
 
-Put all the attributes into correlation test,
+Put all island attributes into the correlation test,
 
 
 {% highlight r %}
@@ -219,9 +219,9 @@ cor.sig(tilbird[, 2:9])  # exclude the first column which is the bird richness, 
 ```
 
 
-The results indicated significant correlations existed among area, perimeter, PAR, SI and elevation. We know area is a very important parameter in the theory of island biogeography. Other parameters may be resulted by area, so I excluded the perimeter, PAR, SI and elevation, and only four parameters entering the analyses: area, isolation, plant richness and habitat types.
+The results indicated significant correlations among area, perimeter, PAR, SI and elevation. We know area is a very important parameter in the theory of island biogeography. Other parameters may be resulted by area, so I dropped the perimeter: PAR, SI and elevation, and kept four parameters: area, isolation, plant richness and habitat types for the analyses.
 
-I simply chose the linear model. The global model is 
+I simply chose the linear model for the dataset, so the global model is 
 
 
 {% highlight r %}
@@ -229,7 +229,7 @@ global.model <- lm(birdspp ~ area + isolation + plants + habitats, data = tilbir
 {% endhighlight %}
 
 
-Then use the function `glmulti` in the `glmulti` package to check the 'best ' model whose AIC is smallest. Because I have four parameters, so totally have 2^4=16 candidate models. Here, the interaction effects between island attributes were not accounted.
+Then I used the function `glmulti` in the `glmulti` package to check the 'best ' model whose AIC is smallest. Because I have four parameters, it will totally have 2^4=16 candidate models. Here, the interaction effects between island attributes were not addressed.
 
 
 {% highlight r %}
@@ -288,7 +288,7 @@ summary(bird.model)
 ## [1] TRUE
 ```
 
-The result came out. The best model included the area and habitat types. This will check all the possible model one by one and find the best one.
+The result came out. The best model retained the variables of area and habitat types. Now I will check all possible models one by one and find the best one.
 
 
 {% highlight r %}
@@ -332,7 +332,7 @@ summary(bird.model)$icvalue
 ```
 
 
-The ∆AICc of the second model is 225.6429-225.4588=0.1841, which is < 2. If it is > 2, the process of model selection was finished, as the best model is the first one. Now, we should run the model averaging, and list all the possible models (16 models):
+The ∆AICc of the second model is 225.6429-225.4588=0.1841, which is < 2. If the ∆AICc > 2, all analyses of this dataset is completed and selecting the first model with lowest AICc value as the best model. Sadly, it is not! Now, we should run the model averaging, and list all possible models (16 models):
 
 
 {% highlight r %}
@@ -355,9 +355,9 @@ lm16 <- lm(birdspp ~ 1, data = tilbird)
 {% endhighlight %}
 
 
-Looks nice? It will be tricky if you have 10 parameters as there are 2^10=1024 candidate models! Take it easy, we can create a loop function to let the computer run the calculation (not shown here)
+Looks crazy? It will be tricky if you have 10 parameters as there are 2^10=1024 candidate models! Take it easy... We can create a loop function and feed it to the computer to run the calculation (not shown here).
 
-Average the model together,
+Average models together,
 
 
 {% highlight r %}
@@ -416,11 +416,11 @@ summary(lm.ave)
 ```
 
 
-The first part of the result 'Component models', have listed the degree of freedom for all models (df), the log likelihood (logLik), the AICc values, ∆AICc and model weights. Here, the weight of the best model is **0.29**, it means the possibility to-be the "true" model is 29%, which is pretty low. It will be nice if the weight reaches to 0.6-0.7. It should be to know the data here was shuffled by me, so the result have no meanings.
+The first part of the result 'Component models', have listed the degree of freedom for all models (df), the log likelihood (logLik), the AICc values, ∆AICc and model weights. Here, the weight of the best model is **0.29**, indicating the possibility of this model to be the "true" model is 29%, which is pretty low. It will be nice if the weight reaches to 0.6–0.7. It should be stressed that the data in this analyses was randomly shuffled, and the results are meaningless.
 
 The fourth part of the result is 'Full model-averaged coefficients'.
 
-The fifth is 'Relative variable importance'. The largest one equals 1. In this case, area is the most important attributes as it equals 1. The next is the habitat types, and the isolation and plants looks no importance in the models.
+The fifth is 'Relative variable importance'. The largest importance of parameters equals 1. In this case, area is the most important attribute with a relative importance of 1. The second important parameter is the habitat type, and the isolation and plants received less to none importance.
 
 Here, we have a shortcut to get above results and sort them out.
 
@@ -428,7 +428,7 @@ Here, we have a shortcut to get above results and sort them out.
 dredge(global.model)
 {% endhighlight %}
 
-Now we can predict the bird species on island 1using the averaged predictions,
+Now we can predict the bird species on island 1 using the averaged predictions,
 
 
 {% highlight r %}
@@ -467,11 +467,11 @@ t(bird.pred)  #transfer the matrix to save the space of the page. Nothing relate
 ```
 
 
-The final point is the unconditional variance estimator, which is a bitter complex. The calculation method is similar as $\hat{\bar{Y}}$ , and will run this estimation in the near future.
+The final task in model selection and multimodel inference is calculating the unconditional variance estimator, which is much more  complex but its method is similar as $\hat{\bar{Y}}$.
 
-#### Case Two: determinants of the occurancy of tombs at the Lake
+#### Case Two: determinants of the occupancy of tombs in the Lake
 
-The procedure is exactly the same as before, so make it in the same way,
+This analyses are mostly as similar as above calculations, so we can make them in the same way,
 
 
 {% highlight r %}
@@ -509,9 +509,9 @@ cor.sig(tiltomb[, -1])
 ```
 
 
-The result showed area, SI and elevation have significant correlation. Considering the reality, area will not be an important parameter when choosing the site of a tomb which is not related to fengshui. Whereas the SI is an essential factor because the round island, or round mountaintop before inundation, means a good luck in the world of fengshui, so I keep the SI and excluded others. Sand index correlated to SI, as sand index also an importance factor related to fengshui, so I kept both of them. The elements of Al and Si, and slope have strong correlation, which is easy to explain as the earth both have these two elements. Because the proportion of Al is more than Si, I dropped Si and slope.Sand index had correlation with pH. I am sure sand index should be reserved, so excluded the pH.
+The result showed area, SI and elevation have significant correlations. In reality, area will not be an important parameter when choosing the site for a tomb which is not related to fengshui. Whereas the SI is a key factor because the round island, or round mountaintop before inundation, means a good luck in the context of fengshui, so I keep the variable SI and dropped others. Sand index correlated to SI -- because sand index also an importance factor related to fengshui -- I kept sand index for the analyses. The elements of Al and Si, and slope have strong correlations. Because the proportion of Al is more than Si, I dropped Si and slope. Sand index had correlation with pH. I am sure sand index should be reserved, so excluded the pH.
 
-Then look again the matrix after excluding the strong correlated attributes. The results looks nice.
+Check again the matrix without strong correlated attributes. The results looks good.
 
 
 {% highlight r %}
@@ -537,7 +537,7 @@ cor.sig(tiltomb[, c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand"
 ## sand          1***
 ```
 
-The similar way as I did for the bird data. The difference here is that the dependent values is binary, which is the presence-absence data, so I should use the logistic regression with the function `glm`. Running the code below,
+This anlyses are similar as I did before for the bird data. The difference here is that the dependent values is binary, e.g. the presence-absence data. The rational model for binary data is to use the logistic regression by the function `glm`. Running the code below,
 
 {% highlight r %}
 global.model.tomb <- glm(tomb ~ plants + habitats + SI + convex + aspect + Al + 
@@ -647,7 +647,7 @@ summary(tomb.model)
 ## [1] TRUE
 ```
 
-The results shows the best model only had habitat parameter, which is also looks good, although the troublesome ∆AICc is still < 2. We will then run the model averaging for 2^7=128 candidate models.
+As shown by the results, the best model only retained habitat parameter. The results are good, but we noticed that the AICc is still < 2. We will then run the model averaging for 2^7=128 candidate models.
 
 {% highlight r %}
 tomb7=tiltomb[, c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand","tomb")]
@@ -675,7 +675,7 @@ lm.ave <- model.avg(allModel,modelC)
 summary(lm.ave)
 {% endhighlight %}
 
-Here are the selected results for these 128 models:
+Here are the selected results for these 128 candidate models:
 
 ```
 ### Full model-averaged coefficients (with shrinkage): 
@@ -696,16 +696,16 @@ dredge(global.model.tomb)
 
 ## Results
 
-The determinants of bird richness at the Lake is the area and habitat types, and habitat types is the only determinant for tomb occupancy.
+The determinants of bird richness in the Lake is the area and habitat type. Habitat type is the only determinant for tomb occupancy.
 
 
-## Disccussion
+## Discussion
 
-I have heard there is a more powerful method, called [Random forest model](http://blog.sciencenet.cn/blog-661364-615921.html), which do not the independence test in the beginning of the analyses. I do not use this model, and will try it in future.
+I have heard there is a more powerful method, called [Random forest model](http://blog.sciencenet.cn/blog-661364-615921.html), which do not need the collinearity test in the beginning of the analyses. I do not play with this model, but I’d like to try it in future.
 
 PS: the results below is just for fun.
 
-The priority rule to find a tomb on the islands of the Lake is the habitat types. So, once you have a tourist at the Lake, please do not visit the so-called monkey islands or snake islands, you should land on some islands with high habitat types. Oops, how to identify the habitat type, you may suggestion you learning some basic knowledge of [community ecology](http://en.wikipedia.org/wiki/Community_(ecology))。
+The priority indicator to find a tomb on the islands of the Lake is the habitat type. According to these results, if you sometime have a tourist in the Lake, please do not visit the so-called monkey islands or snake islands, you should land on some islands with high habitat types. Oh, if you do not know how to identify the habitat types, you may learn some basic knowledge of [community ecology](http://en.wikipedia.org/wiki/Community_(ecology))。
 
 Finally, I ran the correlation test between bird richness and tomb occupancy.
 
@@ -728,11 +728,11 @@ cor.test(tilbird[, 1], tiltomb[, 1])
 ## 0.4671
 ```
 
-The result showed they have significant correlation (t = 3.2562, df = 38, p-value = 0.002378). The islands with tombs are the islands having good fengshui. My result verified our prediction talked with Dr. Spider that bird richness related to fengshui significantly. For the detail underlying mechanisms, it may be a follow-up paper to answer this question.
+The result showed they have significant correlation (t = 3.2562, df = 38, p-value = 0.002378). The islands with tombs are the islands having good fengshui. My result verified our initial prediction that bird richness is significantly correlated to fengshui. I may produce a follow-up paper to answer this patterns.
 
-## Acknowlegements
+## Acknowledgements
 
-Thanks for your reading this long boring blog. Thanks for the supports for our group as I have a little time to imagine something having no connection with my academic stuffs. I also thanks the Lake data from our group and the data of island attributes which comes from the [Gutianshan plot](http://blog.sciencenet.cn/blog-267448-463699.html). I just run the anaysis anyway as they have no relations. I thanks for <a href="https://gist.github.com/sixf/9488518">this tutorial</a> providing the original code of this analyses. The code of this blog could be downloaded from [here](http://sixf.org/files/code/2014/mumin.txt)(updated) or [here](https://github.com/sixf/TIL-model-selection/archive/master.zip)(expired). Feel free to leave any reviews below as you are exactly the referee. Thanks!
+Thank you for reading this long boring blog. Thanks very much for the supports from our group as I do not have much time to imagine something that is not related to my academic stuffs. I also thanks our group members to collect the long-term data in the Lake. The bird data in this post are from our group and the data of island attributes come from the [Gutianshan plot](http://blog.sciencenet.cn/blog-267448-463699.html). I just ran the analyses anyway as these data have no biological senses. I thanks <a href="https://gist.github.com/sixf/9488518">this tutorial</a> for providing the original code of this analyses. The code of this blog could be downloaded from [here](http://sixf.org/files/code/2014/mumin.txt)(updated) or [here](https://github.com/sixf/TIL-model-selection/archive/master.zip)(expired). Feel free to leave any reviews in the end of this post because you are the referee! Thank you!
 
 ## References
 
