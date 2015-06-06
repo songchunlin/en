@@ -5,7 +5,7 @@ title: Publications
 ---
 
 
-## Peer-reviewed Journal Articles <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en)</small>
+## Journal Articles <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en)</small>
 
 1. **Xingfeng Si**, Andrés Baselga, Ping Ding (2015) Revealing beta-diversity patterns of breeding bird and lizard communities on inundated land-bridge islands by separating the turnover and nestedness components. ***PLoS ONE*** 10: e0127692. [PDF(2.3MB)](http://sixf.org/files/articles/Si-etal2015.pdf)
 1. Guozhen Shen, Stuart L Pimm, Chaoyang Feng, Guofang Ren, Yanping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Zongqiang Xie (2015) Climate change challenges the current conservation strategy for the giant panda. ***Biological Conservation*** 190: 43-50. [PDF(1.7MB)](http://sixf.org/files/articles/Shen-etal2015.pdf)
