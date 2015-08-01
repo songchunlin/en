@@ -51,7 +51,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 
 ---
 
-## Grants and Scholarships
+## Grants and Fellowships
 
 -   2012–2013     Joint-training Ph.D. Program, China Scholarship Council. (Scholarship) 
 -   2008–2013     Full Scholarship for Graduate, Zhejiang University. (Scholarship)
