@@ -53,20 +53,10 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 
 ## Grants and Fellowships
 
+-   2016-2018    Taxonomic and functional beta diversity of bird and mammal communities in fragmented habitats of the Thousand Island Lake. National Nature Science Foundation of China. (PI: 1/7)
 -   2012–2013     Joint-training Ph.D. Program, China Scholarship Council. (Scholarship) 
 -   2008–2013     Full Scholarship for Graduate, Zhejiang University. (Scholarship)
 -   2006-2007     Observation and Study of Reproductive Behavior of Rodents. Laboratory Open Program of Zhejiang Normal University. (PI: 1/3)
-    
-
-### Participated Projects (Selected)
-
-
--   2015-2018     The small-island effect of amphibian and reptile assemblages in the Thousand Island Lake. National Science Foundation of China. (Participant: 6/10)
--   2013-2017     Food web structure and its effects on avian and plant communities in subtropical fragmented habitats — A case study in the Thousand Island Lake. National Science Foundation of China. (Participant: 4/8)
--   2012-2015     Dynamic and Stability of forest bird community in fragmented habitats of Thousand Island Lake. National Science Foundation of China. (Participant: 6/10)
--   2012-2014     Sensitivity research on habitat fragmentation of birds and reptiles in Thousand Island Lake. National Science Foundation of China. (Participant: 5/8)
--   2012-2014     Body size evolution of island population of *Takydromus septentrionalis* and its responses on life history. National Science Foundation of China. (Participant: 3/7)
--   2008-2011     Resource Monitoring Technology and Demonstration of Forest Bird Species. Special Topic of National Key Technology R&D Program of China.  (Participant: 3/5)
 
 
 ----
@@ -86,7 +76,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 -   International Congress on Conservation Biology: 2013(Baltimore, Maryland, USA)
 -   Student Conference on Conservation Science: 2012(Cambridge, UK)
 -   National Conference on Wildlife Ecology and Resource Conservation: 2011(Jinhua), 2014(Guilin)
--   China Ornithological Conference: 2009(Harbin), 2011(Lanzhou), 2013(Hangzhou)
+-   China Ornithological Conference: 2009(Harbin), 2011(Lanzhou), 2013(Hangzhou), 2015(Hefei)
 -   Cross-strait Symposium on Forest Dynamic Plots: 2009(Zhaoqing), 2010(Xiamen)
 -   National Symposium on the Conservation and Sustainable Use of Biodiversity in China: 2008(Jinhua), 2010(Xiamen)
 -   Kingfisher Forum of Chinese Young Ornithologists Workshop: 2008(Beijing), 2009(Harbin), 2011(Lanzhou), 2013(Hangzhou)
