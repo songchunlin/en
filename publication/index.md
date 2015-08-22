@@ -21,7 +21,8 @@ title: Publications
 
 ## Popular Articles and Other Publications
 
-1. **Xingfeng Si** (2015) Young scientists need collaboration. ***Zenodo***, [doi: 10.5281/zenodo.22313](https://zenodo.org/record/22313).
+1. **Xingfeng Si** (2015) Wildlife in Gutianshan from camera traps. ***China Nature***, *in press*. <small>(in Chinese)</small>
+1. **Xingfeng Si** (2015) Young scientists need collaboration. ***Journal of Brief Ideas***, [doi: 10.5281/zenodo.22313](https://zenodo.org/record/22313).
 1. **Xingfeng Si** (2014) *Species Turnover and Beta Diversity of Breeding Bird Communities in Fragmented Habitats*. PhD dissertation, Zhejiang University, Hangzhou. <small>(in Chinese with English abstract)</small> [PDF(2.5M)](http://sixf.org/files/articles/Si2014.pdf)
 1. **Xingfeng Si** (2014) Dry Tortugas National Park — Home of the sooty tern. ***China Nature*** 2014(6): 76–81. <small>(in Chinese)</small>
 1. **Xingfeng Si** (2014) Apply for the China Scholarship Council fund. ***China Postgraduates*** 2014(9): 58–59. <small>(in Chinese)</small>
