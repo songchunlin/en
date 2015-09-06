@@ -67,19 +67,19 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 
 ## Participation in Scientific Conferences (Selected)
 
--   Ecological Society of America Annual Meeting: 2015(Baltimore, Maryland, USA)
--   International Symposium on Modern Ecology: 2015(Tianjin)
--   Biennial Conference of the International Biogeography Society: 2015(Bayreuth, Germany)
--   International Ornithological Congress: 2014(Tokyo, Japan)
--   EAFES International Congress: 2014(Haikou)
--   National Conference of the China Zoological Society: 2014(Guangzhou)
--   International Congress on Conservation Biology: 2013(Baltimore, Maryland, USA)
--   Student Conference on Conservation Science: 2012(Cambridge, UK)
--   National Conference on Wildlife Ecology and Resource Conservation: 2011(Jinhua), 2014(Guilin)
--   China Ornithological Conference: 2009(Harbin), 2011(Lanzhou), 2013(Hangzhou), 2015(Hefei)
--   Cross-strait Symposium on Forest Dynamic Plots: 2009(Zhaoqing), 2010(Xiamen)
--   National Symposium on the Conservation and Sustainable Use of Biodiversity in China: 2008(Jinhua), 2010(Xiamen)
--   Kingfisher Forum of Chinese Young Ornithologists Workshop: 2008(Beijing), 2009(Harbin), 2011(Lanzhou), 2013(Hangzhou)
+-   Biennial Conference of the International Biogeography Society: 2015 (Bayreuth, Germany)
+-   China Ornithological Congress: 2009 (Harbin), 2011 (Lanzhou), 2013 (Hangzhou), 2015 (Hefei)
+-   Cross-strait Symposium on Forest Dynamic Plots: 2009 (Zhaoqing), 2010 (Xiamen)
+-   EAFES International Congress: 2014 (Haikou)
+-   Ecological Society of America Annual Meeting: 2015 (Baltimore, Maryland, USA)
+-   International Congress on Conservation Biology: 2013 (Baltimore, Maryland, USA)
+-   International Ornithological Congress: 2014 (Tokyo, Japan)
+-   International Symposium on Modern Ecology: 2015 (Tianjin)
+-   Kingfisher Forum of Chinese Young Ornithologists Workshop: 2008 (Beijing), 2009 (Harbin), 2011 (Lanzhou), 2013 (Hangzhou)
+-   National Conference of the China Zoological Society: 2014 (Guangzhou)
+-   National Conference on Wildlife Ecology and Resource Conservation: 2011 (Jinhua), 2014 (Guilin)
+-   National Symposium on the Conservation and Sustainable Use of Biodiversity in China: 2008 (Jinhua), 2010 (Xiamen)
+-   Student Conference on Conservation Science: 2012 (Cambridge, UK)
 
 ---
 
