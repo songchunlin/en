@@ -34,19 +34,14 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 
 ---
 
-## Awards & Honors
+## Awards & Honors (Selected)
 
 -   2015     Academic Newcomer Award for Graduate in Ornithology, China Ornithological Society
--   2014     Poster Award of WERC National Conference, Mammalogical Society of China-   2013     Gold Award of the 9th Kingfisher Forum, China Ornithological Society
--   2012     Award of Honor of the 1st Student Forum, CLS Zhejiang University
--   2011     Graduate of Merit in 2010-2011, Zhejiang University
--   2011     First-class Award of Honor for Graduate in 2010-2011, Zhejiang University
+-   2014     Poster Award of WERC National Conference, Mammalogical Society of China
+-   2013     Gold Award of the 9th Kingfisher Forum, China Ornithological Society
+-   2011     First-class Award of Honor for Graduate, Zhejiang University
 -   2011     Gold Award of the 7th Kingfisher Forum, China Ornithological Society
--   2009     Silver Award of the 5th Kingfisher Forum, China Ornithological Society
 -   2008     Ten Outstanding Research and Training Students, Zhejiang Normal University
--   2005     Excellent Student Cadre in 2004-2005, Zhejiang Normal  University
--   2005     Second-class Scholarship in 2004-2005, Zhejiang Normal University
--   2005     Excellent League Member in 2004, Zhejiang Normal University
     
 
 ---
@@ -65,21 +60,9 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 
 ---
 
-## Participation in Scientific Conferences (Selected)
+## Professional Services
 
--   Biennial Conference of the International Biogeography Society: 2015 (Bayreuth, Germany)
--   China Ornithological Congress: 2009 (Harbin), 2011 (Lanzhou), 2013 (Hangzhou), 2015 (Hefei)
--   Cross-strait Symposium on Forest Dynamic Plots: 2009 (Zhaoqing), 2010 (Xiamen)
--   EAFES International Congress: 2014 (Haikou)
--   Ecological Society of America Annual Meeting: 2015 (Baltimore, Maryland, USA)
--   International Congress on Conservation Biology: 2013 (Baltimore, Maryland, USA)
--   International Ornithological Congress: 2014 (Tokyo, Japan)
--   International Symposium on Modern Ecology: 2015 (Tianjin)
--   Kingfisher Forum of Chinese Young Ornithologists Workshop: 2008 (Beijing), 2009 (Harbin), 2011 (Lanzhou), 2013 (Hangzhou)
--   National Conference of the China Zoological Society: 2014 (Guangzhou)
--   National Conference on Wildlife Ecology and Resource Conservation: 2011 (Jinhua), 2014 (Guilin)
--   National Symposium on the Conservation and Sustainable Use of Biodiversity in China: 2008 (Jinhua), 2010 (Xiamen)
--   Student Conference on Conservation Science: 2012 (Cambridge, UK)
+-   Journal Reviewer: Austral Ecology, Ecography
 
 ---
 
