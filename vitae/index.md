@@ -56,10 +56,6 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 
 ----
 
-## [Publications](/en/publication/ "click here to see my publications")
-
----
-
 ## Professional Services
 
 -   Journal Reviewer: Austral Ecology, Ecography
