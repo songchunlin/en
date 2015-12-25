@@ -58,7 +58,7 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 
 ## Professional Services
 
--   Journal Reviewer: Austral Ecology, Ecography
+-   Journal Reviewer: Austral Ecology, Ecography, Integrative Zoology
 
 ---
 
