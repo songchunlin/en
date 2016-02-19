@@ -7,8 +7,8 @@ title: Curriculum Vitae (Xingfeng Si)
 
 - Email: [xingfengsi\[at\]gmail.com](mailto:xingfengsi@gmail.com)
 - Website: [www.sixf.org](http://sixf.org) 
-- Tel: +86(571)8820-6467 
-- Fax: +86(571)8820-6468 
+- Tel: +86-571-88206467 
+- Fax: +86-571-88206468 
 - Address: College of Life Sciences, Zhejiang University, Hangzhou, China
 - [Download Full CV (PDF)](http://sixf.org/files/others/cv_en.pdf "Download Full CV")
 
