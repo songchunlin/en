@@ -48,17 +48,21 @@ Animal ecology, biodiversity, camera traps, conservation biology, farmland aband
 
 ## Grants and Fellowships
 
--   2016-2018    Taxonomic and functional beta diversity of bird and mammal communities in fragmented habitats of the Thousand Island Lake. National Nature Science Foundation of China. (PI: 1/7; ¥240,000)
--   2015–2015     Postdoctoral Fellow Travel Grant, Zhejiang University. (Fellowship; ¥20,000)
--   2012–2013     Joint-training Ph.D. Program, China Scholarship Council. (Scholarship; ¥130,000) 
--   2006-2007     Observation and Study of Reproductive Behavior of Rodents. Laboratory Open Program of Zhejiang Normal University. (PI: 1/3; ¥800)
+-   2016-2018    Taxonomic and functional beta diversity of bird and mammal communities in fragmented habitats of the Thousand Island Lake. National Nature Science Foundation of China. (PI; ¥240,000)
+-   2016-2018    International Postdoctoral Exchange Fellowship Program, The Office of China Postdoctoral Council. (Fellowship; ¥300,000)
+-   2016-2016    Effects of habitat fragmentation on functional and phylogenetic diversity and community structures of birds. China Postdoctoral Science Foundation. [Approved but not funded] (PI; ¥50,000)
+-   2016-2016    International Postdoctoral Travel Grant, The Office of China Postdoctoral Council. (Fellowship; ¥30,000)
+-   2015–2015    Postdoctoral Fellow Travel Grant, Zhejiang University. (Fellowship; ¥20,000)
+-   2012–2013    Joint-training Ph.D. Program, China Scholarship Council. (Scholarship; ¥130,000) 
+-   2012–2012    Graduate Student Travel Grant, Zhejiang University. (Scholarship; ¥4,000)
+-   2006-2007    Observation and Study of Reproductive Behavior of Rodents. Laboratory Open Program of Zhejiang Normal University. (PI; ¥800)
 
 
 ----
 
 ## Professional Services
 
--   Journal Reviewer: Austral Ecology, Ecography, Integrative Zoology
+-   Journal Reviewer: Austral Ecology, Biodiversity and Conservation, Biodiversity Science, Biological Conservation, Ecography, Global Ecology and Biogeography, Integrative Zoology, PeerJ
 
 ---
 
