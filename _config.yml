@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://sixf.org/en
-author: Xingfeng Si
+url: https://songchunlin.github.io/en
+author: Chunlin Song
 pygments: true
 
