@@ -1,6 +1,10 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
+<<<<<<< HEAD
 url: https://songchunlin.github.io/en/
+=======
+url: https://songchunlin.github.io/en
+>>>>>>> origin/gh-pages
 author: Chunlin Song
 pygments: true
 
