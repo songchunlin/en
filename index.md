@@ -1,5 +1,5 @@
 ---
-title: Hang in There!
+title: Chunlin's Blog
 layout: page
 ---
 
