@@ -1,17 +1,19 @@
 /*------------------------------------
 *
-* @author Xingfeng Si
-* @link http://sixf.org
+* @author Chunlin Song (original version by Xingfeng Si and Yihui Xie)
+* @link http://songchunlin.net
 * @contributor linghua.zhang@me.com
-* @update 2014-04-03
+* @update 2016-08-03
 * 
 * --------------------------------- */
 
 body{
-  font-size:11px;
-  font-family:"Lucida grande",tahoma,"Hiragino Sans GB","Microsoft YaHei",verdana,arial,sans-serif;
-  color:#000000;
-  background-color:#ffffff;
+  font-size: 14px;
+  font-size: 1rem;
+  line-height:1.5;
+  font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑,  sans-serif;
+  text-rendering: optimizeLegibility;
+  color: #1e1e1e;
 }
 
 *{
@@ -22,12 +24,12 @@ body{
 }
 
 a{
-  color:#08c;
+  color:#4e4e4e;
   text-decoration:none;
 }
 
 a:hover{
-  color:#f00;
+  color:#17202A;
   text-decoration:underline;
 }
 
@@ -47,7 +49,7 @@ li{
 
 ol,ul{  
   margin-left: 2em;
-  text-indent: -2em;
+  text-indent: -0em;
   list-style-position: inside;
 }
 
@@ -88,15 +90,15 @@ td {
 }
 
 #container{
-  width:600px;
+  width:720px;
   margin:2em auto;
   display:block;
   padding:0 2em;
 }
 
 .content{
-  font-size:16px;
-  line-height:24px;
+  font-size:14px;
+  line-height:2;
 }
 
 .content h1{
@@ -134,7 +136,7 @@ td {
 }
 
 .listing-seperator{
-  font-weight:bold;
+  font-size:16px;
 }
 
 .meta{
@@ -145,29 +147,73 @@ td {
 header{
   padding:.5em 0;
   font-size:1.3em;
-  border-bottom: 1px solid #cccccc;
+  border-bottom: 1px solid #ffffff;
 }
 
-nav{
-  font-family:sans-serif;
-  font-size:1.5em;
-  text-transform:uppercase;
-  float:left;margin-left:-12em;
-  width:9em;
-  text-align:right;
+.nav {
+font-family:sans-serif;
+font-size:1em;
+text-transform:uppercase;
+margin-left:0;
+margin-bottom:20px;
+margin-top:10px;
+list-style:none;
+text-align:center;
 }
 
-nav a{
-  display:block;
-  padding:.7em 1em;
-  color:#000000;
+.nav>li>a {
+display:inline;
+background-color:#fff;
+
 }
 
-nav a:hover{
-  background-color:#ff0000;
+.nav>li>a:hover {
+background-color:#707070;
   text-decoration:none;
-  color:#f9f9f9;
-  -webkit-transition:color .2s linear;
+  color:#ffffff;
+  -webkit-opacity: 0.30;
+  -moz-opacity: 0.30;
+  opacity: 0.30;
+  -webkit-transition: opacity 3s linear;
+  -moz-transition: opacity 3s linear;
+  -ms-transition: opacity 3s linear;
+  -o-transition: opacity 3s linear;
+  transition: opacity 3s linear;
+}
+
+
+.pills {
+zoom:1px;
+}
+
+.pills>li>a {
+margin-right:0px;
+line-height:14px;
+margin-top:2px;
+margin-bottom:2px;
+-webkit-border-radius:0px;
+-moz-border-radius:5px;
+border-radius:0px;
+border-bottom: 1px solid #ededed;
+border-top: 1px solid #ededed;
+padding:10px 44px;
+}
+
+.pills:before,.pills:after,.pager:before,.pager:after {
+display:table;
+content:"";
+}
+
+.pills:after,.pager:after {
+clear:both;
+}
+
+.pills>li,.pager .previous a,.pull-left {
+float:left;
+}
+
+li,dt,dd {
+line-height:30px;
 }
 
 .post{
@@ -175,21 +221,32 @@ nav a:hover{
 }
 
 h1{
-  font-family:"Lucida grande",tahoma,"Hiragino Sans GB","Microsoft YaHei",verdana,arial,sans-serif;
-  font-size:1.4em;
-  line-height:40px;
-  color:#000;
+font-family: Georgia, Kaiti;
+  -webkit-font-smoothing:antialiased;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-bottom: 14px;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  border-width: 0;
+  border-style: none;
+  color: #222222;
 }
 
 h2{
-  font-family:"Lucida grande",tahoma,"Hiragino Sans GB","Microsoft YaHei",verdana,arial,sans-serif;
-  font-size:1.4em;
-  line-height:40px;
-  color:#111;
+font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
+  font-weight: normal;
+  font-size: 1.4rem;
+  line-height: 40px;
+  color: #303030;
+  border-width: 0;
+  border-style: none;
+  margin: 1em 0 1em 0;
 }
 
 h3{
-  font-family: "Lucida grande",tahoma,"Hiragino Sans GB","Microsoft YaHei",verdana,arial,sans-serif;
+  font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
   font-size:1.2em;
   line-height:40px;
   font-style:italic;
@@ -197,14 +254,56 @@ h3{
 }
 
 h4{
-  font-family:"Lucida grande",tahoma,"Hiragino Sans GB","Microsoft YaHei",verdana,arial,sans-serif;
+  font-family:normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
   font-size:1em;
   line-height:30px;
   color:#333;
 }
 
+/* author credits */
+	h5 {
+	    font-size: 14px;
+	    font-weight: normal;
+	    line-height: 1.3em;
+	    color: #202020;
+	    font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
+	    margin: 1em 0 .5em 0;
+	    letter-spacing: .1em;
+	    margin-bottom: 1em;
+	    text-align: center;
+	    -webkit-opacity: 0.30;
+	    -moz-opacity: 0.30;
+	    opacity: 0.30;
+	    -webkit-transition: opacity 3s linear;
+	    -moz-transition: opacity 3s linear;
+	    -ms-transition: opacity 3s linear;
+	    -o-transition: opacity 3s linear;
+	    transition: opacity 3s linear;
+	}
+
+	h5:hover {
+	    -webkit-opacity: 1;
+	    -moz-opacity: 1;
+	    opacity: 1;
+	    -webkit-transition: all 2s ease;
+	    -moz-transition: all 2s ease;
+	    -ms-transition: all 2s ease;
+	    -o-transition: all 2s ease;
+	    transition: all 2s ease;
+	}
+	h5 strong {
+	    color: #56a49f;
+	    font-weight: bold;
+	}
+	img {
+	    border: 0;
+	    padding: 3px;
+	}
+	img a { border: 0 }
+	
+
 pre,code{
-  font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace;
+  font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
   font-size:13px;
 }
 
@@ -221,3 +320,9 @@ embed,object,iframe{
   font-size: 12px;
   line-height:1.6;
 }
+
+ul {
+  list-style: inherit;
+}
+
+

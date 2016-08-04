@@ -1,4 +1,4 @@
-(function($) {
+/*(function($) {
 
   $.fn.tagcloud = function(options) {
     var opts = $.extend({}, $.fn.tagcloud.defaults, options);
@@ -78,3 +78,4 @@
   }
 
 })(jQuery);
+
