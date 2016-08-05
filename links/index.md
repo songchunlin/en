@@ -1,5 +1,5 @@
 ---
-title: Eco-Links
+title: Links
 layout: page
 ---
 
