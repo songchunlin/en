@@ -31,17 +31,18 @@ title: Chunlin Song's Curriculum Vitae
 
 ## EXPERIENCE
 
-- **Research Assistant, since 2014.** Institute of Mountain Hazards and Environment, Chinese Academy of Sciences. 
+- **Research Assistant for project “Three-River Headwaters Region Runoff Generation, Changing Mechanisms, and Permafrost Ecohydrological Processes Modelling”, July 2014-Present.** Professor Genxu Wang, Institute of Mountain Hazards and Environment, Chinese Academy of Sciences. 
+- - **Research Assistant for project “Seasonal Variations and Impact Factors of Organic Carbon Export in Small Alpine Forest Watershed”, August 2014-June 2015.** Assistant Researcher Xiangyang Sun, Institute of Mountain Hazards and Environment, Chinese Academy of Sciences. 
 - **Master Program Class Leader, 2013-2015.** Institute of Mountain Hazards and Environment, Chinese Academy of Sciences. 
-- **Engineering Internship, 2012 summer.** Sichuan, China.
+- **Engineering Internship, 2012 summer.** College of Water Resources and Hydropower, Sichuan University.
  
 ---
 
 ## Skills
 
-- **Equipment:** vario TOC select TOC/TNb Analyser; Los Gatos Research DLT-100 Liquid Water Isotope Analyser; Campbell Scientific CR1000 dataloggers; LI-8150 Soil CO2 Flux System
+- **Equipment:**  vario TOC select TOC/TNb Analyser; Los Gatos Research DLT-100 Liquid Water Isotope Analyser; Eddy Covariance Systems; Campbell Scientific CR1000 dataloggers; LI-8150 Soil CO2 Flux System
 - **Experimental:** Working knowledge in many field works related to hydrology and ecology
-- **Computer:** R, ArcGIS, MS Office, macOS iWork, Adobe Photoshop, Adobe Illustrator, AutoCAD, HTML & CSS
+- **Computer:** R, ArcGIS, MS Office, EndNote, macOS iWork, Adobe Photoshop, Adobe Illustrator, AutoCAD, HTML & CSS
 
 ---
 
