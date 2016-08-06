@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: https://songchunlin.github.io/en
+url: http://songchunlin.net/en
 author: Chunlin Song
 pygments: true
 
