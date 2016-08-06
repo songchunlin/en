@@ -7,7 +7,7 @@ title: Chunlin Song's Curriculum Vitae
 
 - Email: [scl[at]songchunlin.net](mailto:scl@songchunlin.net)
 - Skype: cl.song@outlook.com
-- Website: [http://songchunlin.net/](http://songchunlin.net/)
+- Website: [http://songchunlin.net/](http://songchunlin.net/){:target="_blank"}
 - Address: 9 Block 4 Renminnanlu Road, Chengdu 610041, Sichuan, China
 
 ---
