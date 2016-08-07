@@ -4,7 +4,7 @@ layout: page
 ---
 
 ---
-## Labs or Scientists
+## Labs and Scientists
 
 - [Raymond Biogeochemistry Lab](http://environment.yale.edu/raymond-lab/){:target="_blank"} 
 - [Ecosystem Biogeochemistry Group led by David Butman](http://www.thebutmanlab.com/){:target="_blank"}
