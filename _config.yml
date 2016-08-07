@@ -3,4 +3,4 @@ permalink: /:year/:month/:title/
 url: http://songchunlin.net/en
 author: Chunlin Song
 pygments: true
-
+highlighter: rouge
