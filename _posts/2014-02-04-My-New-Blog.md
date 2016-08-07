@@ -1,7 +1,6 @@
 ---
 title: My New Blog
 layout: post
-categories: [Blog]
 tags: [WordPress,Writing,Blog]
 comments: yes
 ---
