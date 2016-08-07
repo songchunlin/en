@@ -25,7 +25,7 @@ body{
 a{
   color:#4e4e4e;
   text-decoration:none;
-  font-weight:300;
+  font-weight:normal;
 }
 
 a:hover{
@@ -40,12 +40,12 @@ hr{
 }
 
 p {
-    line-height: 1.5em;
+    line-height: 1.6em;
     margin: .7em 0 1em 0;
     font-family: "proxima-nova",Helvetica,sans-serif;
     font-size: 1em;
     font-style: normal;
-    font-weight: 300;
+    font-weight: normal;
     color: #333;
     -webkit-font-smoothing: antialiased;
 }
@@ -140,6 +140,7 @@ td {
 
 .listing-item time{
   color:#999999;
+  font-weight:300;
 }
 
 .listing-seperator{
