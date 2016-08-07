@@ -25,6 +25,7 @@ body{
 a{
   color:#4e4e4e;
   text-decoration:none;
+  font-weight:300;
 }
 
 a:hover{
