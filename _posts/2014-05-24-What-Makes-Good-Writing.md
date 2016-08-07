@@ -1,5 +1,5 @@
 ---
-title: What Makes Good Writing?
+title: What Makes Good Writing
 layout: post
 tags: [Writing]
 comments: yes

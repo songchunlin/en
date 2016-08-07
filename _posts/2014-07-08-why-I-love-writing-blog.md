@@ -1,5 +1,5 @@
 ---
-title: Why I Love Blogging?
+title: Why I Love Blogging
 layout: post
 tags: [WordPress,Writing,Blog,Jekyll]
 comments: yes
