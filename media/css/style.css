@@ -44,7 +44,7 @@ p {
     font-family: "proxima-nova",Helvetica,sans-serif;
     font-size: 1em;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 300;
     color: #333;
     -webkit-font-smoothing: antialiased;
 }
@@ -242,7 +242,7 @@ font-family: "proxima-nova",Helvetica,sans-serif;
 
 h2{
 font-family: "proxima-nova",Helvetica,sans-serif;
-  font-weight: normal;
+  font-weight: 300;
   font-size: 1.4rem;
   line-height: 40px;
   color: #303030;
@@ -268,7 +268,7 @@ h4{
 
 /* author credits */
   h5 {
-      font-size: 14px;
+      font-size: 13px;
       font-weight: normal;
       line-height: 1.3em;
       color: #202020;
