@@ -13,4 +13,4 @@ I studied Hydrology and Water Resources Engineering in [Sichuan University](http
 
 ## My Hobby 
 
-In my spare time I enjoy running, hiking, playing badminton and watching sci-fi movies as well as reading science and technology news online. I'm also interested in all kinds of electronic products. As a graduate student majored in geography, I have travelled many places in China, mostly in western China. But I want to go to more places such as the Antarctica, the North Pole, or even the Mars.
+In my spare time I enjoy running, hiking, playing badminton and watching sci-fi movies as well as reading science and technology news. I'm also interested in all kinds of electronic products, especially that created by Apple. As a graduate student majored in geography, I have travelled many places in China, mostly in western China. But I want to go to more places such as the Antarctica, the North Pole, or even the Mars in the future.
