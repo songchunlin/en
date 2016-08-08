@@ -14,3 +14,7 @@ I studied Hydrology and Water Resources Engineering in [Sichuan University](http
 ## My Hobby 
 
 In my spare time I enjoy running, hiking, playing badminton and watching sci-fi movies as well as reading science and technology news. I'm also interested in all kinds of electronic products, especially that created by Apple. As a graduate student majored in geography, I have travelled many places in China, mostly in western China. But I want to go to more places such as the Antarctica, the North Pole, or even the Mars in the future.
+
+## About This Blog
+
+This blog is based on [Jekyll](https://github.com/mojombo/jekyll) and hosted on [GitHub](https://github.com/songchunlin). As a personal blog, I write everything about my life and my thoughts on it. I also have a [Chinese blog](http://songchunlin.net). When you browse my blog, you could navigate to previous post by the left-arrow key or next post by right-arrow key on your keyboard. If you have any suggestions or find something wrong with this blog, please feel free to [contact me](mailto:scl@songchunlin.net). 
