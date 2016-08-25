@@ -13,6 +13,7 @@ layout: page
 - [Hydro-biogeochemistry Research Group led by Rebecca Neumann](http://faculty.washington.edu/rbneum/index.html){:target="_blank"}
 - [McDonnell's Watershed Hydrology lab](http://www.usask.ca/watershed/){:target="_blank"}
 - [James W. Kirchner, Professor of Earth and Planetary Science, University of California, Berkeley](http://seismo.berkeley.edu/~kirchner/){:target="_blank"}
+- [Kevin J. McGuire, Associate Professor of Hydrology at Virginia Tech in the Department of Forest Resources and Environmental Conservation](http://hydro.vwrrc.vt.edu/){:target="_blank"}
 
 ---
 
