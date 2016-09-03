@@ -14,6 +14,7 @@ layout: page
 - [McDonnell's Watershed Hydrology lab](http://www.usask.ca/watershed/){:target="_blank"}
 - [James W. Kirchner, Professor of Earth and Planetary Science, University of California, Berkeley](http://seismo.berkeley.edu/~kirchner/){:target="_blank"}
 - [Kevin McGuire's Watershed Hydrology Lab @Virginia Tech](http://hydro.vwrrc.vt.edu/){:target="_blank"}
+- [Scott Jasechko, Department of Geography, University of Calgary](http://www.isohydro.ca/){:target="_blank"}
 
 ---
 
