@@ -15,6 +15,7 @@ layout: page
 - [Brian McGlynn's Watershed Hydrology and Biogeosciences Lab
 ​at Duke University](http://www.mcglynnlab.com/){:target="_blank"}
 - [Ciaran J Harman's Landscape Hydrology at JHU](http://landscapehydrology.com/){:target="_blank"}
+- [Helen Dahlke, UCDavis](http://dahlke.ucdavis.edu/){:target="_blank"}
 - [Rebecca Neumann's Hydro-biogeochemistry Research Group at UW](http://faculty.washington.edu/rbneum/index.html){:target="_blank"}
 - [McDonnell's Watershed Hydrology Lab at the University of Saskatchewan](http://www.usask.ca/watershed/){:target="_blank"}
 - [James W. Kirchner, Professor of Earth and Planetary Science, University of California, Berkeley](http://seismo.berkeley.edu/~kirchner/){:target="_blank"}
