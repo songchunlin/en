@@ -29,11 +29,11 @@ text-decoration:none;
 
 a:hover {
 color:#17202A;
-text-decoration:underline;
+text-decoration:blink;
 }
 
 p a {
-border-bottom:0px solid #dedede;
+border-bottom:1px solid #dedede;
 }
 
 
