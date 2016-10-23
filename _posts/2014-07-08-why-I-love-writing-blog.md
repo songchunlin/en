@@ -8,7 +8,7 @@ comments: yes
 
 I enjoy blogging online. That's because I love writing.
 
-I write to think more effectively. Writing helps me think better. I can think more clearly and logically while I writing down the fragmentation in my mind. When I organize sentences and paragraphs to finish a complete article, the language can think by itself. So I receive a better understanding about my original ideas after I finish a blog post.
+I write to think more effectively. Writing helps me think things better. I can think more clearly and logically while I writing down the fragmentation in my mind. When I organize sentences and paragraphs to finish a complete article, the language can think by itself. So I receive a better understanding about my original ideas after I finish a blog post.
 
 I write to learn better. As I stated above, writing blog helps me better thinking. So, I can learn better by composing text. I couldn’t sure if I had grasped the highlights and the nature of what I have learned until I compose them down. I drop a line through my independent thinking, which is a procedure to make me understand thoroughly.
 
