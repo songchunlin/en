@@ -1,5 +1,5 @@
 ---
-title: Young Water Fraction of Global Rivers
+title: Young Water Fractions of Global Rivers
 layout: post
 tags: [Hydrology,Isotope,River,Precipitation]
 comments: yes
