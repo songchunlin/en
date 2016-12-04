@@ -3,6 +3,13 @@ title: tags
 layout: page
 ---
 
+<form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
+
+			<p class="search">Search this site:<br />
+			<input name="q"  class="texta" />
+			<input name="qfront" type="text" style="width: 180px; text-size: 12px; height: 14px;" /> </p>
+</form>
+
 <div id='tag_cloud'>
 {% for tag in site.tags %}
 <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
