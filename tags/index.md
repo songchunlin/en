@@ -3,12 +3,6 @@ title: tags
 layout: page
 ---
 
-<form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
-
-			<p class="search">Search this site:<br />
-			<input name="q" type="hidden" class="texta" />
-			<input name="qfront" type="text" style="width: 240px; text-size: 14px; height: 18px; color: black" /> </p>
-</form>
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
