@@ -9,6 +9,14 @@ layout: page
 {% endfor %}
 </div>
 
+<form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
+
+			<p class="search">Search this site:<br />
+			<input name="q" type="hidden" class="texta" />
+			<input name="qfront" type="text" style="width: 180px; text-size: 12px; height: 14px;" /> </p>
+
+</form>
+
 <ul class="listing">
 {% for cat in site.categories %}
   <li class="listing-seperator" id="{{ cat[0] }}">{{ cat[0] }}</li>
