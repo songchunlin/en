@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-##  [**ResearchGate**](https://www.researchgate.net/profile/Song_Chunlin)
+##  [**ResearchGate**](https://www.researchgate.net/profile/Chunlin_Song4)
 
 **Peer-reviewed papers**
 

@@ -4,7 +4,7 @@ title: About
 ---
 
 
-## Who I Am
+## Who Am I
 
 My name is Chunlin Song (Chinese character "宋春林", means spring forest), which pronounced like *Tren-lean Soong*. I was born in a small viliage in south Shannxi  Province, China. I am currently a Ph.D. candidate major in Physical Geography at the Institute of Mountain Hazards and Environment, Chinese Academy of Sciences and the University of Chinese Academy of Sciences. I always have a strong drive to learn new things and enthusiasm about earth sciences. I'm a self-motivated person and delighted to solve problems.
 
