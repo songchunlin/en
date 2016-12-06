@@ -10,7 +10,7 @@ My name is Chunlin Song (Chinese character "宋春林", means spring forest), wh
 
 ## My Hobby 
 
-In my spare time, I enjoy writing, reading, running, hiking, playing badminton and watching sci-fi movies as well as reading science and technology news. I'm learning photography currently. I'm also interested in all kinds of electronic products, especially that created by Apple. As a graduate student majored in geography, I have travelled many places in China, mostly in western China. But I want to go to more places such as Antarctica, the North Pole, or even the Mars in the future.
+In my spare time, I enjoy writing, reading, running, hiking, playing badminton and watching sci-fi movies as well as reading science and technology news. I'm learning photography currently. I'm also interested in all kinds of electronic products, especially created by Apple. As a graduate student majored in geography, I have travelled many places in China, mostly in western China. But I want to go to more places such as Antarctica, the North Pole, or even the Mars in the future.
 
 ## About This Blog
 
