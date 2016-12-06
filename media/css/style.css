@@ -162,6 +162,10 @@ header{
   border-bottom: 1px solid #ffffff;
 }
 
+footer{
+   padding-bottom:4em;
+}
+
 .nav {
 font-family:"proxima-nova",Helvetica,sans-serif;
 font-size:1em;
