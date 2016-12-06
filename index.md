@@ -11,7 +11,9 @@ layout: page
         <h2><center><a href="{{ site.url }}{{ post.url }}" title="Permanent link to: '{{ post.title }}'">{{ post.title }}</a></center></h2>
         {% endif %}
         {{ post.content }}
-        <p id="tip-info">{{ post.date | date:"%Y-%m-%d" }}</p>
+        <section class="meta">
+         <p id="tip-info">发表于 {{ post.date | date:"%Y-%m-%d" }}</p>
+</section>
     {% endfor %}
     
     <p>
