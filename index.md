@@ -12,7 +12,7 @@ layout: page
         {% endif %}
         {{ post.content }}
         <section class="meta">
-         <p id="tip-info">Posted on {{ post.date | "%B %e, %Y"}}</p>
+         <p id="tip-info">Posted on {{ post.date | date:"%B %e, %Y"}}</p>
 </section>
     {% endfor %}
     
