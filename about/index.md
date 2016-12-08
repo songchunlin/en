@@ -6,7 +6,11 @@ title: About
 
 ## Who Am I
 
-My name is Chunlin Song (Chinese character "宋春林", means spring forest), which pronounced like *Tren-lean Soong*. I was born in a small viliage in south Shannxi  Province, China. I am currently a Ph.D. candidate major in Physical Geography at the Institute of Mountain Hazards and Environment, Chinese Academy of Sciences and the University of Chinese Academy of Sciences. I always have a strong drive to learn new things and enthusiasm about earth sciences. I'm a self-motivated person and delighted to solve problems.
+My name is Chunlin Song (Chinese character "宋春林", means spring forest), which pronounced like *Tren-lean Soong*. I was born in a small village in southern Shaanxi  Province, China. I am currently a Ph.D. candidate at the [Institute of Mountain Hazards and Environment](http://english.imde.cas.cn/){:target="_blank"}, [Chinese Academy of Sciences](http://english.cas.cn/){:target="_blank"} and the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/){:target="_blank"}. I studied Hydrology and Water Resources Engineering in [Sichuan University](http://www.scu.edu.cn/en/){:target="_blank"} from 2009 to 2013. After that, I joined the Chengdu-based Institute of Mountain Hazards and Environment, Chinese Academy of Sciences and majored in Physical Geography. 
+
+Carbon transport in the aquatic ecosystem is important to terrestrial carbon accounting and ecosystem services. The mechanisms of carbon transport among different scales are poorly understood. It's hypothesized that hydrological processes play important roles in water channel carbon transport. So I chose to focus my research work on the relationship of riverine carbon transport and hydrological processes. My research sites include [the Qinghai-Tibet Plateau](https://en.wikipedia.org/wiki/Tibetan_Plateau){:target="_blank"} and [Yangtze River](https://en.wikipedia.org/wiki/Yangtze){:target="_blank"} upstream. My doctoral work is intended to elucidate how hydrological processes impact riverine carbon and sediments transport across different scales. I am also interested in vertical carbon release from the water body and I want to know the greenhouse gas emissions of rivers and lakes in the degrading permafrost region of the Qinghai-Tibet Plateau. 
+
+I always have a strong drive to learn new things and a lot of enthusiasm for earth science. I'm a self-motivated person and delighted to solve problems.
 
 ## My Hobby 
 
