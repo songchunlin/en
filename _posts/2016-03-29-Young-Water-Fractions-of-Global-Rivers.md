@@ -17,10 +17,10 @@ The time spent by river water is crucial for predicting the retention, mobility 
 
 More and more deep groundwater is likely to be extracted for expanded population, I'm wondering will this change the young water fraction? Since we already know the older water fraction (one minus F<sub>yw</sub>, older than three month) of global river, what are the age composition of the old water fraction? What is the fraction of older water over one year or ten years old? Where is the older water come from? To what extent the older water impact water quality? 
 
-**More information:** Kirchner, J. W.: Aggregation in environmental systems – Part 1: Seasonal tracer cycles quantify young water fractions, but not mean transit times, in spatially heterogeneous catchments, Hydrol. Earth Syst. Sci., 20, 279-297, doi:[10.5194/hess-20-279-2016](http://www.hydrol-earth-syst-sci.net/20/299/2016/), 2016.
+**More information:** Kirchner, J. W. Aggregation in environmental systems – Part 1: Seasonal tracer cycles quantify young water fractions, but not mean transit times, in spatially heterogeneous catchments, Hydrol. Earth Syst. Sci., 20, 279-297, doi:[10.5194/hess-20-279-2016](http://www.hydrol-earth-syst-sci.net/20/299/2016/), 2016.
 
-Kirchner, J. W.: Aggregation in environmental systems – Part 2: Catchment mean transit times and young water fractions under hydrologic nonstationarity, Hydrol. Earth Syst. Sci., 20, 299-328, doi:[10.5194/hess-20-299-2016](http://www.hydrol-earth-syst-sci.net/20/279/2016/), 2016.
+Kirchner, J. W. Aggregation in environmental systems – Part 2: Catchment mean transit times and young water fractions under hydrologic nonstationarity, Hydrol. Earth Syst. Sci., 20, 299-328, doi:[10.5194/hess-20-299-2016](http://www.hydrol-earth-syst-sci.net/20/279/2016/), 2016.
 
-Scott Jasechko, James W. Kirchner, Jeffrey M. Welker & Jeffrey J. McDonnell. Substantial proportion of global streamflow less than three months old. Nature Geoscience 9, 126–129 (2016), doi:[10.1038/ngeo2636](http://www.nature.com/ngeo/journal/v9/n2/full/ngeo2636.html).
+Scott Jasechko et al. Substantial proportion of global streamflow less than three months old. Nature Geoscience 9, 126–129 (2016), doi:[10.1038/ngeo2636](http://www.nature.com/ngeo/journal/v9/n2/full/ngeo2636.html).
 
 

@@ -6,17 +6,23 @@ tags: [river carbon,carbon cycle,human activities, aged carbon]
 comments: yes
 ---
 
-Riverine transported carbon is an important flux for carbon cycle accounting. Both anthropogenic and natural factors will affect the river export of carbon.
+Human activities have greatly change the exchange of carbon between different carbon pools. Riverine transported carbon is an important flux for carbon cycle accounting. Both anthropogenic and natural factors will affect the riverine export of carbon. Many studies have shown that human activities have a significant influence on the carbon flux of rivers.
 
-Similar results were found in the Yellow River. Wang et al. (2015) used 60 years of runoff and sediment load data from the Yellow River over China’s Loess Plateau (which is the source of nearly 90% of Yellow River’s sediment load). The results show that landscape engineering, terracing, dams and reservoirs trapping, and large-scale vegetation restoration projects significantly reduced the sediment load. Although it is not about the carbon transport, I guess the results have strong implications on carbon flux since the sediments and carbon fluxes in river channel are generally positively correlated with each other. 
+Raymond et al. (2008) used a 100-year dataset from the Mississippi River to reveal the drivers of bicarbonate flux. The results showed that agricultural practices clearly increased the export of carbon and discharge of the Mississippi. The authors argued that anthropogenically landscape change is the main driver of inorganic carbon flux of the Mississippi.
 
-Song et al. (2016) analyzed a dataset among Chinese river and concluded that human activities like dam construction and vegetation restoration in recent decades have a greater influence than climate on the transport of riverine carbon across China. 
+A quantitive synthesis of published work estimated that anthropogenic perturbation such as deforestation, agricultural intensification, and the Sewage inputs may have increased the carbon fluxes from land to rivers by 0.2 pentagrams per year (Pierre Regnier et al. 2013). These impact by human also leads to old carbon release. A study performed by Butman et al. (2014) with global radiocarbon data demonstrated that the age of dissolved organic carbon in rivers positively correlated with population density and the proportion of human-dominated landscapes within a watershed. Human disturbance has introduced the aged carbon to the modern carbon cycle.
 
-**More information:** Raymond, P. A., Oh, N. H., Turner, R. E., & Broussard, W. (2008). Anthropogenically enhanced fluxes of water and carbon from the Mississippi River. Nature, 451(7177), 449-452, doi: [10.1038/nature06505](http://www.nature.com/nature/journal/v451/n7177/full/nature06505.html).
+Different results were found in China, which is a country that has undergone maybe the most drastic land use change in the world for the past decades. Wang et al. (2015) used 60 years of runoff and sediment load data from the Yellow River over China’s Loess Plateau (which is the source of nearly 90% of Yellow River’s sediment load). The results show that landscape engineering, terracing, dams and reservoirs trapping, and large-scale vegetation restoration projects significantly reduced the sediment load. Although it is not about the carbon transport, I guess the results have strong implications on carbon flux since the sediments and carbon fluxes in river channel are generally positively correlated with each other. Song et al. (2016) analyzed a dataset among Chinese river and concluded that human activities like dam construction and vegetation restoration in recent decades have a greater influence than climate on the transport of riverine carbon across China. 
 
-Butman, D. E., Wilson, H. F., Barnes, R. T., Xenopoulos, M. A., & Raymond, P. A. (2015). Increased mobilization of aged carbon to rivers by human disturbance. Nature Geoscience, 8(2), 112-116, doi:[10.1038/ngeo2322](http://www.nature.com/ngeo/journal/v8/n2/abs/ngeo2322.html).
+Summing up, human activities have drastically perturbed riverine carbon cycle by increasing or decreasing carbon fluxes in the rivers. They must be considered in carbon cycle accounting and will only be more important in a changing world.
 
-Shuai Wang,	Bojie Fu,	Shilong Piao,	Yihe Lü,	Philippe Ciais, Xiaoming Feng & Yafeng Wang (2016). Reduced sediment transport in the Yellow River due to anthropogenic changes. Nature Geoscience 9, 38–41, doi:[10.1038/ngeo2602](http://www.nature.com/ngeo/journal/v9/n1/full/ngeo2602.html).
+**More information:** Raymond, P. A. et al. (2008). Anthropogenically enhanced fluxes of water and carbon from the Mississippi River. Nature, 451(7177), 449-452, doi: [10.1038/nature06505](http://www.nature.com/nature/journal/v451/n7177/full/nature06505.html).
 
-Chunlin Song, Genxu Wang, Xiangyang Sun, Ruiying Chang, Tianxu Mao. Control factors and scale analysis of annual river water, sediments and carbon transport in China. Scientific Reports 6, 25963; DOI: [10.1038/srep25963](http://www.nature.com/articles/srep25963) (2016).
+Regnier, P. et al (2013). Anthropogenic perturbation of the carbon fluxes from land to ocean. Nature Geoscience 6, 597–607 (2013), doi:[10.1038/ngeo1830](http://www.nature.com/ngeo/journal/v6/n8/full/ngeo1830.html).
+
+Butman, D. E. et al. (2015). Increased mobilization of aged carbon to rivers by human disturbance. Nature Geoscience, 8(2), 112-116, doi:[10.1038/ngeo2322](http://www.nature.com/ngeo/journal/v8/n2/abs/ngeo2322.html).
+
+Shuai Wang et al. (2016). Reduced sediment transport in the Yellow River due to anthropogenic changes. Nature Geoscience 9, 38–41, doi:[10.1038/ngeo2602](http://www.nature.com/ngeo/journal/v9/n1/full/ngeo2602.html).
+
+Chunlin Song et al. (2016). Control factors and scale analysis of annual river water, sediments and carbon transport in China. Scientific Reports 6, 25963; DOI: [10.1038/srep25963](http://www.nature.com/articles/srep25963).
 

@@ -13,4 +13,4 @@ The land of China is suffering water erosion for a long time, which caused 180 �
 
 This study highlights the water erosion on carbon sink, and also allow us to achieve better understandings of terrestrial carbon accounting. It's very inspiring and interesting that water erosion will cause carbon sequestration. Erosion is not as bad as we thought before, at least it brings significant carbon sink.
 
-**More information:** Yue, Yao, Jinren Ni, Philippe Ciais, Shilong Piao, Tao Wang, Mengtian Huang, Alistair GL Borthwick et al (2016). Lateral transport of soil carbon and land− atmosphere CO<sub>2</sub> flux induced by water erosion in China. Proceedings of the National Academy of Sciences, 113(24), 6617-6622, doi: [10.1073/pnas.1523358113](http://www.pnas.org/content/113/24/6617.abstract)
+**More information:** Yue Yao et al. (2016). Lateral transport of soil carbon and land− atmosphere CO<sub>2</sub> flux induced by water erosion in China. Proceedings of the National Academy of Sciences, 113(24), 6617-6622, doi: [10.1073/pnas.1523358113](http://www.pnas.org/content/113/24/6617.abstract)
