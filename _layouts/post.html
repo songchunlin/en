@@ -21,7 +21,7 @@ layout: default
 
 {% if page.categories %}
 <span class="categories">
-categories
+categories:
   {% for cat in page.categories %}
   <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
   {% endfor %}
@@ -36,7 +36,10 @@ categories
 </span>
 {% endif %}
 </section>
-{% include comments.md %}
+{% if page.comments %}
+{% include comments.md %}                                  
+{% endif %}
+
 <script type="text/javascript">
 $(function(){
   $(document).keydown(function(e) {
@@ -72,3 +75,4 @@ MathJax.Hub.Queue(function() {
 		all[i].SourceElement().parentNode.className += ' has-jax';
 	}
 });
+</script>
