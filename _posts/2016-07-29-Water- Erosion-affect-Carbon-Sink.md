@@ -1,5 +1,5 @@
 ---
-title: Water Erosion and Carbon Sink
+title: Water Erosion affect Carbon Sink
 layout: post
 categories: [carbon]
 tags: [carbon cycle,carbon dioxide,soil carbon,water erosion,China]
