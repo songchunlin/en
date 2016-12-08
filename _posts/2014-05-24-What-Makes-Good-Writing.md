@@ -1,7 +1,8 @@
 ---
 title: What Makes Good Writing
 layout: post
-tags: [Writing]
+categories:[life]
+tags: [writing]
 comments: yes
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Organic Carbon Decomposition Correlated with Water Retention Time
 layout: post
-tags: [Organic Carbon,Water Retention Time,Carbon Cycle]
+categories:[carbon]
+tags: [organic carbon,water retention time,carbon cycle,river carbon]
 comments: yes
 ---
 
@@ -16,3 +17,5 @@ Catalán et al. compiled 315 measurements of organic carbon decay rates, which 
 where k is the organic carbon decomposition rates (sensitive to the effect of temperature), WRT is the water retention time (the ratio of the mass of a scalar in a water body to the rate of renewal of the scalar). This model indicates that the longer the water retention time, the lower the organic carbon decomposition rates.
 
 In addition, the authors calculated the concomitant changes in water retention time of water body in a 2 degrees warmer world. The estimated future redistribution of the organic carbon decay rates shows a decrease in the Mediterranean biome (around −13%) and an increase in the boreal and tundra biomes (around 10%).
+
+**More information:** Núria Catalán, Rafael Marcé, Dolly N. Kothawala & Lars. J. Tranvik. Organic carbon decomposition rates controlled by water retention time across inland waters. Nature Geoscience 9, 501–504 (2016), doi:[10.1038/ngeo2720](http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo2720.html).

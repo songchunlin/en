@@ -1,7 +1,8 @@
 ---
 title: Some Ridiculous Things in China
 layout: post
-tags: [China,Culture]
+categories:[life]
+tags: [Chinese culture]
 comments: yes
 ---
 

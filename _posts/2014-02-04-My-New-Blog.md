@@ -1,7 +1,8 @@
 ---
 title: My New Blog
 layout: post
-tags: [WordPress,Writing,Blog]
+categories:[life]
+tags: [wordpress,writing,blog]
 comments: yes
 ---
 
