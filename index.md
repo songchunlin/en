@@ -17,6 +17,6 @@ layout: page
     {% endfor %}
     
     <p>
-   <h2> <a href="{{ site.url }}/categories" title="See all posts by categories">SEE ALL POSTS &raquo;</a></h2>
+   <h2> <a href="{{ site.url }}/categories" title="See all posts via categories">SEE ALL POSTS &raquo;</a></h2>
     </p>
 </div>
