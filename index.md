@@ -17,6 +17,6 @@ layout: page
     {% endfor %}
     
     <p>
-   <h2> <a href="{{ site.url }}/archive" title="See all posts">More &raquo;</a></h2>
+   <h2> <a href="{{ site.url }}/archive" title="See all posts">SEE ALL POSTS &raquo;</a></h2>
     </p>
 </div>
