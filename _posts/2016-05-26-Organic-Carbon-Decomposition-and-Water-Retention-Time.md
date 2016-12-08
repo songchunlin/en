@@ -1,7 +1,7 @@
 ---
 title: Organic Carbon Decomposition Correlated with WRT
 layout: post
-categories: [carbon]
+categories: [CARBON]
 tags: [organic carbon,water retention time,carbon cycle,river carbon]
 comments: yes
 ---

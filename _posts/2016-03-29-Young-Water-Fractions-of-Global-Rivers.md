@@ -1,7 +1,7 @@
 ---
 title: Young Water Fractions of Global Rivers
 layout: post
-categories: [hydrology]
+categories: [HYDROLOGY]
 tags: [hydrology,isotope,young water fraction,river,precipitation]
 comments: yes
 ---

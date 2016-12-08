@@ -1,7 +1,7 @@
 ---
 title: Culture difference between Australia and UK
 layout: post
-categories: [life]
+categories: [LIFE]
 tags: [Australia,UK,culture]
 comments: yes
 ---

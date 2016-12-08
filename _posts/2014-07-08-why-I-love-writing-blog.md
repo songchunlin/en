@@ -1,7 +1,7 @@
 ---
 title: Why I Love Blogging
 layout: post
-categories: [life]
+categories: [LIFE]
 tags: [wordpress,writing,blog,jekyll]
 comments: yes
 ---
