@@ -1,7 +1,7 @@
 ---
 title: Water Erosion and Carbon Sink
 layout: post
-categories:[carbon]
+categories: [carbon]
 tags: [carbon cycle,carbon dioxide,soil carbon,water erosion,China]
 comments: yes
 ---

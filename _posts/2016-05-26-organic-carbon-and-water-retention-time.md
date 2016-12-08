@@ -1,7 +1,7 @@
 ---
 title: Organic Carbon Decomposition Correlated with Water Retention Time
 layout: post
-categories:[carbon]
+categories: [carbon]
 tags: [organic carbon,water retention time,carbon cycle,river carbon]
 comments: yes
 ---

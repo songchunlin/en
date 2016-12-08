@@ -1,7 +1,7 @@
 ---
 title: Human Activities and Riverine Carbon Flux
 layout: post
-categories:[carbon]
+categories: [carbon]
 tags: [river carbon,carbon cycle,human activities, aged carbon]
 comments: yes
 ---

@@ -1,7 +1,7 @@
 ---
 title: Beijing in My Eyes
 layout: post
-categories:[life]
+categories: [life]
 tags: [Beijing,travel]
 comments: yes
 ---
