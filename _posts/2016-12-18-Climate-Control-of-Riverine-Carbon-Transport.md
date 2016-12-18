@@ -2,7 +2,7 @@
 title: Climate Control of Riverine Carbon Transport
 layout: post
 categories: [CARBON]
-tags: [river carbon,carbon cycle,climate change, aged carbon]
+tags: [river carbon,carbon cycle,climate change]
 comments: yes
 ---
 
