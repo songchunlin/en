@@ -16,13 +16,13 @@ Different results were found in China, which is a country that has undergone may
 
 Summing up, human activities have drastically perturbed riverine carbon cycle by increasing or decreasing carbon fluxes in the rivers. They must be considered in carbon cycle accounting and will only be more important in a changing world.
 
-**More information:** Raymond, P. A. et al. (2008). Anthropogenically enhanced fluxes of water and carbon from the Mississippi River. Nature, 451(7177), 449-452, doi: [10.1038/nature06505](http://www.nature.com/nature/journal/v451/n7177/full/nature06505.html).
+**More information:** Raymond, P. A. et al. (2008). Anthropogenically enhanced fluxes of water and carbon from the Mississippi River. Nature, 451(7177), 449-452, doi: [10.1038/nature06505](https://doi.org/10.1038/nature06505).
 
-Regnier, P. et al (2013). Anthropogenic perturbation of the carbon fluxes from land to ocean. Nature Geoscience 6, 597–607 (2013), doi:[10.1038/ngeo1830](http://www.nature.com/ngeo/journal/v6/n8/full/ngeo1830.html).
+Regnier, P. et al (2013). Anthropogenic perturbation of the carbon fluxes from land to ocean. Nature Geoscience 6, 597–607 (2013), doi:[10.1038/ngeo1830](https://doi.org/10.1038/ngeo1830).
 
-Butman, D. E. et al. (2015). Increased mobilization of aged carbon to rivers by human disturbance. Nature Geoscience, 8(2), 112-116, doi:[10.1038/ngeo2322](http://www.nature.com/ngeo/journal/v8/n2/abs/ngeo2322.html).
+Butman, D. E. et al. (2015). Increased mobilization of aged carbon to rivers by human disturbance. Nature Geoscience, 8(2), 112-116, doi:[10.1038/ngeo2322](https://doi.org/10.1038/ngeo2322).
 
-Shuai Wang et al. (2016). Reduced sediment transport in the Yellow River due to anthropogenic changes. Nature Geoscience 9, 38–41, doi:[10.1038/ngeo2602](http://www.nature.com/ngeo/journal/v9/n1/full/ngeo2602.html).
+Shuai Wang et al. (2016). Reduced sediment transport in the Yellow River due to anthropogenic changes. Nature Geoscience 9, 38–41, doi:[10.1038/ngeo2602](https://doi.org/10.1038/ngeo2602).
 
-Chunlin Song et al. (2016). Control factors and scale analysis of annual river water, sediments and carbon transport in China. Scientific Reports 6, 25963; DOI: [10.1038/srep25963](http://www.nature.com/articles/srep25963).
+Chunlin Song et al. (2016). Control factors and scale analysis of annual river water, sediments and carbon transport in China. Scientific Reports 6, 25963; DOI: [10.1038/srep25963](https://doi.org/10.1038/srep25963).
 
