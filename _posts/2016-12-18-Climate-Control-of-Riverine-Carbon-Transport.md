@@ -14,7 +14,7 @@ Similar results were found in other 30 boreal Finnish rivers (Mattsson et al., 2
 
 In Mississippi River Basin, Dynamic Land Ecosystem Model (DLEM) shows that climate variability and extreme events (such as flooding and drought) were primary drivers of the seasonal and interannual carbon export variations (Tian et al., 2015). The maximum of carbon fluxes occurred in wet years.
 
-As climate keep warming, the high-latitude regions are considered to be more sensitive to climate change. Thus riverine carbon export in such regions is dominated by climate factors. On the other hand, global climate change will increase the incidence of extreme events, which will significantly modify the riverine carbon transport process. The “pulse” and “shunt” of hydrological events may trigger a large amount of carbon release to aquatic systems (Raymond et al., 2016).
+As the climate keep warming, the high-latitude regions are considered to be more sensitive to climate change. Thus riverine carbon export in such regions is dominated by climate factors. On the other hand, global climate change will increase the incidence of extreme events, which will significantly modify the riverine carbon transport process. The “pulse” and “shunt” of hydrological events may trigger a large amount of carbon release to aquatic systems (Raymond et al., 2016).
 
 In conclusion, the climate impact on riverine carbon export is globally exists. Not only in the sensitive zones, but also in general regions. Climate variations modify hydrological and biogeochemical cycles in different levels and patterns.
 
