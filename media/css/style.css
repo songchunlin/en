@@ -239,7 +239,7 @@ line-height:30px;
 
 h1{
 font-family: "proxima-nova",Helvetica,sans-serif;
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-weight: 300;
   line-height: 1.5;
   margin-bottom: 14px;
@@ -278,7 +278,7 @@ h4{
 
 /* author credits */
   h5 {
-      font-size: 13px;
+      font-size: 14px;
       font-weight: normal;
       line-height: 1.3em;
       color: #202020;
