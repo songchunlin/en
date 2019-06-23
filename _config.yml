@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: /:year/:month/:title/
-url: http://songchunlin.net/en
+url: https://songchunlin.net/en
 author: Chunlin Song
 pygments: true
 highlighter: rouge
