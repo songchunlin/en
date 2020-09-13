@@ -5,18 +5,6 @@ title: Publications
 
 ##  [**ResearchGate**](https://www.researchgate.net/profile/Chunlin_Song4)
 
-**Peer-reviewed papers**
 
-- Chunlin Song, Genxu Wang, Guangsheng Liu, Tianxu Mao, Xiangyang Sun, Xiaopeng Chen. Stable isotope variations of precipitation and streamflow reveal the young water fraction of a permafrost watershed. Hydrological Processes, DOI: 10.1002/hyp.11077, 2016-11-11. (In Press)
+##  [**Google Scholar**](https://scholar.google.com/citations?user=ULVszuoAAAAJ)
 
-- Chunlin Song, Genxu Wang, Xiangyang Sun, Ruiying Chang, Tianxu Mao. Control factors and scale analysis of annual river water, sediments and carbon transport in China. Scientific Reports 6, 25963; DOI: 10.1038/srep25963 (2016).
-
-- SONG Chunlin, SUN Xiangyang, WANG Genxu. A study on precipitation stable isotopes characteristics and vapor sources of the subalpine Gongga Mountain, China. Resources and Environment in the Yangtze Basin, 24, 1860-1869 (2015). (in Chinese with English Abstract)
-
-- SONG Chunlin, SUN Xiangyang, WANG Genxu. A review on carbon and water interactions of forest ecosystem and its impact factors. Chinese Journal of Applied Ecology, 26, 2891-2902 (2015).  (in Chinese with English Abstract)
-
-**Patents**
-
-- SONG Chunlin, SUN Xiangyang, HU Zhaoyong, WANG Genxu. A vacuum porous core filter device. Chinese utility model patent (Issued No. ZL201520272366.4), 2015-09-16.
-
-- SONG Chunlin, WANG Genxu, SUN Xiangyang. A water surface greenhouse gas auto-sampler chamber. Chinese utility model patent (Issued No. ZL201620140461.3), 2016-07-15.
